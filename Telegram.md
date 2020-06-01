@@ -336,6 +336,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Full Music Albums](https://anonym.to/?https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!
 - [Melodic Musics](https://anonym.to/?https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
 - [Music Archive](https://anonym.to/?https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
+- [@MeditationHeadspaceMp3](https://anonym.to/?https://t.me/MeditationHeadspaceMp3) - A large collection of music, downloadable within Telegram.
+- [@HeadSpaceChannel](https://anonym.to/?https://t.me/HeadSpaceChannel) - A large collection of music, downloadable within Telegram.
 
 **[`^        back to top        ^`](#)**
 
@@ -519,6 +521,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [WiLd's Occult Ebook Dump](https://anonym.to/?https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
 - [jhusbooks](https://anonym.to/?https://t.me/joinchat/AAAAAEGe-ebJ--qN4LI3ng)
 - [mfmixebooks](https://anonym.to/?https://t.me/mfmixebooks)
+- [@philosophybooks](https://anonym.to/?https://t.me/philosophybooks)
+
 
 ### Telegram Chats regarding eBooks
 - [@agoramagica](https://anonym.to/?https://t.me/agoramagica)
@@ -804,7 +808,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
-### Maintainance Bots
+### Maintenance Bots
 - [@sscapachebot](https://anonym.to/?https://t.me/sscapachebot) - Glass Button creating Bot.
 - [@storebot](https://anonym.to/?https://t.me/storebot) - Channel Introducing.
 - [@tchannelsbot](https://anonym.to/?https://t.me/tchannelsbot) - Channel Introducing.

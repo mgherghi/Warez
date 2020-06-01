@@ -88,7 +88,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [MaxRelease](https://anonym.to/?http://max-rls.com/) - (`insecure`) - Games, software, magazines, movies, music & tv shows.
 - [rlsbb](https://anonym.to/?http://rlsbb.ru/) - (`RU/ENG`) - Daily Source of Awesome Stuff.
 - [HotAnime](https://anonym.to/?http://hotanime.me/) - Subs and dubs, lots of banner ads, pop-ins, possibly self-hosted videos, downloadable (via OpenLoad).Banner ads, multiple sources, eng & german subs, captcha.
-
+- www1.netcrack.com
 
 
 ### Anime & Cartoon Streaming (720p)
@@ -268,13 +268,8 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Academic Torrents](https://anonym.to/?http://academictorrents.com/) - (`insecure`) - A Community-Maintained Distributed Repository for researchers, by researchers.
 
 
-
-
-
-
-
-
-
+## Torrent
+- http://rutor.is/
 
 
 ### Magazines
@@ -590,3 +585,4 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 ## Movies
 - http://movie-blog.sx/
 - mkvChinemas.com (watermark)
+- http://crazy4tv.com (no tls)

@@ -243,7 +243,7 @@
 
 
 ## Spotify
-- [Dockerized Spotify downloader with metadataOC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
+- [Dockerized Spotify downloader with metadata](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/ew5cus/dockerized_spotify_downloader_with_metadata/)
 
 
 ## Wii
@@ -254,5 +254,17 @@
 
 ## Cloud Encryption
 - [Encrypt Your Files Before Uploading it to Cloud With Cryptomator](https://anonym.to/?https://itsfoss.com/cryptomator/)
+
+**[`^        back to top        ^`](#)**
+
+
+## Pi-Hole
+- [[Guide] How to install WireGuard on a Raspberry Pi (full tunnel + split tunnel) using Pi-Hole as DNS.](https://anonym.to/?https://old.reddit.com/r/pihole/comments/bnihyz/guide_how_to_install_wireguard_on_a_raspberry_pi/)
+
+**[`^        back to top        ^`](#)**
+
+
+## Shared Drive (old name was Team Drive) Guides
+- [A complete guide of shared drive (Team drive)](https://anonym.to/?hhttps://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
 
 **[`^        back to top        ^`](#)**

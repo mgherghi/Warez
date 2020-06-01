@@ -480,6 +480,7 @@ Downloads albums in bulk.
 - [New Album Releases](https://anonym.to/?http://newalbumreleases.net/) - Premium DDL links for full albums.
 - [SMLoadr](https://anonym.to/?http://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) - A streaming music downloader.
 - [Soulseek](https://anonym.to/?http://www.soulseekqt.net/news/) - Soulseek is an ad-free, spyware free, just plain free file sharing network for Windows, Mac and Linux.
+- [Deemix](https://anonym.to/?https://notabug.org/RemixDev/deemix) - A uccessor of deezloaderrmx, there is also a [WeUI](https://anonym.to/?https://notabug.org/RemixDev/deemix-pyweb)/& [Docker Image](https://anonym.to/?https://github.com/Bockiii/deemix-docker)
 
 **[`^        back to top        ^`](#)**
 
@@ -1081,8 +1082,11 @@ Overall strategy:
 ## Wi-Fi Access point attack tools
 - [wifipumpkin3](https://anonym.to/?https://github.com/P0cL4bs/wifipumpkin3) - Powerful framework for rogue access point attack. An Overvie website is [here](https://anonym.to/?http://wifipumpkin3.github.io/).
 
-
 **[`^        back to top        ^`](#)**
 
 
+## Scribd Tools
+- [SCRIMTEC](https://anonym.to/?https://github.com/BELGRADE-OUTLAW/SCRIMTEC) - SCRIbd MPUB To EPUB Converter.
+
+**[`^        back to top        ^`](#)**
 

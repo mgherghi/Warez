@@ -132,7 +132,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 - [Get Free Google Shared Drive](https://anonym.to/?https://td.fastio.me/ - Create your own TeamDrive for free.
-- [whatintheworld](https://anonym.to/?hhttps://whatintheworld.xyz/) - Search Team Drives resources.
+- [whatintheworld](https://anonym.to/?https://whatintheworld.xyz/) - Search Team Drives resources.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -359,7 +359,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Website archiving tools
-- [Wikipedia's List of Web archiving initiatives](https://anonym.to/?hhttps://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
+- [Wikipedia's List of Web archiving initiatives](https://anonym.to/?https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
 - [SingleFile](https://anonym.to/?https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
 - [ArchiveBox](https://anonym.to/?https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [monolith](https://anonym.to/?https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
@@ -692,6 +692,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HD-Spain](https://anonym.to/?https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [Telly.CC](https://anonym.to/?hhttps://telly.cc/login) - Movie tracker website.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -848,8 +849,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [βTorrent](https://anonym.to/?https://btorrent.xyz/) - Fully-featured [WebTorrent](https://anonym.to/?https://webtorrent.io/) - browser client written in HTML, JS and CSS.
 - [Magnet Player](https://anonym.to/?https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
 - [zbigz](https://anonym.to/?https://zbigz.com/) - Anonymous file downloads.
-- [Torrents Time](https://anonym.to/?https://torrents-time.com/)
-- [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/)
+- [Torrents Time](https://anonym.to/?https://torrents-time.com/) - Torrents-Time is a browser plugin that allows websites to have the same functionality as the popular Popcorn Time program, without requiring the client to download an application.
+- [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/) - Download Torrent URLs Anonymously, No registration, No software, No logging. Free trial.
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -901,6 +903,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Seedr](https://anonym.to/?https://seedr.cc/) + ([mirror](https://anonym.to/?https://streamza.com/)) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
 - [Streamza](https://anonym.to/?https://streamza.com/)
 - [ZBIgZ](https://anonym.to/?https://www.zbigz.com/) - ZBIGZ anonymous torrent cloud client #1.
+- [Premiumize](https://anonym.to/?https://www.premiumize.me/) - All in One Cloud-Downloading, Download manager and Cloud Storage directly in your browser.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1073,8 +1076,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Good-Old-Downloads/gg](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [Good-Old-Downloads (GitHub source code)](https://anonym.to/?https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://anonym.to/?https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://anonym.to/?https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [MachineGunnur/GOG-Games](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
-- [Torminatorr.com](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
-- [GOG-Games](https://anonym.to/?http://gog-games.com) - GoG Games - DD
+- [Torminatorr](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
+- [GOG-Games](https://anonym.to/?http://gog-games.com) - GoG Games - Archive and backups.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1140,7 +1143,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [UpTown](https://anonym.to/?https://en.uptodown.com/) - Software portal.
 - [UHDMV](https://anonym.to/?https://uhdmv.com/) - Yet another alternative to the popular Snahp website.
 - [Vidics](https://anonym.to/?https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
-- [Warez-BB-org](https://anonym.to/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
+- [Warez-BB](https://anonym.to/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
 - [WarezForums](https://anonym.to/?https://warezforums.com/) - (EN/US) - Warez forum with films, TV shows, ebooks, anime, games, and more via G-Drive and Mega.
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
@@ -1148,6 +1151,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [up4pc](https://anonym.to/?https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
 - [CB01.uno](https://anonym.to/?https://cb01.gallery/) - (`IT`) - Movies, TV Shows and Animes.
 - [Digiboy](https://anonym.to/?https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
+- [downloadha](https://anonym.to/?https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1325,6 +1329,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Videoneat](https://anonym.to/?https://videoneat.com/) - Documentaries/Science Movies
 - [WatchAsian](https://anonym.to/?https://www2.watchasian.co/)
 - [WTvF!](https://anonym.to/?https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - Youtube Grindhouse
+- [Mvgroup Forum](https://anonym.to/?https://forums.mvgroup.org/) - Documentaries & Movies.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1473,9 +1478,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-
 #### Free Plex Accounts
-- [Plex.tv](https://anonym.to/?hhttps://www.plex.tv/sign-up/) - Create your FREE Plex account, no credit card required.
+- [Plex.tv](https://anonym.to/?https://www.plex.tv/sign-up/) - Create your FREE Plex account, no credit card required.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1560,12 +1564,18 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### ROM BIOS
 - [xprism's BIOS collection](https://anonym.to/?https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1) - BIOS collection for Computers, Emulators, Consoles and "obscure consoles" via GDrive.
 
+**[`^        back to top        ^`](#readme)**
+
+
+### ROMs
+- [Rom Center paste edition](https://anonym.to/?https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - Paste edition from the original [ROM's MegaThread](https://anonym.to/https://old.reddit.com/r/Roms/comments/gar3bc/roms_megathread_, basically a lin/archive collection of various game console ROMs.
 
 **[`^        back to top        ^`](#readme)**
 
 
 ### Good Old Download alternatives (mirrors)
 - [GOD Games](https://anonym.to/?https://god-games.com/) - GOD is alive.
+- [Scenegames](https://anonym.to/?https://scenegames.to/) - GoD  scene releases.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1606,7 +1616,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Warmane](https://anonym.to/?https://www.warmane.com/) - Hosts private WoW Servers.
 - [Gamestorrents](https://anonym.to/?http://gamestorrents.tv) - Provides various video games.
 - [r/PiratedGame](https://anonym.to/?https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
-- [Mabandonware](https://anonym.to/?hhttps://www.myabandonware.com/) - Old(er) Video games.
+- [Mabandonware](https://anonym.to/?https://www.myabandonware.com/) - Old(er) Video games.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1766,7 +1776,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Toonova](https://anonym.to/?http://www.toonova.net/) - You can watch cartoon online, free series and movies and in English.
 - [Supercartoons](https://anonym.to/?https://www.supercartoons.net/) - Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!
 - [b98](https://anonym.to/?https://www.b98.tv/) - Watch Free Classic Cartoons Online (Merrie Melodies, Looney Tunes, Bugs Bunny, Mickey Mouse, Tom and Jerry, Pink Panther and More...)
-- [](https://anonym.to/?https://serieslan.com/) - (`ES`) - Spanish website for cartoons.
+- [Serieslan](https://anonym.to/?https://serieslan.com/) - (`ES`) - Spanish website for cartoons.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1838,7 +1848,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [mathhelp](https://anonym.to/?https://www.mathhelp.com/) - Free math tutorials.
 - [mathonline](https://anonym.to/?http://mathonline.wikidot.com/) - Free math tutorials.
 - [Brightstorm](https://anonym.to/?https://www.brightstorm.com/) - 5300 video lessons by expert teachers. 5300 video lessons cover pre-algebra, algebra, geometry, algebra 2, trigonometry, precalculus, calculus in math,
-- [O'Reilly](https://anonym.to/?hhttps://www.oreilly.com/) - Tech, Programming, infinite free trial by clearing/blocking cookies.
+- [O'Reilly](https://anonym.to/?https://www.oreilly.com/) - Tech, Programming, infinite free trial by clearing/blocking cookies.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1865,13 +1875,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Spotify
 - [Block Spotify Updates on MacOS](https://anonym.to/?https://donotupdatespotify.sh/) - A guide is avbl. [here](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/).
-- [BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) + [Fork](https://anonym.to/?hhttps://github.com/mrpond/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
+- [BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) + [Fork](https://anonym.to/?https://github.com/mrpond/BlockTheSpot) - Video, Audio & Banner ad-block/skip for Spotify.
 - [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
 - [Spotifree](https://anonym.to/?https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://anonym.to/?https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
 - [Spotify Downloader](https://anonym.to/?https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
 - [Spytify](https://anonym.to/?https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
-- [XSPotify](https://anonym.to/?https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass.
+- [XpoMusic](https://anonym.to/?https://github.com/MahdiGhiasi/XpoMusic)) - A modern Spotify experience for Windows 10.
 - [spotr](https://anonym.to/?https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
 
 **[`^        back to top        ^`](#readme)**
@@ -1912,7 +1922,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [PirateCity](https://anonym.to/?https://www.piratecity.net) - Various Software releases.
 - [CrackHomes](https://anonym.to/?https://crackhomes.com) - Yet another release page.
 - [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
-- [ProFreeCrack](https://anonym.to/?hhttps://profreecrack.com) - Provides cvracks for various programs.
+- [ProFreeCrack](https://anonym.to/?https://profreecrack.com) - Provides cvracks for various programs.
 
 **[`^        back to top        ^`](#readm
 ### Software Repacks
@@ -2045,8 +2055,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## College Textbooks
-- [Z-Libary](https://anonym.to/?https://b-ok.cc/) - A lot textbooks which hosts books directly.
 - [epdf](https://anonym.to/?https://epdf.pub/) - Write a book, elevate your profile, build a business - Upload ideas and beginner tips to get you started.
+- [Z-Libary](https://anonym.to/?https://b-ok.cc/) - A lot textbooks which hosts books directly.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2432,11 +2442,19 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [OK.ru](https://anonym.to/?https://ok.ru/videos/) - (`RU`) - Legal and other videos, differnt quality, mostly 720p.
 
 **[`^        back to top        ^`](#readme)**
+
+
 ### Rarfilms
 <!-- markdown-link-check-disable -->
 - [Rarfilm](https://anonym.to/?http://rarefilm.net/)
 <!-- markdown-link-check-enable -->
+**[`^        back to top        ^`](#readme)**
 
+
+### 60 FPS Movies
+- [60 FPS Movies](https://anonym.to/?https://60-fps.org/) - (`RU`) - 60 Movies only.
+
+**[`^        back to top        ^`](#readme)**
 
 ### 1080p Streaming
 - [0123movies](https://anonym.to/?https://www.0123moviesback.com/)
@@ -2499,7 +2517,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (FR)
 - [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
 - [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
-- [magellantv](https://anonym.to/?hhttps://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
+- [magellantv](https://anonym.to/?https://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
 - [HEVCBay](https://anonym.to/?https://hevcbay.com/) - Provides Movies.
 - [x265 Movies](https://anonym.to/?https://x265movies.co/) - x265 Movies provides Movies and TV shows.
 - [HugeWarez](https://anonym.to/?http://hugewarez.net/movie/) - HugeWarez provides not only Movies but TV Shows and bunch of other things.
@@ -2609,7 +2627,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [The Ratio](https://anonym.to/?https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://anonym.to/?https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
 - [KissCommunity Discord](https://anonym.to/?https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
-- [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server. The Wiki open source Wiki can be found [here](https://anonym.to/?https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages), the Reddit Wiki is [here](https://anonym.to/?hhttps://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index).
+- [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server. The Wiki open source Wiki can be found [here](https://anonym.to/?https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages), the Reddit Wiki is [here](https://anonym.to/?https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index).
 - [TopNow.se](https://anonym.to/?https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
 
 **[`^        back to top        ^`](#readme)**
@@ -3320,6 +3338,11 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
 - [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source based Client for Chrome.
 - [Multcloud](https://anonym.to/?https://www.multcloud.com/) - Similar like Offcloud. Transfer and manage your multiple cloud files with one app. 100% Free.
+- [Transfercloud](https://anonym.to/?hhttps://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
+- [Put.io](https://anonym.to/?https://put.io/) - We fetch files from many public places at very high speeds, then put them into downloads.
+- [Boxopus](https://anonym.to/?https://boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
+- [Cloudload](https://anonym.to/?https://www.cloudload.com/login) - Safely stream and download with Cloudload. Movies, music, software and documents; from the web to your secure cloud account in seconds.
+- [zbigz](https://anonym.to/?https://zbigz.com/) - Any content available for download. Anonymous downloads: Safe & Secure. Download torrent easy on our site directly to Google Drive.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3346,6 +3369,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [Game Audio 2018](https://anonym.to/?https://sonniss.com/gameaudiogdc18/)
 - [Game Audio 2019](https://anonym.to/?https://sonniss.com/gameaudiogdc19/)
 - [Monthly new game audio files](https://anonym.to/?https://sonniss.com/gameaudiomonthly/)
+- [Videomaker free sound effects](https://anonym.to/?https://www.videomaker.com/downloads/free-sound-effects/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3381,3 +3405,11 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 - [GFX-Hub](https://anonym.to/?https://gfx-hub.net/) - Download GFX and other stuff.
 
 **[`^        back to top        ^`](#readme)**
+
+
+## Upload Files for Free
+- [uploadfiles](https://anonym.to/?https://uploadfiles.io/) - From files, images, music, video and more – Uploadfiles is a free and easy way to share your data
+- [GoFile](https://anonym.to/?https://gofile.io/welcome) - File sharing platform, anonymous and free.
+- [nofile]https://anonym.to/?http://nofile.io/) - (`GeoIP block`) - File sharing platform, anonymous and free.
+
+**[`^        back to top        ^`](#readme)
