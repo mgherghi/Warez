@@ -708,7 +708,7 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-### Media Manager Software
+##
 - [TinyMediaManager](https://anonym.to/?https://www.tinymediamanager.org/) - tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center.
 - [FileBot](https://anonym.to/?https://www.filebot.net/) - (`Paid`) - FileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork.
 - [Bazarr](https://anonym.to/?https://www./) - Bazarr is a companion application to Sonarr and Radarr that manages and organise your media.
