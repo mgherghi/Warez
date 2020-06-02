@@ -462,12 +462,11 @@ Downloads albums in bulk.
 - [FlixGrab](https://anonym.to/?http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 - [Netflix-proxy](https://anonym.to/?https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to bypass Netflix GeoIP restriction.
 
-
 **[`^        back to top        ^`](#)**
 
 
 ## Proxy
-- [v2rayN](https://anonym.to/?https://github.com/2dust/v2rayN) - A proxy wrapper for Android and Windows.
+- [v2rayN](https://anonym.to/?https://github.com/2dust/v2rayN) - A proxy wrapper for Android & Windows.
 
 **[`^        back to top        ^`](#)**
 
@@ -705,6 +704,14 @@ Downloads albums in bulk.
 - [go-plex-client](https://anonym.to/?http://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client
 - [PlexConnect](https://anonym.to/?http://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices
 - [RasPlex](https://anonym.to/?http://github.com/RasPlex/RasPlex) - Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi.
+
+**[`^        back to top        ^`](#)**
+
+
+### Media Manager Software
+- [TinyMediaManager](https://anonym.to/?https://www.tinymediamanager.org/) - tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center.
+- [FileBot](https://anonym.to/?https://www.filebot.net/) - (`Paid`) - FileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork.
+- [Bazarr](https://anonym.to/?https://www./) - Bazarr is a companion application to Sonarr and Radarr that manages and organise your media.
 
 **[`^        back to top        ^`](#)**
 

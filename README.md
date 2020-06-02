@@ -1184,19 +1184,23 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-### Free and Premium Link Hoster
+### Free & File Hoster
 - [4shared](https://anonym.to/?https://www.4shared.com/) (_privacy concerns_)
 - [DBREE](https://anonym.to/?https://dbr.ee/)
 - [K!M](https://anonym.to/?https://k.im/) - Might replaces the original Megaupload (_one day_).
 - [LinkSnappy](https://anonym.to/?https://linksnappy.com/)
 - [Mediafire](https://anonym.to/?https://www.mediafire.com/)
 - [Mega.nz](https://anonym.to/?https://mega.nz/) (_privacy concerns_)
-- [OpenLoad](https://anonym.to/?https://openload.co/)
 - [PutLocker](https://anonym.to/?https://www5.putlockertv.to/)
 - [RapidGator](https://anonym.to/?https://rapidgator.net/)
 - [Sendspace](https://anonym.to/?https://www.sendspace.com/)
 - [Uploaded](https://anonym.to/?https://uploaded.net/)
 - [Zippyshare](https://anonym.to/?https://www.zippyshare.com/) - (free/paid) - (needs proxy/VPN) - GeoIP blocked in the UK.
+
+
+### Free & File Hoster (give no shits about DMCA)
+- [LetsUpload](https://anonym.to/?https://letsupload.co/) - Created around the times when Mega firstly appeared, one of the big stars under the trusted hosters. They do not comply with DMCA.
+- [Racaty.net](https://anonym.to/?https://racaty.net/) - Store, Sync & Share your own data securely.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3106,6 +3110,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [GraphenOS](https://anonym.to/?https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
 - [LineageOS](https://anonym.to/?https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) can be optionally installed.
 - [Replicaant](https://anonym.to/?https://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
+- [CalyxOS](https://anonym.to/?https://calyxos.org/) - Similar like GraphenOS, supports some Google Pixel Devi
 
 
 ### Google Translate
