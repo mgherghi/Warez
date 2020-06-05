@@ -570,7 +570,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-
 ### Telegram Bridges
 - [matterbridge](https://anonym.to/?https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
 - [TediCross](https://anonym.to/?https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
@@ -583,14 +582,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### Python Telegram Bots
 - [python-telegram-bot](https://anonym.to/?https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse.
 
-
 **[`^        back to top        ^`](#)**
 
 
 ### Encrypt Telegram Bots
 - [@TcryptorBot](https://anonym.to/?https://t.me/TcryptorBot) - This bot encrypts and decrypts messages with Triple-DES.
 - [TuringCrypto](https://anonym.to/?https://github.com/DmitryMoldovanov/TuringCrypto) - Given Telegram bot will help you to encrypt and decrypt your messages via symmetric-key algorithm.
-
 
 **[`^        back to top        ^`](#)**
 
@@ -604,6 +601,15 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Instagram Bots
 - [@Instasave_bot](https://anonym.to/?https://t.me/Instasave_bot) - Save Instagram photos.
+
+**[`^        back to top        ^`](#)**
+
+
+### Reddit Downloader Bots
+- [@redditdownloader_bot](https://anonym.to/?https://t.me/redditdownloader_bot)
+- [@redditgrambot](https://anonym.to/?https://t.me/redditgrambot)
+- [@redditvidbot](https://anonym.to/?https://t.me/redditvidbot)
+- [@YtbDownBot](https://anonym.to/?https://t.me/YtbDownBot) - (`no group support`) - Does not only work with Reddit
 
 **[`^        back to top        ^`](#)**
 

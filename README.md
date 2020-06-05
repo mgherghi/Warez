@@ -2026,7 +2026,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [FreeTechBooks](https://anonym.to/?https://www.freetechbooks.com/) - Download free computer science, engineering and programming books, textbooks and lecture notes.
 - [GetFreeEBooks](https://anonym.to/?https://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
 - [Guide to Copy Kindle Content to PDF via Calibre](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) -
-- [Gutenberg](https://anonym.to/?https://www.gutenberg.org/wiki/Main_Page) - Project Gutenberg was the first to supply free ebooks, and today they have over 30,000 free titles in stock.
+- [Gutenberg](https://anonym.to/?https://www.gutenberg.org/wiki/Main_Page) - Project Gutenberg was the first to supply free ebooks, and today they have over 60,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://anonym.to/?https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) - DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
 - [iBiblio](https://anonym.to/?https://www.ibiblio.org/) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
 - [Internet Archive](https://anonym.to/?https://archive.org/details/texts) - Over 15 mio free books & texts.
@@ -2529,7 +2529,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [YourSerie](https://anonym.to/?https://www.yourserie.com/) - High Quality movies and TV shows.
 - [Crazy4tv](https://anonym.to/?https://crazy4tv.com/)
 - [MoviesWBB](https://anonym.to/?http://movieswbb.com/)
-- [GDriveDL](https://anonym.to/?https://gdrivedl.com/) - Movies and TV shows via Google Drive.
+- [GDriveDL](https://anonym.to/?https://gdrivedl.com/) - 1080p & 4K Movies and TV shows via Google Drive.
 - [megaDDL](https://anonym.to/?https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
 
 **[`^        back to top        ^`](#readme)**
