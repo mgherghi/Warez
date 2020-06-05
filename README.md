@@ -2343,10 +2343,17 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 **[`^        back to top        ^`](#readme)**
 
+
 ### Navigation Software
 - [China Rns](https://anonym.to/?https://www.china-rns.com/forum) - (Ger/EN) - German/English forum around navigation software & updates.
 - [Digital Eliteboard](https://anonym.to/?https://www.digital-eliteboard.com/forums) - (`GER`) - Help forum around various topics and provides some tutorials.
 - [Nachtfalke](https://www.nachtfalke.biz/index.php) - (Ger/EN) - Another big forum to discuss navigation software related stuff.
+
+**[`^        back to top        ^`](#readme)**
+
+
+### Track upcoming Movies
+- [Squawkr](https://anonym.to/?http://www.squawkr.io/) - Search and get notified about new and upcoming movies.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2459,6 +2466,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [60 FPS Movies](https://anonym.to/?https://60-fps.org/) - (`RU`) - 60 Movies only.
 
 **[`^        back to top        ^`](#readme)**
+
 
 ### 1080p Streaming
 - [0123movies](https://anonym.to/?https://www.0123moviesback.com/)

@@ -82,11 +82,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-### Telegram Bot for fake eMails
+### Telegram Bot for trash eMails
 - [@DropmailBot](https://anonym.to/?https://t.me/DropmailBot) - Get fake emails.
+- [@GmailBot](https://anonym.to/?https://t.me/GmailBot) - GMail management Bot.
+- [@TrashMailClient_Bot](https://anonym.to/?https://t.me/TrashMailClient_Bot) - It will generate a mail for you that will be valid for 15 minutes.
 - [@etlgr_bot](https://anonym.to/?https://t.me/etlgr_bot) - Get fake emails.
 - [@fakemailbot](https://anonym.to/?https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
-- [@GmailBot](https://anonym.to/?https://t.me/GmailBot) - GMail management Bot.
 - [@smtpbot](https://anonym.to/?https://t.me/smtpbot) - Get fake emails.
 - [@temp_mail_bot](https://anonym.to/?https://t.me/temp_mail_bot) - Get fake emails.
 
@@ -167,6 +168,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@MovieReleaseBot](https://anonym.to/?https://t.me/MovieReleaseBot) - Announce and search new movie releases.
 - [movieS4Bot](https://anonym.to/?https://t.me/movieS4Bot)
 - [@GO_Robot](https://anonym.to/?https://t.me/@GO_Robot) - Announce and search new movie releases.
+- [@Eve](https://anonym.to/?https://t.me/evemovies_bot) - Telegram bot that will help you to track your favourite movies.
 
 **[`^        back to top        ^`](#)**
 
@@ -524,7 +526,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@philosophybooks](https://anonym.to/?https://t.me/philosophybooks)
 
 
-### Telegram Chats regarding eBooks
+### Telegram chats regarding eBooks
 - [@agoramagica](https://anonym.to/?https://t.me/agoramagica)
 - [@bookclub77](https://anonym.to/?https://t.me/bookclub77)
 - [@enochia](https://anonym.to/?https://t.me/enochia)
@@ -538,11 +540,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [A GRoUP Of eBooKz](https://anonym.to/?https://t.me/joinchat/Cdn35j0FlwHkKl7Z3-CWvw)
 - [Spiritual Books](https://anonym.to/?https://t.me/joinchat/NVkTNFfYRrI7xtrvSHaDvQ)
 - [EbooksEnglish](https://anonym.to/?http://t.me/EbooksEnglish)
-
-**[`^        back to top        ^`](#)**
-
-### Telegram Bridge Bots
-- [Telegram to Discord Bridge](https://anonym.to/?https://github.com/TediCross/TediCross) - Self-hosted bot to forward your Telegram messages to Discord.
 
 **[`^        back to top        ^`](#)**
 
@@ -668,13 +665,13 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### URL Shortener Bots
 - [@ShortUrlBot](https://anonym.to/?https://t.me/ShortUrlBot)
 - [@shorturl_googl_bot](https://anonym.to/?https://t.me/shorturl_googl_bot)
 - [@PlinkBot](https://anonym.to/?https://t.me/PlinkBot)
 
 **[`^        back to top        ^`](#)**
-
 
 
 ### Get Site Info (WHIOS/IP,..)
@@ -686,6 +683,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Scrape Site Text Bot
 - [@ReadmeBot](https://anonym.to/?https://t.me/ReadmeBot)
 - [@SearchBazarBot](https://anonym.to/?https://t.me/SearchBazarBot) - Search Bazar and get information.
@@ -693,22 +691,25 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### RSS / Tweet channel bots
 - [@TheFeedReaderBot](https://anonym.to/?https://t.me/TheFeedReaderBot)
+- [@el_monitorro](https://anonym.to/?https://t.me/el_monitorro_bot) - el_monitorro is RSS, Atom and JSON feed reader written in Rust.
 
 **[`^        back to top        ^`](#)**
+
 
 ### Convert Text to Sticker
 - [@FonthaBot](https://anonym.to/?https://t.me/FonthaBot) - Convert specific text to a sticker.
 
 **[`^        back to top        ^`](#)**
 
+
 ### Convert Text to Photo
 - [@FonthaBot](https://anonym.to/?https://t.me/FonthaBot) - Convert specific text to a sticker.
 - [@StickerToPhoto_Bot](https://anonym.to/?https://t.me/StickerToPhoto_Bot) - Convert specific text to a sticker.
 
 **[`^        back to top        ^`](#)**
-
 
 
 ### YouTube Downloader Bots
@@ -759,12 +760,10 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-
 ### QR / Barcode Scan Bot
 - [@CodeScanBot](https://anonym.to/?https://t.me/CodeScanBot) - Scan a QR/Barcode and Generate a QR Code image.
 
 **[`^        back to top        ^`](#)**
-
 
 
 ### Podcast Bots
@@ -773,12 +772,11 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-### Hyperlink Telegram Bos
+### Hyperlink Telegram Bots
 - [@bold](https://anonym.to/?https://t.me/bold)
 - [@t2lbot](https://anonym.to/?https://t.me/t2lbot)
 
 **[`^        back to top        ^`](#)**
-
 
 
 ### Create Gifs Bots
@@ -787,16 +785,17 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Sticker Search Bot
 - [@sticker](https://anonym.to/?https://t.me/sticker)
 
 **[`^        back to top        ^`](#)**
 
 
-
 ### The robot is sending a message to itself
 - [@posttobot](https://anonym.to/?https://t.me/posttobot)
 - [@imixbot](https://anonym.to/?https://t.me/imixbot)
+- [@TheDigestBot](https://anonym.to/?https://t.me/TheDigestBot) - The bot collects all news from your channel subscriptions and sends to you a Digest with all news once a day.
 
 **[`^        back to top        ^`](#)**
 
@@ -813,6 +812,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@vote](https://anonym.to/?https://t.me/vote)
 
 **[`^        back to top        ^`](#)**
+
 
 ### Maintenance Bots
 - [@sscapachebot](https://anonym.to/?https://t.me/sscapachebot) - Glass Button creating Bot.
@@ -840,7 +840,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-
 ### Upload and Downloader Bots
 - [@myuploaderbot](https://anonym.to/?https://t.me/myuploaderbot)
 - [@ParsFilerBot](https://anonym.to/?https://t.me/ParsFilerBot)
@@ -852,7 +851,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-### File Uplaoder Bots
+### File Uploader Bots
 - [@filesbot](https://anonym.to/?https://t.me/filesbot)
 - [@MyTeleCloudBot](https://anonym.to/?https://t.me/MyTeleCloudBot)
 - [@NephoBot](https://anonym.to/?https://t.me/NephoBot)
@@ -877,12 +876,10 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-
 ### Sticker Download Bot
 - [@Stickerdownloadbot](https://anonym.to/?https://t.me/Stickerdownloadbot)
 
 **[`^        back to top        ^`](#)**
-
 
 
 ### Translate Photos Bot
@@ -904,7 +901,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-
 ### Style and Icon Bots
 - [@Icon8bot](https://anonym.to/?https://t.me/Icon8bot)
 - [@PrismaBot](https://anonym.to/?https://t.me/PrismaBot)
@@ -916,6 +912,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@markdownrobot](https://anonym.to/?https://t.me/markdownrobot)
 
 **[`^        back to top        ^`](#)**
+
 
 ### Game Bots
 - [@gamee](https://anonym.to/?https://t.me/gamee)
@@ -974,9 +971,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-
 ## Udemy Bots
-- [udemy_link_bot](https://anonym.to/?https://t.me/udemy_link_bot) - Send `/download <course_link>` to download.
+- [udemy_link_bot](https://anonym.to/?https://t.me/udemy_link_bot) - Send `/download <course_link>` to download specific courses.
 
 **[`^        back to top        ^`](#)**
 
