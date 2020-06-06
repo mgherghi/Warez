@@ -687,7 +687,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### Scrape Site Text Bot
 - [@ReadmeBot](https://anonym.to/?https://t.me/ReadmeBot)
 - [@SearchBazarBot](https://anonym.to/?https://t.me/SearchBazarBot) - Search Bazar and get information.
-- [@DBazarBot](https://anonym.to/?https://t.me/DBazarBot) - Download the app from Market Cafe
+- [@DBazarBot](https://anonym.to/?https://t.me/DBazarBot) - Download the app from Market Cafe.
 
 **[`^        back to top        ^`](#)**
 
@@ -695,6 +695,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### RSS / Tweet channel bots
 - [@TheFeedReaderBot](https://anonym.to/?https://t.me/TheFeedReaderBot)
 - [@el_monitorro](https://anonym.to/?https://t.me/el_monitorro_bot) - el_monitorro is RSS, Atom and JSON feed reader written in Rust.
+- [@eventsaggregatorbot](https://anonym.to/?https://t.me/eventsaggregatorbot) - Forward your favorite Twitter, Instagram, RSS, Reddit, YouTube, Twitch accounts in Telegram.
 
 **[`^        back to top        ^`](#)**
 
