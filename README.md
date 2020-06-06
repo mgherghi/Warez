@@ -1928,7 +1928,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
 - [ProFreeCrack](https://anonym.to/?https://profreecrack.com) - Provides cvracks for various programs.
 
-**[`^        back to top        ^`](#readm
+**[`^        back to top        ^`](#readme)
 ### Software Repacks
 - [Diakov.net](https://anonym.to/?https://diakov.net/) - (`RU`) - Russian repacker provides various software repacks.
 - [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
