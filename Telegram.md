@@ -960,6 +960,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+## Add reactions to Telegram Messages
+- [@ReactBot](https://anonym.to/?https://github.com/UsergeTeam/ReactBot/) - Helps you to add reactions to your message (works on channels/groups).
+
+**[`^        back to top        ^`](#)**
+
+
 ## Other stuff related to Telegram
 - [Torrent Leecher List](https://anonym.to/?http://torrentleecherlist.xyz/) - This is a simple list for torrent leecher in telegram.
 
