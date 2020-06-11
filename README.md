@@ -1607,8 +1607,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Bzinho Games](https://anonym.to/?https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
 - [CompucaliTV](https://anonym.to/?https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
 - [CS.Rin.RU](https://anonym.to/?https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://anonym.to/?https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - [Blog](https://anonym.to/?https://write.as/ress/)
-- [Firestorm](https://anonym.to/?https://firestorm-servers.com/) - Games & more.
-- [GameCopyWorld](https://anonym.to/?https://gamecopyworld.eu) - Provid for Games.
+- [Firestorm](https://anonym.to/?https://firestorm-servers.com/) - Games & mor
+
+- [GameCopyWorld](https://anonym.to/?https://gamecopyworld.eu) - Provides cracks and tutorials for Games.
 - [GamesFull](https://anonym.to/?https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
 - [Games Turret](https://anonym.to/?https://gamesturret.ga/) - Proves games via file hosters.
 - [MegaGames](https://anonym.to/?https://megagames.com/) - Same like GameCopyWorld, online since 20+ years, old but gold!
