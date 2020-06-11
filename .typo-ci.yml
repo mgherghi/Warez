@@ -54,6 +54,13 @@ excluded_words:
   - SpaceX
   - ZippyShare
   - Matrix
+  - devbots
+  - makepdfs
+  - mkrakowitzer
+  - actions-makepdfs
+  - spyoungtech
+  - Genration
+  - Rosco
 
 # Would you like filenames to also be spellchecked?
 spellcheck_filenames: true

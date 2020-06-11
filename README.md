@@ -786,6 +786,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [YourBittorrent](https://anonym.to/?https://yourbittorrent.com)
 - [monova](https://anonym.to/?https://monova.org)
 - [idope](https://anonym.to/?https://idope.se)
+- [demonoid](https://anonym.to/?https://www.demonoid.is/)
 
 **[`^        back to top        ^`](#readme)**
 
