@@ -15,4 +15,4 @@ jobs:
     - uses: actions/upload-artifact@v1
       with:
         name: platform-architecture-docs
-        path: /pdf
+        path: tmp

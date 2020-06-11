@@ -33,9 +33,8 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Crazy Spirits](https://anonym.to/?http://crazyspirits.com/) - (`FR`) - French semi-private tracker for General and Videos.
 - [HamsterStudio.org](https://anonym.to/?http://hamsterstudio.org/) - (`RU`) - HamsterStudio is russian torrent tracker. It has a lot of TV shows.
 - [tr.anidub.com](https://anonym.to/?http://tr.anidub.com/)
-- [GÃ©nÃ©ration Rosco](https://anonym.to/?http://genration-rosco-tk.net/) - (`FR`) - Movie/TV/General.
+- [Genration Rosco](https://anonym.to/?http://genration-rosco-tk.net/) - (`FR`) - Movie/TV/General.
 - [Bettyboop-tk](https://anonym.to/?http://bettyboop-tk.biz/) - (`FR`) - Movie/TV/General.
-
 
 
 ### Magnet Search

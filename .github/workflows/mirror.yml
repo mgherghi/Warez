@@ -1,14 +1,10 @@
 # https://github.com/marketplace/actions/mirror-repository
-workflow "Mirror Workflow" {
-  on = "push"
-  resolves = ["Mirror Action"]
-}
-
-action "Mirror Action" {
-  uses = "spyoungtech/mirror-action@master"
-  secrets = ["GIT_PASSWORD"]
-  args = "https://gitlab.com/CHEF-KOCH/Warez.git"
-  env = {
-    GIT_USERNAME = "CHEF-KOCH"
-  }
-}
+on: [push]
+  ...
+      steps:
+        - uses: actions/checkout@v1
+        - uses: spyoungtech/mirror-action@master
+          with:
+            REMOTE: 'https://gitlab.com/CHEF-KOCH/Warez.git'
+            GIT_USERNAME: spyoungtech
+            GIT_PASSWORD: ${{ secrets.GIT_PASSWORD }}
