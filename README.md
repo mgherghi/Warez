@@ -149,15 +149,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AlpacinoDump](https://anonym.to/?https://dh.alpacinodump.cf/)
 - [TUHOCTOEIC.EDU.VN](https://anonym.to/?https://driveteam.nguyenvanlong.blog/)
 
-**[`^        back to top        ^`](#readme)**
-
-
-## Team Drive Indexer Source Codes
+**[`^        back to top        ^`](#readme)
+## Team Drive Indexer
 - [GDIndex](https://anonym.to/?https://github.com/maple3142/GDIndex)
 - [goindex](https://anonym.to/?https://github.com/donwa/goindex)
 - [Another goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
 - [BhadooDriveIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
 - [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
+- [goindex-drive](https://anonym.to/?https://github.com/CHEF-KOCH/goindex-drive)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -354,6 +353,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [emuparadise-mirror](https://anonym.to/?https://github.com/Mz49/emuparadise-mirror) - A Cloudflare worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [mastamilanzipdownload](https://anonym.to/?https://mastamilanzipdownload.com/) - ROMs and scripts.
 - [PiracySubreddit Backup (nightly backups)](https://anonym.to/?https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
+- [msdn.hackerc.at](https://anonym.to/?https://msdn.hackerc.at/) - Windows Software dump.
 <!-- markdown-link-check-enable -->
 **[`^        back to top        ^`](#readme)**
 
@@ -477,13 +477,11 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [RevDl](https://anonym.to/?https://www.revdl.com/) - Direct download site for Android apps & games.
 - [RexDL](https://anonym.to/?https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
 - [Sbenny](https://anonym.to/?https://forum.sbenny.com/forums/apps.14/) - Modded games and apps.
+- [mod apk](https://anonym.to/?https://dlandroid.com/) - Another APK mod mirror site.
+- [Cyberflix](https://anonym.to/?https://cybercloud.media/) - Yet another Terrarium clone.
+- [Showbox apk](https://anonym.to/?https://dlandroid.com/showbox-apk/) - Morpheus fork.
 
 **[`^        back to top        ^`](#readme)**
-
-
-
-### Apple
-- [Beta Profiles](https://anonym.to/?https://betaprofiles.com/) - Download Apple Beta Software without an account or developer ID.
 
 
 ## Decentralized Network Projects
@@ -981,14 +979,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Brothers of Usenet](https://anonym.to/?https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene.
 - [Fileleechers](https://anonym.to/?https://fileleechers.info) - (`GER`) - A young forum around Usenet.
 - [House of Usenet](https://anonym.to/?https://house-of-usenet.com) - New provider, new url, a reboot of the well known forum.
-- [omgwtfnzbs](https://anonym.to/?https://omgwtfnzbs.me) - (paid) - A paid usenet indexer.
-- [SceneNzb.com](https://anonym.to/?https://scenenzb.com) - (paid) - 3 NZD files per day are free.
+- [omgwtfnzbs](https://anonym.to/?https://omgwtfnzbs.me) - (`paid`) - A paid usenet indexer.
+- [SceneNzb.com](https://anonym.to/?https://scenenzb.com) - (`paid`) - 3 NZD files per day are free.
 - [Sky of Usenet](https://anonym.to/?https://sky-of-use.net) - (`GER`) - Yet another german usenet forum.
 
 **[`^        back to top        ^`](#readme)**
 
 
-### Usenet Free Indexers
+##Usenet Free Indexers
 - [BINZB](https://anonym.to/?https://binzb.com) - Minimalistic indexer.
 - [Binsearch](https://anonym.to/?https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
 - [FindNZB](https://anonym.to/?https://findnzb.net) - One old indixer, the results are outdated and often offline.
@@ -1007,6 +1005,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [RePack Club](https://anonym.to/?https://repacks.club/) - (`RU`) - Russian repack portal.
 - [Repacks.NET](https://anonym.to/?https://repacks.net/) - A well-known repack website mostly for Windows software.
 - [Diakov](https://anonym.to/?https://diakov.net/) - (`RU`) - Russian repacker for Adobe and other applications.
+- [thehouseofportable](https://thehouseofportable.com/) - Portable versions of various Software.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1282,7 +1281,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WatchCartoonsOnline](https://anonym.to/?https://watchcartoonsonline.la/)
 - [WatchSeries](https://anonym.to/?http://www.watch-series.to/) - (`insecure`)
 - [Your-Anime](https://anonym.to/?https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
-- [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [animeultima](https://anonym.to/?https://www1.animeultima.to/) - Yet another good place for Animes.
 - [/r/KissCommunitySupport](https://anonym.to/?https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
 - [FMovies](https://anonym.to/?https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
@@ -1334,6 +1332,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WatchAsian](https://anonym.to/?https://www2.watchasian.co/)
 - [WTvF!](https://anonym.to/?https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - Youtube Grindhouse
 - [Mvgroup Forum](https://anonym.to/?https://forums.mvgroup.org/) - Documentaries & Movies.
+- [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.](#readme)**
+- [mp3pro.xyz](https://anonym.to/?https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1355,7 +1355,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [DP Stream](https://anonym.to/?https://www.dpstream.net/) - (FR) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
 - [Daxiv Video](https://anonym.to/?https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 - [FMOVIES](https://anonym.to/?https://fmovies.to/) - Just a better place for watching online movies for free!
-- [FilmXY](https://anonym.to/?https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more
+- [FilmXY](https://anonym.to/?https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & mo
 - [Filmz.cc](https://anonym.to/?https://www.filmz.cc/) - (FR) - French streaming website.
 - [FlixGo](https://anonym.to/?https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
 - [Flixanity](https://anonym.to/?https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
@@ -1769,6 +1769,15 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## Driver Websites
+- [Station-Drivers](https://anonym.to/?https://www.station-drivers.com/index.php?lang=en)
+- [driveroff](https://anonym.to/?http://driveroff.net/) - (`RU`)
+- [touslesdrivers.com](https://anonym.to/?https://www.touslesdrivers.com/) - (`FR`)
+- [WinRaid Forum](https://anonym.to/?https://www.win-raid.com/forum.php)
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## Cartoons
 - [iHaveNoTv](https://anonym.to/?https://ihavenotv.com/) - Community managed documentary collection
 - [KimCartoon](https://anonym.to/?https://kimcartoon.co/) - Large cartoon collection, primarily Openload.
@@ -1928,7 +1937,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
 - [ProFreeCrack](https://anonym.to/?https://profreecrack.com) - Provides cvracks for various programs.
 
-**[`^        back to top        ^`](#readme)
+**[`^        back to top        ^`](#readm
 ### Software Repacks
 - [Diakov.net](https://anonym.to/?https://diakov.net/) - (`RU`) - Russian repacker provides various software repacks.
 - [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
@@ -2451,6 +2460,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [ask4movie](https://anonym.to/?https://ask4movie.co/) - (`needs adblocker`) - Netflix like UI. Stream series and movies.
 - [Seriesvault](https://anonym.to/?https://seriesvault.org/) - TV Series that we all love.
 - [OK.ru](https://anonym.to/?https://ok.ru/videos/) - (`RU`) - Legal and other videos, differnt quality, mostly 720p.
+- [tuga.tv](https://anonym.to/?https://tuga.tv/) - Sistema PLEX - Cinema + Netflix + HBO + PrimeVideo + Disney + HULU
+- [mrpiracy](https://anonym.to/?https://v1.mrpiracy.xyz/) - (`GeoIP block`) - Lots of movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2531,7 +2542,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
 - [magellantv](https://anonym.to/?https://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
 - [HEVCBay](https://anonym.to/?https://hevcbay.com/) - Provides Movies.
-- [x265 Movies](https://anonym.to/?https://x265movies.co/) - x265 Movies provides Movies and TV shows.
 - [HugeWarez](https://anonym.to/?http://hugewarez.net/movie/) - HugeWarez provides not only Movies but TV Shows and bunch of other things.
 - [MKVBee](https://anonym.to/?https://mkvbee.com/) - High Quality movies and TV shows.
 - [YourSerie](https://anonym.to/?https://www.yourserie.com/) - High Quality movies and TV shows.
@@ -2539,6 +2549,18 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MoviesWBB](https://anonym.to/?http://movieswbb.com/)
 - [GDriveDL](https://anonym.to/?https://gdrivedl.com/) - 1080p & 4K Movies and TV shows via Google Drive.
 - [megaDDL](https://anonym.to/?https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
+- [streamingita.live](https://anonym.to/?https://streamingita.live/series/) - (`ITA`) - Yet another streaming service for Movies and Series.
+- [solarmoviez.to](https://anonym.to/?https://solarmoviez.to/)
+- [123movies.is](https://anonym.to/?https://123movies.is/)
+- [dirtywarez.org](https://anonym.to/?https://dirtywarez.org/cat/streaming)
+- [hdmovie8](https://anonym.to/?https://hdmovie8.com/)
+- [hindimoviesonline](https://anonym.to/?https://www.hindimoviesonline.club/) - (`Hindi`)
+
+**[`^        back to top        ^`](#readme)**
+
+
+### Legal Multi-Streaming Services
+- [reelgood](https://anonym.to/?https://reelgood.com/) - Multi Service provider for Netflix, Hulu & Co.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2568,6 +2590,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### H265 Encoded Movies and TV Shows
 - [enx265](https://anonym.to/?https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
+- [x265 Movies](https://anonym.to/?https://x265movies.co/) - x265 Movies provides Movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 

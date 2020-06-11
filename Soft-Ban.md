@@ -33,7 +33,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Crazy Spirits](https://anonym.to/?http://crazyspirits.com/) - (`FR`) - French semi-private tracker for General and Videos.
 - [HamsterStudio.org](https://anonym.to/?http://hamsterstudio.org/) - (`RU`) - HamsterStudio is russian torrent tracker. It has a lot of TV shows.
 - [tr.anidub.com](https://anonym.to/?http://tr.anidub.com/)
-- [Génération Rosco](https://anonym.to/?http://genration-rosco-tk.net/) - (`FR`) - Movie/TV/General.
+- [GÃ©nÃ©ration Rosco](https://anonym.to/?http://genration-rosco-tk.net/) - (`FR`) - Movie/TV/General.
 - [Bettyboop-tk](https://anonym.to/?http://bettyboop-tk.biz/) - (`FR`) - Movie/TV/General.
 
 
@@ -108,7 +108,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [ShareMania.US](https://anonym.to/?http://sharemania.us/) - HDTV, HD Music Videos, 1080i, 720p, Live, TV Shows.
 - http://desitoons.in/
 - http://www.animated247.net/
-
+- [https://iptv.community/](https://torrentfreak.com/police-shut-down-pirate-iptv-operation-with-2-million-subscribers-200610/)
 
 
 ### Game Repacks
@@ -117,8 +117,6 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [FitGirl Repacks](https://anonym.to/?http://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks.
 - [Kapital Sin](https://anonym.to/?http://www.kapitalsin.com/forum/)
 - [Nicoblog](https://anonym.to/?https://nicoblog.org/) - (`GeoIP-/DNS block`) - Plenty of ISOs, ROMs & repacks.
-
-
 
 
 ### PlayStation Games
@@ -168,7 +166,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Smsreceivefree](https://anonym.to/?http://Smsreceivefree.com) - Temporary SMS and Disposable Numbers.
 - [Sonetel](https://anonym.to/?http://Sonetel.com) - Free and paid service for virtual sms numbers.
 - [Tempsms](https://anonym.to/?http://Tempsms.ru) - (`RU`) -  Keep spam out of your phone and stay safe - just use a free disposable temporary phone number!
-- [WRZHost.com](https://anonym.to/?http://wrzhost.com/) - (`insecure`) - WrzHost specializes in allowing warez, and acts as a safe-haven for people wanting to start warez-related projects with anonymity. They offer shared hosting, Linux VPS’s and dedicated servers.
+- [WRZHost.com](https://anonym.to/?http://wrzhost.com/) - (`insecure`) - WrzHost specializes in allowing warez, and acts as a safe-haven for people wanting to start warez-related projects with anonymity. They offer shared hosting, Linux VPSâ€™s and dedicated servers.
 
 
 
@@ -301,8 +299,47 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Memory of the world](https://anonym.to/?http://library.memoryoftheworld.org/) - (`insecure`) - Yet another newcomer page fr eBooks.
 - [Abundant Hope Holy Books](https://anonym.to/?http://krishnamurti.abundanthope.org)
 - [ahhdw](https://anonym.to/?http://ahhdw.com) - A place for scientific eBooks.
+- http://gen.lib.rus.ec (Use a proxy if you are having issues connecting)
+- http://textbooknova.com
+- http://en.bookfi.org/
+- http://www.gutenberg.org
+- http://ebookee.org
+- http://www.manybooks.net
+- http://www.giuciao.com
+- http://www.feedurbrain.com
+- http://oll.libertyfund.org/index.php?option=com_content&amp;task=view&amp;id=380
+- http://www.alleng.ru/ russian site
+- http://www.eknigu.com/ russian site
+- http://ishare.iask.sina.com.cn/
+- http://2020ok.com/
+- http://www.freebookspot.es/Default.aspx
+- http://www.freeetextbooks.com/ need to signup
+- http://onebigtorrent.org/
+- http://www.downeu.me/ebook/
+- http://forums.mvgroup.org (need to register)
+- http://theaudiobookbay.com/ (audiobooks)
+- https://archive.fo/o/7kCYY/www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco
 
 
+### Private ebook trackers
+- http://bibliotik.org
+- http://bitme.org
+- http://myanonamouse.net (see reddit offers for invite)
+- http://bitspyder.net
+- http://www.learnbits.me
+- http://www.ebookvortex.com
+- http://elbitz.net
+- http://docspedia.org
+- http://abtorrents.com (audiobooks)
+- http://thegeeks.bz
+- http://theplace.bz
+- http://thevault.bz
+- http://bitseduce.com
+
+
+### IRC Channels for eBooks
+- irc://irc.undernet.org/bookz
+- irc://irc.irchighway.net/ebooks
 
 
 ### Software
@@ -374,7 +411,6 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Enthus1ast](https://anonym.to/?http://enthus1ast.com/) - Movie sharing community.
 
 
-
 ### Manga
 - [MangaZone](https://anonym.to/?http://mangazoneapp.com/) - (`insecure`) - A manga reader app.
 - [Mangadoom](https://anonym.to/?http://mangadoom.co/) - (`insecure`)
@@ -385,6 +421,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Readmng](https://anonym.to/?https://www.readmng.com/) - (`insecure`)
 - [GoGoManga](https://anonym.to/?http://www1.gogomanga.to/) - (`insecure`)
 - [Manga Life](https://anonym.to/?https://mangalife.us/) - (`insecure`)
+
 
 ### Keygens & Serials
 - [Serials](https://anonym.to/?http://serialz.cracks.me.uk) - (insecue) - Yet another serials page.
@@ -476,8 +513,8 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [Pelisplus](http://pelisplus.co/) - Espanol
 - [Moviezworldz](http://mymovieszworldz.blogspot.com/) Hindi movies & TV Shows.
 - [1Movies](http://1movies.nl) - Watch Free HD movies online & free download movies at 1movies.pl.
-- [Filmstream.online](http://filmzenstream.online/) - (FR) - Regarder des films gratuits illimit�s de sur Filmzenstream. Regarder complet des films en streaming hd gratuitement vf sans inscription en fran�aise.
-- [French Stream](http://wwv.french-stream.co/) - (FR) - Regarder Facilement et Gratuitement Les Meilleurs Films et S�ries en Streaming HD Sans aucune Publicit� G�nante ...
+- [Filmstream.online](http://filmzenstream.online/) - (FR) - Regarder des films gratuits illimités de sur Filmzenstream. Regarder complet des films en streaming hd gratuitement vf sans inscription en française.
+- [French Stream](http://wwv.french-stream.co/) - (FR) - Regarder Facilement et Gratuitement Les Meilleurs Films et Séries en Streaming HD Sans aucune Publicité Gênante ...
 - [M4UFree.TV](http://m4ufree.tv/) - Free Movies Online. Watch Movies Online Free. Watch all your favorite movies and tv shows online for free on M4ufree .
 - [MegaShare](http://megashare9.su/) - Watch Full Movies and TV Series Online Free.
 - [Movie123](http://movie123.club/) - Look no further than Movie123 if you are looking for the best sites to watch free movies online.
@@ -582,7 +619,20 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - torrentsafe.com
 - [1337x](https://anonym.to/?https://1337x.to/) - (Official mirror list](https://anonym.to/?https://1337x.to/about) - 1337x is a torrent site that offers verified torrent downloads.
 
-## Movies
+
+## Movies (no tls)
 - http://movie-blog.sx/
+- http://crazy4tv.com
+- http://www.add-movies.com/
+- http://www.1watchonlinemovies.com.pk/
+- http://watchseries.cr/
+
+
+## Movies (watermark)
 - mkvChinemas.com (watermark)
-- http://crazy4tv.com (no tls)
+
+
+
+
+
+

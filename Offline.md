@@ -13,9 +13,11 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - Freetutorials.us
 - [TUTSGALAXY](https://anonym.to/?https://tutsgalaxy.com/)
 
-## Android Apps
-- Terrarium TV
+
+## Android Streaming Apps
+- [terrariumtv](https://anonym.to/?https://terrariumtv.com/)
 - SMLoader (also Windows/Linux)
+
 
 ## predb
 - dats.romshepherd.com
@@ -30,6 +32,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - shroo.ms
 - swenews.info
 - tracers.zenet.org
+
 
 ## Movies
 - hdeuropix.com
@@ -46,24 +49,36 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - kinow.to
 - Pirate.ws
 - Moonwalk.cc
+- anskip.tv
+- 123movieshub.to/123movies
+- yify.bz
+- ganool.ac
+- go90.com
+- two-movies.me
+
 
 ## Manga Reader
 - mangarock.com
+
 
 ## Anime
 - AnimeHeaven.eu
 - Masterani.me
 - Kissasian.com
 
+
 ## Music
 - mp3-monkey.com
+
 
 ## Tracker info
 - btracs.com
 
+
 ### Cracking forums
 - cracked.to
 - crackingleaks.to
+
 
 ## Boards (offline, abandoned or compromised)
 - 320k.in
@@ -111,13 +126,16 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - novaDedi
 - btracs.com
 
+
 ## NFO
 - vcdquality.com + vcdq.com
+
 
 ## PRE Databases
 - orlydb.com
 - doopes.com
 - swedupe.com
+
 
 ## Others
 - CracksNow (The site no longer exists: Account banned because the site administrator was uploading infected files on torrent sites (ransomwares/malwares))
@@ -209,8 +227,10 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 ## Domain registrar
 - openleaf.net.ru
 
+
 ## Crypo
 - [VirWox](https://www.virwox.com/index.php)
+
 
 ## IRC + Websites
 - audiop2p.com/pre.php
@@ -236,6 +256,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - releases.pocketheaven.com
 - rlsrc.com
 - vcdq.com
+
 
 ## Public Tracker
 - 1337x.org
@@ -320,10 +341,12 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - trec.to
 - [Filelist.ro](https://torrentfreak.com/massive-private-torrent-site-filelist-ro-has-domain-seized-due-to-criminal-investigation-200504/)
 
+
 ## Automated Downloaders
 - showrss.karmorra.info
 - torrentwatcher.com
 - tvoverlord.com
+
 
 ## Streaming Service
 - btcloud.io
@@ -354,6 +377,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - torrentz.eu
 - ts.saahov.ru
 - zhongzicili.com
+
 
 ## ISP blocked (needs VPN/proxy/DNS to bypass it)
 - boerse.to (Germany by: 1&1 + Vodafone ISP)
@@ -448,14 +472,17 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - Wikiserie (France)
 - YTS (France)
 
+
 ## Anime
 - MioMio
 - AniTube!
+
 
 ## eBooks / PDFs
 - Oceanofpdf.com
 - ebook.farm
 - ebooklogin.com
+
 
 ## Hoster
 - ArkaHosting
@@ -478,7 +505,6 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - UMaxHosting
 - WelcomeHosting
 - VS- X4Servers
-
 
 
 ## File Hoster
@@ -532,8 +558,10 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - Centrop
 - CLAS
 
+
 ## Private tracker
 - eggmeon.xyz
+
 
 ## Telegram
 - @Music_High_Resolution
@@ -617,3 +645,6 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - [ViewComics](https://anonym.to/?http://ww25.viewcomic.com/) - (`insecure`) - Alternative to ReadComicsOnline.
 - [BS.to](https://anonym.to/?https://bs.to/) - (`GER`) - (`insecure`) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
 - [bmovies](https://anonym.to/?http://bmovies.to/) - (`insecure`) + ([Mirror](https://anonym.to/?https://bmovies.life/bmovies.is)) + [Mirror](https://anonym.to/?https://bmovies.se/))
+- https://cracksnow.com/
+
+

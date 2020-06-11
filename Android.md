@@ -140,9 +140,9 @@ TCP Port: 853
 - [KingoTV](https://anonym.to/?https://kingotv.net/) - Your Portable Entertainment Gateway! Watch 500+ Live HD Channels and 10,000+ Hours of Movies Series Shows for Free!
 - [Orion TV](https://anonym.to/?https://play.google.com/store/apps/details?id=rs.maketv.oriontv) - (SH) - Allows you to watch live TV channels and recorded selected shows (72h Catch-up TV).
 - [PhoenixTV](https://anonym.to/?https://www.phoenixtv-distribution.com/) - Morpheus Fork
-- [ZippyTV](http://www.zippytv.mobi/) - (_Needs adblock/ad-free version_) - Watch 500+ Live HD Channels, Movies & Tv Series for Free! Start Streaming Now!
-- [airy.tv](https://airy.tv/) - Wireless TV you can access ANYTIME, ANYWHERE, for FREE.
-- [TopMoviesonline](https://topmoviesonline.org/topmoviesonline-app/) - (`contains ads`) - App to get notified about netx tv shows, movies and trailers, it also allows you to watch videos.
+- [ZippyTV](https://anonym.to/?http://www.zippytv.mobi/) - (_Needs adblock/ad-free version_) - Watch 500+ Live HD Channels, Movies & Tv Series for Free! Start Streaming Now!
+- [airy.tv](https://anonym.to/?https://airy.tv/) - Wireless TV you can access ANYTIME, ANYWHERE, for FREE.
+- (https://topmoviesonline.org/topmoviesonline-app/) - (`contains ads`) - App to get notified about netx tv shows, movies and trailers, it also allows you to watch videos.
 
 **[`^        back to top        ^`](#)**
 

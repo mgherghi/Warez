@@ -143,6 +143,7 @@ Downloads albums in bulk.
 
 **[`^        back to top        ^`](#)**
 
+
 ## Movie Automation
 - [Couchpotato](https://anonym.to/?http://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
 - [Radarr](https://anonym.to/?http://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
@@ -184,6 +185,18 @@ Downloads albums in bulk.
 - [vlsub](https://anonym.to/?http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 - [subsync](https://anonym.to/?http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
 - [Sublight.me](https://anonym.to/?http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
+
+**[`^        back to top        ^`](#)**
+
+
+### Subtitles Editors
+- [Aegisub](https://anonym.to/?hhttps://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor.
+
+**[`^        back to top        ^`](#)**
+
+
+### Domain Age Checker
+- [crt](https://anonym.to/?https://crt.sh/) - Open source Domain age/certificate checker.
 
 **[`^        back to top        ^`](#)**
 
@@ -708,7 +721,7 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
-##
+## Media Organisation Tools
 - [TinyMediaManager](https://anonym.to/?https://www.tinymediamanager.org/) - tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center.
 - [FileBot](https://anonym.to/?https://www.filebot.net/) - (`Paid`) - FileBot is the ultimate tool for organizing and renaming your Movies, TV Shows and Anime as well as fetching subtitles and artwork.
 - [Bazarr](https://anonym.to/?https://www./) - Bazarr is a companion application to Sonarr and Radarr that manages and organise your media.

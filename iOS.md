@@ -28,6 +28,13 @@
 - [App Valley](https://anonym.to/?https://app.appvalley.vip/) - Basically the Aptoide under the iOS Stores.
 - [Box Loca](https://anonym.to/?https://apps.apple.com/us/app/box-loca/id1466961267) - Track the movies you have watched with Box Loca for iPhone.
 - [Cydia](https://anonym.to/?https://cydia.saurik.com/) - Cydia is an alternative to Apple's App Store for "jailbroken" devices.
+- [MoviesDiary](https://anonym.to/?https://itunes.apple.com/us/app/movies-diary/id1331405996?mt=8)
+
+**[`^        back to top        ^`](#readme)**
+
+
+### Apple Software (Beta)
+- [Beta Profiles](https://anonym.to/?https://betaprofiles.com/) - Download Apple Beta Software without an account or developer ID.
 
 **[`^        back to top        ^`](#readme)**
 
