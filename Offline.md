@@ -377,6 +377,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - torrentz.eu
 - ts.saahov.ru
 - zhongzicili.com
+- torrentbutler.eu
 
 
 ## ISP blocked (needs VPN/proxy/DNS to bypass it)
@@ -623,6 +624,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 ## DNS Provider
 - https://dnswarden.com/
 
+
 ## Domeroms
 - doperoms.com
 - 3DSISO.com (replaced)
@@ -645,6 +647,6 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - [ViewComics](https://anonym.to/?http://ww25.viewcomic.com/) - (`insecure`) - Alternative to ReadComicsOnline.
 - [BS.to](https://anonym.to/?https://bs.to/) - (`GER`) - (`insecure`) - German Video-on-Demand-Website for TV-Shows, Cartoons & Movies.
 - [bmovies](https://anonym.to/?http://bmovies.to/) - (`insecure`) + ([Mirror](https://anonym.to/?https://bmovies.life/bmovies.is)) + [Mirror](https://anonym.to/?https://bmovies.se/))
-- https://cracksnow.com/
-
+- cracksnow.com
+- tparser.org
 

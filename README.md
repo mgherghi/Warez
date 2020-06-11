@@ -804,6 +804,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents.me](https://anonym.to/?https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://anonym.to/?https://github.com/DEgITx/rats-search) - P2P Bittorrent search engine.
 - [SolidTorrents](https://anonym.to/?https://solidtorrents.net) - A clean and privacy focused torrent search engine.
+- [idope](https://anonym.to/?https://idope.se/) - A torrent seatch engine and a tribute to KickAss Torrents.
 
 **[`^        back to top        ^`](#readme)**
 
