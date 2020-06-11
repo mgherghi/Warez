@@ -1607,8 +1607,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Bzinho Games](https://anonym.to/?https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
 - [CompucaliTV](https://anonym.to/?https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
 - [CS.Rin.RU](https://anonym.to/?https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://anonym.to/?https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - [Blog](https://anonym.to/?https://write.as/ress/)
-- [Firestorm](https://anonym.to/?https://firestorm-servers.com/) - Games & mor
-
+- [Firestorm](https://anonym.to/?https://firestorm-servers.com/) - Games & more.
 - [GameCopyWorld](https://anonym.to/?https://gamecopyworld.eu) - Provides cracks and tutorials for Games.
 - [GamesFull](https://anonym.to/?https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
 - [Games Turret](https://anonym.to/?https://gamesturret.ga/) - Proves games via file hosters.
@@ -1648,7 +1647,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### 3DS
 - [3DS Decrypter utility](https://anonym.to/?https://github.com/matiffeder/stuff) - Decrypt 3DS files.
-- [3dscia](https://anonym.to/?http://www.3dscia.to/) - (`insecure=`) - Nintendo 3ds CIA files.
+- [3dscia](https://anonym.to/?http://www.3dscia.to/) - (`insecure`) - Nintendo 3ds CIA files.
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
 - [GDrive](https://anonym.to/?https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
