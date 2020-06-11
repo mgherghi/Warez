@@ -1534,6 +1534,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Skidrow Repacks](https://anonym.to/?https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!
 - [Tapochek](https://anonym.to/?https://tapochek.net/) - Official R.G Mechanics repacks can be found here.
 - [Xatab Repacks](https://anonym.to/?https://xatab-repack.net) - (`RU`) - Russian game repacker, provides primarily torrents.
+- [TorrentGames](https://anonym.to/?https://utorrentgames.org/) - (`RU`) - Russian game repacker site, delivers the games via torrent.
 
 **[`^        back to top        ^`](#readme)**
 
