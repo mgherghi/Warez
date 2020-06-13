@@ -67,7 +67,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Open Source hardware.md](https://github.com/CHEF-KOCH/Warez/blob/master/Open%20Source%20Hardware.md) - Lists privacy and FOSS hardware alternatives.
 - [Telegram.md](https://github.com/CHEF-KOCH/Warez/blob/master/Telegram.md) - Telegram channels, bots, scripts, tools & more.
 - [Trusted.md](https://github.com/CHEF-KOCH/Warez/blob/master/Trusted.md) - Lists trusted groups or people which are known to crack or upload stuff.
-- [Tor.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tor.md) - Tor 🧅 list.
+- [Tor.md](https://github.com/CHEF-KOCH/Warez/blob/master/Tor.md) - Tor 🧅  list.
 - [iOS.md](https://github.com/CHEF-KOCH/Warez/blob/master/iOS.md) - Provides an overview of iOS related piracy and tools, channels + jailbreak solutions.
 - [Soft-Ban.md](https://github.com/CHEF-KOCH/Warez/blob/master/Soft-Ban.md) - Websites which are temporarily removed from the list because they do not follow our security standards or are banned because of other reasons. They maybe return once the webmaster secured the website.
 - [Code-of-Conduct.md](https://github.com/CHEF-KOCH/Warez/blob/master/CODE_OF_CONDUCT.md) - A list which provides our current project standards.
@@ -447,8 +447,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [SongsLover](https://anonym.to/?https://songslover.cam/)Blog around music, provides MP3s.
 - [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog around MP3s.
 - [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
-- [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repositry for archiving music**[`^        back to top        ^`](#readme)**
+- [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repository for archiving music.
 
+**[`^        back to top        ^`](#readme)**
 
 ### Audio Torrenting
 - [Redtopic](https://anonym.to/?https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.

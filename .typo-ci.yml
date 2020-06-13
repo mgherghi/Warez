@@ -61,6 +61,60 @@ excluded_words:
   - spyoungtech
   - Genration
   - Rosco
+  - SzeneBox
+  - szb
+  - NZB
+  - Kabel-Receiver
+  - torrenting
+  - Toorgle
+  - remuxes
+  - Animés
+  - différents
+  - dpstream
+  - herbergeurs
+  - votre
+  - Filmz
+  - alamy
+  - gsettings
+  - hoster
+  - WawaCity
+  - Streamcomplet
+  - Wikiserie
+  - Gratuit
+  - Allostream
+  - Série
+  - Papystreaming
+  - Filmcomplet
+  - Serie-Streaming
+  - Comédie
+  - Horreur
+  - Annuaire-telechargement-fr
+  - Annuaire
+  - Sokrostream
+  - Mobdro
+  - Megadede
+  - Movidy
+  - Regarder
+  - complets
+  - kkiboeco
+  - XpoMusic
+  - Spotify
+  - Netflix
+  - des
+  - française
+  - gratuit
+  - SteamWorkFixs
+  - Steam
+  - les
+  - sélections
+  - voir
+  - autres
+  - gratuit
+  - PCMYMJuegos
+  - mangas
+  - téléchargement
+  - séries
+  - CompucaliTV
 
 # Would you like filenames to also be spellchecked?
 spellcheck_filenames: true
