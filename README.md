@@ -1589,6 +1589,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### Good Old Download alternatives (mirrors)
 - [GOD Games](https://anonym.to/?https://god-games.com/) - GOD is alive.
 - [Scenegames](https://anonym.to/?https://scenegames.to/) - GoD  scene releases.
+- [Gog Games](https://gog-games.com/) - Reboot of the old GoG website.
 
 **[`^        back to top        ^`](#readme)**
 
