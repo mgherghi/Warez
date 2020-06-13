@@ -39,9 +39,11 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ## Kindle eBook
 - [Guide to Copy Kindle Content to PDF using Calibre](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [The idiot-proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/)
+- [Guide to Copy Kindle Content to PDF via Calibre](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 
 **[`^        back to top        ^`](#)**
 

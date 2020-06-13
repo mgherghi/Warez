@@ -237,13 +237,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### General Filesharing Discussions
 - [MVGroup.org](https://anonym.to/?https://www.mvgroup.org/) - BitTorrent-Tracking- and Filesharing-Community.
-- [Szenebox](https://anonym.to/?https://www.szenebox.org/) - `Ger` - SzeneBox.org (szb.to) is a german scene forum for discussions around warez and the scene.
+- [Szenebox](https://anonym.to/?https://www.szenebox.org/) - (`Ger`) - SzeneBox.org (szb.to) is a german scene forum for discussions around warez and the scene.
 
 **[`^        back to top        ^`](#readme)**
 
 
 ### Cardsharing
-- [TV-Lounge.eu](https://www.tv-lounge.eu) - `Ger` -  IPTV, OSCAM, SKY, CCAM, Kabel-Receiver, IPTV & Co.
+- [TV-Lounge.eu](https://www.tv-lounge.eu) - (`Ger`) - IPTV, OSCAM, SKY, CCAM, Kabel-Receiver, IPTV & Co.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -390,7 +390,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [s.MailPro](https://anonym.to/?https://smailpro.com/) - Offering Temporary Email Service
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
-- [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay)
+- [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay).
 
 **[`^        back to top        ^`](#readme)**
 
@@ -405,7 +405,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Official Scene Group Forums
-- [3DM Forum](https://anonym.to/?https://bbs.3dmgame.com/) - `CN` - The official 3DMs page.
+- [3DM Forum](https://anonym.to/?https://bbs.3dmgame.com/) - (`CN`) - The official 3DMs page.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -447,9 +447,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [SongsLover](https://anonym.to/?https://songslover.cam/)Blog around music, provides MP3s.
 - [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog around MP3s.
 - [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
-- [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repositry for archiving music.
-
-**[`^        back to top        ^`](#readme)**
+- [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repositry for archiving music**[`^        back to top        ^`](#readme)**
 
 
 ### Audio Torrenting
@@ -525,7 +523,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 * Poland
 * Spain
 * [Switzerland](https://anonym.to/?https://ustr.gov/sites/default/files/2020_Special_301_Report.pdf)
-* - [Where are torrents permitted?](https://anonym.to/?https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
+* [Where are torrents permitted?](https://anonym.to/?https://i.imgur.com/3fHyG2S.png) - A world map (picture) which shows where warez torrenting is allowed.
 
 
 ### Countries where both downloading & sharing is illegal
@@ -594,7 +592,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Pirate News, Blogs & Discussion Forums
-- [NextWarez](https://anonym.to/?https://nextwarez.com) - (FR) - P2P topics & news page.
+- [NextWarez](https://anonym.to/?https://nextwarez.com) - (`FR`) - P2P topics & news page.
 - [Scenenotice.org](https://anonym.to/?https://scenenotice.org) - Archive with over 1 GB of old Realeaser-Scene.
 - [szeneBOX.org](https://anonym.to/?https://www.szenebox.org) - (`GER`) - (needs VPN) - Forum & News around the Scene.
 - [Tarnkappe.info](https://anonym.to/?https://tarnkappe.info) - (`GER`) - News & Rumours, Blog & Forum.
@@ -623,7 +621,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Torrent Search Engine Sites
 - [Search Torrents](https://anonym.to/?https://search.torrents.io/) - Search torrents on dozens of torrent sites and torrent trackers.
-- [Toorgle](https://anonym.to/?https://www.toorgle.com/) - `insecure` - Torrent Search in over 450+ torrents websites at the same time.
+- [Toorgle](https://anonym.to/?https://www.toorgle.com/) - (`insecure`) - Torrent Search in over 450+ torrents websites at the same time.
 - [The Pirate Bay Search](https://anonym.to/?https://thepiratebay1.herokuapp.com/) - Searches the pirate bay (even if the official website is down or under maintainance)
 - [bonneteer.herokuapp.](https://anonym.to/?https://bonneteer.herokuapp.com/) - Indexes multiple trusted sources.
 
@@ -685,9 +683,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [TheGeeks](https://anonym.to/?https://thegeeks.click/) - (TGBZ) - Private tracker for e-learning
 - [TorrentLeech](https://anonym.to/?https://torrentleech.org/) - (TL) - Well-known popular private tracker
 - [Tracker Spreadsheet](https://anonym.to/?https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) - Comprehensive spreadsheet of private trackers (somewhat out of date).
-- [TVChaos UK](https://anonym.to/?https://www.tvchaosuk.com/) - (TVCUK) - Private tracker for British television
+- [TVChaos UK](https://anonym.to/?https://www.tvchaosuk.com/) - (`TVCUK`) - Private tracker for British television
 - [UHDBits](https://anonym.to/?https://uhdbits.org/) - (UHD) - UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
-- [WorldOfP2P](https://anonym.to/?https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
+- [WorldOfP2P](https://anonym.to/?https://worldofp2p.net) - (`WOP`) - Private tracker for Movies, TV and general P2P stuff.
 - [Fou Du cinema](https://anonym.to/?https://fou-du-cinema.net/) - (`FR`) - (`invite only`) Movies, TV Series, Documentaries, General.
 - [BWTorrents.tv](https://anonym.to/?https://bwtorrents.tv/signup.php) - Bollywood tracker.
 - [Blackhole torrent (BHT)](https://anonym.to/?https://bht.is/) - (`FR`) - A tracker for movies and TV shows.
@@ -695,7 +693,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [avg.club](https://anonym.to/?https://avg.club/)
 - [peers](https://anonym.to/?https://peers.fm/)
 - [tracker.0day.kiev](https://anonym.to/?https://tracker.0day.kiev.ua/)
-- [BeyondHD](https://anonym.to/?https://beyond-hd.me/login) - (`login needed) - 4K remuxes and 4K movies
+- [BeyondHD](https://anonym.to/?https://beyond-hd.me/login) - (`login needed`) - 4K remuxes and 4K movies
 - [xbytes](https://anonym.to/?http://www.xbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HDBytes](https://anonym.to/?https://www.hdbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
@@ -909,7 +907,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Convert Torrent to Direct HTTP Link
 - [BTCloud](https://anonym.to/?https://btcloud.io/) - BTCLoud offer 1 GB of storage space with 1 GB file size limit and 5 torrents stored at a time for its free users.
-- [Filestream.me](https://anonym.to/?https://filestream.me/) - (needs VPN to visit the page) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
+- [Filestream.me](https://anonym.to/?https://filestream.me/) - (`needs VPN to visit the page`) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
 - [Furk](https://anonym.to/?https://www.furk.net/) - needs invite - Offers an unlimited storage time for fetched file as long as the file is from a public sources such as the Pirate Bay.
 - [Seedr](https://anonym.to/?https://seedr.cc/) + ([mirror](https://anonym.to/?https://streamza.com/)) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
 - [Streamza](https://anonym.to/?https://streamza.com/)
@@ -930,7 +928,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Online.net](https://anonym.to/?https://www.online.net/en) - Seedbox-friendly, affordable, dedicated server host.
 - [OVH](https://anonym.to/?https://www.ovh.com/world/) - Large cloud server provider.
 - [Seedboxes.cc](https://anonym.to/?https://[seedboxes.cc](https://www.seedboxes.cc)/) - Reliable and affordable web hosting, with the power of your friendly monsters!
-- [SeedHost](https://anonym.to/?https://www.seedhost.eu/seedboxes.php) - "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
+- [SeedHost](https://anonym.to/?https://www.seedhost.eu/seedboxes.php) - Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
 - [SoYouStart](https://anonym.to/?https://www.soyoustart.com/us/) - Another dedicated server host.
 - [UltraSeedbox](https://anonym.to/?https://www.ultraseedbox.com/) - "Plex optimized" servers to rent.
 - [Whatbox](https://anonym.to/?https://whatbox.ca/) - Whatbox is a BitTorrent CDN.
@@ -1366,11 +1364,11 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Arabseed](https://anonym.to/?https://arabseed.tv/) - (AR) - Online shopping from a great selection at Digital Music Store.
 - [Best Free Streaming](https://anonym.to/?https://www.bestfreestreaming.com/) - Another streaming site that rates streaming services.
 - [CMoviesHD](https://anonym.to/?https://www2.cmovieshd.bz) - Basic streaming site layout, HD server with additional hosts.
-- [DP Stream](https://anonym.to/?https://www.dpstream.net/) - (FR) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
+- [DP Stream](https://anonym.to/?https://www.dpstream.net/) - (`FR`) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
 - [Daxiv Video](https://anonym.to/?https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 - [FMOVIES](https://anonym.to/?https://fmovies.to/) - Just a better place for watching online movies for free!
 - [FilmXY](https://anonym.to/?https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality!! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & mo
-- [Filmz.cc](https://anonym.to/?https://www.filmz.cc/) - (FR) - French streaming website.
+- [Filmz.cc](https://anonym.to/?https://www.filmz.cc/) - (`FR`) - French streaming website.
 - [FlixGo](https://anonym.to/?https://flixgo.net/) - Ralph Breaks the Internet. Avengers: Infinity War. Incredibles 2. Ant-Man and the Wasp ... Dawn of Justice. Captain America: Civil War. FlixGo.
 - [Flixanity](https://anonym.to/?https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
 - [HD MOVIES](https://anonym.to/?https://hdm.to/) - Watch free movies online in 1080p at HDM.to - Stream & download the latest HD movies online for free without registration.
@@ -1378,7 +1376,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [HDO](https://anonym.to/?https://hdo.to/) - Watch HD Movies Online For Free the latest movies, tv-series without Registration at hdonline.to.
 - [HDOnline](https://anonym.to/?https://www3.hdonline.eu/) - Free Movies Online!
 - [INDOXXI](https://anonym.to/?https://indoxxi.cx/) - Movies releases.
-- [KStreaming](https://anonym.to/?https://www.k-streaming.tv/) - (FR) - Film Streaming et Série Streaming Gratuit.
+- [KStreaming](https://anonym.to/?https://www.k-streaming.tv/) - (`FR`) - Film Streaming et Série Streaming Gratuit.
 - [LookMovie](https://anonym.to/?https://lookmovie.ag/) - (`needs adblocker`) - Watch Movies and TV Shows for Free in 1080p and 720p. New Movies and Episodes are added every hour.
 - [MKVHub](https://anonym.to/?https://www.mkvhub.com/) - MkvHub is the best website to download high-quality 720p, 1080p WEB-DL HDRip BluRay Movies and TV Shows with Single Direct Download Link.
 - [Nox](https://anonym.to/?https://nox.tv/) - (`GER`) - Filme, HD-Filme, 3D-Filme, Serien und Spiele - News. Reporters Without Borders.
@@ -1387,24 +1385,24 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Rainierland](https://anonym.to/?https://rainierland.is/) - Official home of rainierland - no ads and only good movies.
 - [Series9](https://anonym.to/?https://www2.series9.io/) - Unique design, HD server with additional hosts.
 - [Soap2day](https://anonym.to/?https://www.soap2day.com/) - Unique design, very nice speeds, HD server with subtitles.
-- [Sokrostream.vip](https://anonym.to/?https://sokrostream.vip/) - (FR) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
+- [Sokrostream.vip](https://anonym.to/?https://sokrostream.vip/) - (`FR`) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
 - [Solarmovie](https://anonym.to/?https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
 - [StreamCR](https://anonym.to/?https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
 - [Streams.now.sh](https://anonym.to/?https://streams.now.sh/) - Clean design, fast & smart search, large variety of films, HD quality, from popular groups & hosters.
 - [StreamCouch](https://anonym.to/?https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
-- [Streamcomplete](https://anonym.to/?https://streamcomplet.me/) - (FR) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
+- [Streamcomplete](https://anonym.to/?https://streamcomplet.me/) - (`FR`) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
 - [TakiART](https://anonym.to/?https://www.takiartmovies.ga/) - Watch and download latest Hollywood movies for free.
-- [Time2Watch](https://anonym.to/?https://time2watch.in/) - (FR) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
+- [Time2Watch](https://anonym.to/?https://time2watch.in/) - (`FR`) - Films, séries et mangas en streaming et téléchargement gratuit pour PC, iPhone, iPad et autres Smartphones.
 - [Tubeninja](https://anonym.to/?https://tubeninja.net) - All-in-one audio and video downloader that doesn't require any installation.
-- [VF-Streaming](https://anonym.to/?https://www.vf-stream.org/) - (FR) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
+- [VF-Streaming](https://anonym.to/?https://www.vf-stream.org/) - (`FR`) - Voir Les Meilleurs Films, Séries Et Manga En Streaming HD Gratuit Sans inscription Sur VF Stream Venez découvrir les derniers films complet en français.
 - [Vidcloud](https://anonym.to/?https://vidcloud.icu/) - Basic streaming site layout, HD server with additional hosts.
 - [VodLocker](https://anonym.to/?https://vodlocker.tv/) - Official home of vodlocker - no ads and only good movies.
-- [VoirFilms.ws](https://anonym.to/?https://ww6.voirfilms.ws/) - (FR) -Voir Film Streaming, Streaming Film, telecharger, Films, regarder film streaming, dvdrip, film en streaming, voirfilms, gratuit.
+- [VoirFilms.ws](https://anonym.to/?https://ww6.voirfilms.ws/) - (`FR`) -Voir Film Streaming, Streaming Film, telecharger, Films, regarder film streaming, dvdrip, film en streaming, voirfilms, gratuit.
 - [WatchFree](https://anonym.to/?https://watchfree.at/) - Watch Movies Online Free. Watch your favorite movies and tv-series in hd quality on watchfree.to + putlocker.
 - [cine.to](https://anonym.to/?https://cine.to/) -  Sit back and relax while watching the newest Cinema or your favorite Movie for free. Just cine.to & chill.
 - [cinebloom](https://anonym.to/?https://www2.cinebloom.com) - Action Adventure Animation Biography Comedy Crime Documentary Drama Family Fantasy History Horror Music Musical Mystery Romance Sci-Fi Sport Thriller War Western.
 - [eMule Island.ru](https://anonym.to/?https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
-- [libertyVF](https://anonym.to/?https://ww1.libertyvf.org/) - (FR) -
+- [libertyVF](https://anonym.to/?https://ww1.libertyvf.org/) - (`FR`) -
 - [onemov](https://anonym.to/?https://onemov.net/) - Online Full HD Movie Free.
 - [openloadmovies.net](https://anonym.to/?https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
 - [filmyzilla1](https://anonym.to/?https://filmyzilla1.com/genre/animation/) - (`Hindi`) - Animated Hindi movies.
@@ -1587,7 +1585,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### ROMs
-- [Rom Center paste edition](https://anonym.to/?https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - Paste edition from the original [ROM's MegaThread](https://anonym.to/https://old.reddit.com/r/Roms/comments/gar3bc/roms_megathread_, basically a lin/archive collection of various game console ROMs.
+- [Rom Center paste edition](https://anonym.to/?https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - Paste edition from the original [ROM's MegaThread](https://anonym.to/https://old.reddit.com/r/Roms/comments/gar3bc/roms_megathread), basically a lin/archive collection of various game console ROMs.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1621,14 +1619,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## PC Games
 - [Bzinho Games](https://anonym.to/?https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
-- [CompucaliTV](https://anonym.to/?https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
+- [CompucaliTV](https://anonym.to/?https://www.compucalitv.com/juegos-pc) - (`SP`) - Games, Video & more via Mega, OpenLoad, & others).
 - [CS.Rin.RU](https://anonym.to/?https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://anonym.to/?https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - [Blog](https://anonym.to/?https://write.as/ress/)
 - [Firestorm](https://anonym.to/?https://firestorm-servers.com/) - Games & more.
 - [GameCopyWorld](https://anonym.to/?https://gamecopyworld.eu) - Provides cracks and tutorials for Games.
-- [GamesFull](https://anonym.to/?https://www.gamesfull.org/) - (SP) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
+- [GamesFull](https://anonym.to/?https://www.gamesfull.org/) - (`SP`) - ElAmigos Games and other scene releases. Mega, GDrive, MediaFire.
 - [Games Turret](https://anonym.to/?https://gamesturret.ga/) - Proves games via file hosters.
 - [MegaGames](https://anonym.to/?https://megagames.com/) - Same like GameCopyWorld, online since 20+ years, old but gold!
-- [PCMYMJuegos](https://anonym.to/?https://pcmymjuegos.com/) - (SP) - Spanish website for SteamWorkFixs and other stuff. Mega, GDrive, MediaFire.
+- [PCMYMJuegos](https://anonym.to/?https://pcmymjuegos.com/) - (`SP`) - Spanish website for SteamWorkFixs and other stuff. Mega, GDrive, MediaFire.
 - [Skidrow & Reloaded](https://anonym.to/?https://www.skidrowreloaded.com/) - Fanmade Skidrow & Reloaded mirror website.
 - [SpartaGames](https://anonym.to/?https://spartagames.net/category/pc/) - (PT/BR) - Torrent links and direct server mirrors to various scene releases.
 - [Steamunlocked](https://anonym.to/?https://steamunlocked.net) - Pre-installed/cracked steam games - just hit start and play.
@@ -1690,7 +1688,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MEga.nz](https://anonym.to/?https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection
 - [Mega.nz](https://anonym.to/?https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console
 - [ziperto.com](https://anonym.to/?https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
-- [3DS-Paradise](https://anonym.to/?https://3ds-paradise.com/) - (FR) - One of the biggest 3DS forums in france.
+- [3DS-Paradise](https://anonym.to/?https://3ds-paradise.com/) - (`FR`) - One of the biggest 3DS forums in france.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1930,7 +1928,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Spotify Ad-Free](https://anonym.to/?https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
 - [Spotify Downloader](https://anonym.to/?https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
 - [Spytify](https://anonym.to/?https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
-- [XpoMusic](https://anonym.to/?https://github.com/MahdiGhiasi/XpoMusic)) - A modern Spotify experience for Windows 10.
+- [XpoMusic](https://anonym.to/?https://github.com/MahdiGhiasi/XpoMusic) - A modern Spotify experience for Windows 10.
 - [spotr](https://anonym.to/?https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
 
 **[`^        back to top        ^`](#readme)**
@@ -1995,7 +1993,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Sanet](https://anonym.to/?https://sanet.st/) - Windows and uncracked software as well as MacOS cracked software.
 - [GetIntoPC](https://anonym.to/?https://getintopc.com/) - Last place to look for MacOS software.
 - [Olarila](https://anonym.to/?http://Olarila.com) - Provides MacOS ISOs for VM among several other stuff.
-- [Mac Torrents](https://anonym.to/?https://mac-torrents.io/mac-games/) - provides magnets / torrents for MacOS.
+- [Mac Torrents](https://anonym.to/?https://mac-torrents.io/mac-games/) - Provides magnets / torrents for MacOS.
 - [NXMac Ked](https://anonym.to/?https://nxmac.com/) - MacOS apps, software, deisgn & more.
 
 **[`^        back to top        ^`](#readme)**
@@ -2073,7 +2071,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Free eBooks](https://anonym.to/?https://www.free-ebooks.net/) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
 - [FreeTechBooks](https://anonym.to/?https://www.freetechbooks.com/) - Download free computer science, engineering and programming books, textbooks and lecture notes.
 - [GetFreeEBooks](https://anonym.to/?https://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
-- [Guide to Copy Kindle Content to PDF via Calibre](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/) -
 - [Gutenberg](https://anonym.to/?https://www.gutenberg.org/wiki/Main_Page) - Project Gutenberg was the first to supply free ebooks, and today they have over 60,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://anonym.to/?https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) - DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
 - [iBiblio](https://anonym.to/?https://www.ibiblio.org/) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
@@ -2154,7 +2151,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [GingaDaddy](https://anonym.to/?https://www.gingadaddy.com) - A usenet newsgroup for eBooks. (needs login)
 - [oznzb](https://anonym.to/?https://www.oznzb.com ) - Yet another ebook search engine.
 - [PDFDrive](https://anonym.to/?https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
-- [Search via Google Search](https://anonym.to/?https://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - - Preset of indexed websites to search for comics.
+- [Search via Google Search](https://anonym.to/?https://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Preset of indexed websites to search for comics.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2340,11 +2337,11 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Liveflix](https://anonym.to/?https://store.ioob.pw/) - The app allows to watch your favorite channels easily, with a very simple UI.
 - [MediaBox HD](https://anonym.to/?https://mediaboxhd.net/) - Provides tv shows, movies & more on Android + iOS.
 - [Mega Shows](https://anonym.to/?https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
-- [Mobdro](https://anonym.to/?https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your- [RevTV](https://anonym.to/?https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish
+- [Mobdro](https://anonym.to/?https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your- [RevTV](https://anonym.to/?https://lotstv.com/) - (`es-ES`) - Live TV, Movies, TV Shows in Spanish
 - [Streaming Apps Official Links / How to use Trakt & Real Debrid (self.TTVreborn)](https://old.reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
 - [TeaTV](https://anonym.to/?https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
 - [Terrarium TV Reborn sub reddit](https://anonym.to/?https://old.reddit.com/r/TTVreborn) - A place to talk about streaming apps.
-- [TVPato2](https://anonym.to/?https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
+- [TVPato2](https://anonym.to/?https://tvpato2.com/) - (`es-ES`) - Spanish Live TV App.
 - [TVZion](https://anonym.to/?https://tvzionapp.live/) - + [Reddit](https://anonym.to/?https://www.removeddit.com/r/TVZionApp/)
 - [UnlockMyTV (Cinema Clone Ad-Free)](https://anonym.to/?https://unlockmytv.com/)
 - [Vaughn Live ](https://anonym.to/?https://vaughn.live) - Possibly the greatest LIVE streaming video site on the internet! Looks like a Twitch clone.
@@ -2461,8 +2458,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [IWannaWatch](https://anonym.to/?https://www.iwannawatch.is/)
 - [Khaanflix](https://anonym.to/?https://khaanflix.com/)
 - [MegaDDL](https://anonym.to/?https://megaddl.co) - Various movies via Mega, 1Fitcher, Openload and other file-hoster.
-- [Megadede](https://anonym.to/?https://www.megadede.com/) - (SP) - Yet another spanish streaming site with TV shows and movies.
-- [Movidy](https://anonym.to/?https://movidy.co/) - (SP) - Spanish streaming website for movies and TV series.
+- [Megadede](https://anonym.to/?https://www.megadede.com/) - (`SP`) - Yet another spanish streaming site with TV shows and movies.
+- [Movidy](https://anonym.to/?https://movidy.co/) - (`SP`) - Spanish streaming website for movies and TV series.
 - [MovieGlide](https://anonym.to/?https://www.movieglide.com/)
 - [Movies24](https://anonym.to/?https://movies24.top/)
 - [MovieZion](https://anonym.to/?https://www.nicemoviezion.pro/)
@@ -2487,7 +2484,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Watchfree.at](https://anonym.to/?https://watchfree.at/watchfree.html)
 - [Watchfree.movie](https://anonym.to/?https://www1.watchfree.movie/)
 - [WatchOnline.al](https://anonym.to/?https://watchonline.al/)
-- [WawaCity](https://anonym.to/?https://ww3.wawacity.ec) - (FR) - Movies & tv series.
+- [WawaCity](https://anonym.to/?https://ww3.wawacity.ec) - (`FR`) - Movies & tv series.
 - [XMovies8](https://anonym.to/?https://xmovies8.ru/)
 - [Yes! Movies](https://anonym.to/?https://yesmovies.to/)
 - [YesMovies.fun](https://anonym.to/?https://yesmovies.fun/)
@@ -2504,7 +2501,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-### Rarfilms
+### Rare Films
 <!-- markdown-link-check-disable -->
 - [Rarfilm](https://anonym.to/?http://rarefilm.net/)
 <!-- markdown-link-check-enable -->
@@ -2547,35 +2544,35 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Ymovies](https://anonym.to/?https://ymovies.tv/)
 - [PSARips One](https://anonym.to/?https://psarips.one/)
 - [BonsaidHD](https://anonym.to/?https://bonsaihd.site/) - Quality that Matters, Hindi and Bollywood movies.
-- [Allostream](https://anonym.to/?https://allostream.biz) - (`ES`)  - TV shows and series.
-- [Annuaire-telechargement-ec](https://anonym.to/?https://www.annuaire-telechargement.best/) - (FR) - Movies, TV shows and series in HQ.
-- [Annuaire Telechargement](https://anonym.to/?https://www.annuaire-telechargement.al/) - (FR) - Movies and Streaming.
-- [Annuaire-telechargement-fr](https://anonym.to/?https://www.annuaire-telechargement.fr/) - (FR) - Movies and TV streaming in HQ.
+- [Allostream](https://anonym.to/?https://allostream.biz) - (`ES` - TV shows and series.
+- [Annuaire-telechargement-ec](https://anonym.to/?https://www.annuaire-telechargement.best/) - (`FR`) - Movies, TV shows and series in HQ.
+- [Annuaire Telechargement](https://anonym.to/?https://www.annuaire-telechargement.al/) - (`FR`) - Movies and Streaming.
+- [Annuaire-telechargement-fr](https://anonym.to/?https://www.annuaire-telechargement.fr/) - (`FR`) - Movies and TV streaming in HQ.
 - [ATFUT](https://anonym.to/?https://www.movies4you.ovh/) - Movies and TV streaming.
 - [DivxTOP](https://anonym.to/?https://www.divxtop.com/) - Movies and TV streaming.
 - [DPSTREAM](https://anonym.to/?https://www.dpstream.com)
 - [DPStreaming](https://anonym.to/?https://dpstreaming.vip/)
-- [ETOPOP](https://anonym.to/?https://www.etopop.fr/) - (FR)
-- [Filmcomplet](https://anonym.to/?https://wmw.filmcomplet.vip/) - (FR)
-- [FilmStreamingg1](https://anonym.to/?https://www.filmstreaming1.rip/film/aventure/) - (FR)
-- [FilmStreaming1FV](https://anonym.to/?https://www1.filmstreaming1vf.co/) - (FR)
-- [FRStream](https://anonym.to/?https://www.frstream.org) - (FR)
-- [HDS-Streaming](https://anonym.to/?https://www.hds-stream.to/) - (FR)
-- [LibertyVF](https://anonym.to/?https://www.libertyland.al/) - (FR)
-- [N1Streaming](https://anonym.to/?https://n1streamings.com/) - (FR)
-- [Papystreaming](https://anonym.to/?https://www.papy-streaming.fr/) - (FR)
-- [Planet-Streaming1](https://anonym.to/?https://wwvv.streaming-planet.com/) - (FR)
+- [ETOPOP](https://anonym.to/?https://www.etopop.fr/) - (`FR`)
+- [Filmcomplet](https://anonym.to/?https://wmw.filmcomplet.vip/) - (`FR`)
+- [FilmStreamingg1](https://anonym.to/?https://www.filmstreaming1.rip/film/aventure/) - (`FR`)
+- [FilmStreaming1FV](https://anonym.to/?https://www1.filmstreaming1vf.co/) - (`FR`)
+- [FRStream](https://anonym.to/?https://www.frstream.org) - (`FR`)
+- [HDS-Streaming](https://anonym.to/?https://www.hds-stream.to/) - (`FR`)
+- [LibertyVF](https://anonym.to/?https://www.libertyland.al/) - (`FR`)
+- [N1Streaming](https://anonym.to/?https://n1streamings.com/) - (`FR`)
+- [Papystreaming](https://anonym.to/?https://www.papy-streaming.fr/) - (`FR`)
+- [Planet-Streaming1](https://anonym.to/?https://wwvv.streaming-planet.com/) - (`FR`)
 - [Rarefilmm](https://anonym.to/?https://rarefilmm.com/) - The cave of forgotten films!
-- [Serie-Streaming](https://anonym.to/?https://www.guardaserie.tube/) - (FR)
-- [Seriecomplete](https://anonym.to/?https://w22.seriecomplete.com/series/) - (FR)
-- [SKStream](https://anonym.to/?https://launchpad.net/skstream) - (FR)
-- [Streamcomplet](https://anonym.to/?https://www.streamcomplet.page/fr/) - (FR) - _sometimes offline_
-- [Streaming-VOSTFR](https://anonym.to/?https://vostfree.com/) - (FR) - Anime an TV shows.
-- [StreamingDIVX1](https://anonym.to/?https://StreamingDIVX1.com) - (FR)
-- [Time2watch](https://anonym.to/?https://time2watch.gg/) - (FR) - _sometimes offline_
-- [Voir-Films-Series](https://anonym.to/?https://www.voirfilms.al/series/) - (FR)
-- [VOSTFRSerie](https://anonym.to/?https://vostfrserie.biz/) - (FR)
-- [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (FR)
+- [Serie-Streaming](https://anonym.to/?https://www.guardaserie.tube/) - (`FR`)
+- [Seriecomplete](https://anonym.to/?https://w22.seriecomplete.com/series/) - (`FR`)
+- [SKStream](https://anonym.to/?https://launchpad.net/skstream) - (`FR`)
+- [Streamcomplet](https://anonym.to/?https://www.streamcomplet.page/fr/) - (`FR`) - _sometimes offline_
+- [Streaming-VOSTFR](https://anonym.to/?https://vostfree.com/) - (`FR`) - Anime an TV shows.
+- [StreamingDIVX1](https://anonym.to/?https://StreamingDIVX1.com) - (`FR`)
+- [Time2watch](https://anonym.to/?https://time2watch.gg/) - (`FR`) - _sometimes offline_
+- [Voir-Films-Series](https://anonym.to/?https://www.voirfilms.al/series/) - (`FR`)
+- [VOSTFRSerie](https://anonym.to/?https://vostfrserie.biz/) - (`FR`)
+- [Wikiserie](https://anonym.to/?https://www.wikiserie.biz/) - (`FR`)
 - [Dramaday](https://anonym.to/?https://dramaday.net/) - A website dedicated to drama based movies and OST.
 - [Tamil Rockers](https://anonym.to/?https://tamilrockers.ws/) - Movie sharing community.
 - [magellantv](https://anonym.to/?https://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
@@ -2610,7 +2607,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [4k-hd.club](https://anonym.to/?https://4k-hd.club/) - Premium site with the highest quality of 4K ULTRA HD Movies.
 - [4K-HDR.org](https://anonym.to/?https://4k-hdr.org/) - 4K rips HDR movies download, Blu-ray ultra hd movies HDR 10 Bit. Download movies rip HDR in 4K Ultra HD 2160P. 4K-HDR.ORG best site of 4K HDR format.
 - [Blu-ray.world](https://anonym.to/?https://blu-ray.world/) - Original blu-ray movies in format REMUX 4K, 3D, 1080P, 720P.
-- [HDSS](https://anonym.to/?https://hdss.watch/) - (FR)
+- [HDSS](https://anonym.to/?https://hdss.watch/) - (`FR`)
 - [MoviesFiles](https://anonym.to/?https://moviefiles.org/) - High quality MKV files which you can stream e.g. via MPV.
 - [nima4k](https://anonym.to/?https://nima4k.org/) - (`GER`) Movies and TV shows via DDL.to and Rapidgator.
 - [PrivateHD](https://anonym.to/?https://privatehd.to/) - (login needed) - HD, 4k Movies and TV shows.
@@ -2735,7 +2732,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Acestreams
-- [aceproxy](https://anonym.to/?https://github.com/ValdikSS/aceproxy) - Ace Stream HTTP Proxy. (**abandonware**)
 - [AceStreamSearch](https://anonym.to/?https://acestreamsearch.com/en/) - Ace Stream Broadcasts Search
 - [iktason/aceproxy](https://anonym.to/?https://hub.docker.com/r/ikatson/aceproxy/) - A docker image to run aceengine + aceproxy, e.g. to watch Torrent-TV.ru.
 
@@ -3068,9 +3064,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Premium leech
-- [Leech Premium](
-  s://anonym.to/?https://leechpremium.link/) - Premium leech service.
-- [](https://anonym.to/?https://ss-leech.herokuapp.com/) - Transload and leech service to various hoster.
+- [Leech Premium](https://anonym.to/?https://leechpremium.link/) - Premium leech service.
+- [ss-leech.herokuapp](https://anonym.to/?https://ss-leech.herokuapp.com/) - Transload and leech service to various hoster.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3098,14 +3093,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Image downloader (tools & websites)
 - [Dezoomify](https://anonym.to/?https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://anonym.to/?https://github.com/lovasoa/dezoomify/) - Download zoomable images.
-- [Downloader.la](https://anonym.to/?https://downloader.la/) - Download pictures and videos from various platforms such as iStock, PicFair, Adobe Stock, alamy, shutterstock, LovePik, PicFair and other providers.
-<!-- markdown-link-check-disable -->
-- [MyImgur](https://anonym.to/?http://myimgur.eden.fm/) - Most handy capture and uploader tool you'll ever find for Windows computers.
-<!-- markdown-link-check-enable -->
+- [Downloader.la](https://anonym.to/?https://downloader.la/) - Download pictures and videos from various platforms such as iStock, PicFair, Adobe Stock, alamy, shutterstock, LovePik, PicFair and other providers.<!-- markdown-link-check-disable -->
+- [MyImgur](https://anonym.to/?http://myimgur.eden.fm/) - Most handy capture and uploader tool you'll ever find for Windows computers.<!-- markdown-link-check-enable -->
 - [DroidIris+](https://anonym.to/?https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
 - [Tomato.to](https://anonym.to/?https://tomato.to/) - A website who downloads images from various known image providers, such as FLickr, 500px.com, WireImage and many more.
 
 **[`^        back to top        ^`](#readme)**
+
 
 ## Cloud based DNS Alternatives
 - [Blockchain-DNS.info](https://anonym.to/?https://blockchain-dns.info/) - First step towards the uncensored Internet, blockchaun based DNS system.
@@ -3468,7 +3462,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 Keep in mind that you can lock yourself out if you're whitelisted keybord is unfunctional or damaaged, you might not be able to use other USB hardware!
 
 - [USBGuard](https://anonym.to/?https://usbguard.github.io/) + [Tutorial](https://anonym.to/?https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-using-usbguard)
-- [Gnome 3.38](https://anonym.to/?https://mail.gnome.org/archives/distributor-list/2020-March/msg00000.html)+: `gsettings set org.gnome.desktop.privacy usb-protection true`
+- [Gnome 3.38](https://anonym.to/?https://mail.gnome.org/archives/distributor-list/2020-March/msg00000.html) + `gsettings set org.gnome.desktop.privacy usb-protection true`
 - [USB Keystroke Injection Protection](https://anonym.to/?https://opensource.googleblog.com/2020/03/usb-keystroke-injection-protection.html)
 - [USB Keyboard Guard](https://anonym.to/?https://www.gdata.de/de-usb-keyboard-guard)
 
@@ -3485,6 +3479,7 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 ## Upload Files for Free
 - [uploadfiles](https://anonym.to/?https://uploadfiles.io/) - From files, images, music, video and more – Uploadfiles is a free and easy way to share your data
 - [GoFile](https://anonym.to/?https://gofile.io/welcome) - File sharing platform, anonymous and free.
-- [nofile]https://anonym.to/?http://nofile.io/) - (`GeoIP block`) - File sharing platform, anonymous and free.
+- [nofile](https://anonym.to/?http://nofile.io/) - (`GeoIP block`) - File sharing platform, anonymous and free.
 
-**[`^        back to top        ^`](#readme)
+**[`^        back to top        ^`](#readme)**
+
