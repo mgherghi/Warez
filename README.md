@@ -616,10 +616,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-### Torrent Search Engine
+### Torrent Search Engine Sites
 - [Search Torrents](https://anonym.to/?https://search.torrents.io/) - Search torrents on dozens of torrent sites and torrent trackers.
 - [Toorgle](https://anonym.to/?https://www.toorgle.com/) - `insecure` - Torrent Search in over 450+ torrents websites at the same time.
-- [The Pirate Bay Search](https://anonym.to/?https://thepiratebay1.herokuapp.com/) - Searches the pirate bay (even if the official website is down or under maintainance).
+- [The Pirate Bay Search](https://anonym.to/?https://thepiratebay1.herokuapp.com/) - Searches the pirate bay (even if the official website is down or under maintainance)
+- [bonneteer.herokuapp.](https://anonym.to/?https://bonneteer.herokuapp.com/) - Indexes multiple trusted sources.
+
+**[`^        back to top        ^`](#readme)**
+
 
 ### Torrent Trackers
 - [/r/trackers](https://anonym.to/?https://www.removeddit.com/r/trackers) - A subreddit for discussing public & private trackers.
@@ -1933,7 +1937,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Sanet.st](https://anonym.to/?https://sanet) - Also known as "SoftArchive", is a portal to provide Windows software cracks.
 - [Softlay](https://anonym.to/?https://softlay.net) - Windows software mirrors.
 - [Softpilot](https://anonym.to/?https://softpilot.win/) - (`RU`) - A forum and website for various repacks and in general a good place for software discussions.
-- [Tapochek](https://anonym.to/?https://tapochek.net/) - (`RU`)
 - [Team-OS HKRG](https://anonym.to/?https://www.teamos-hkrg.com/index.php) - Windows software and various activation tools.
 - [Underver.se](https://anonym.to/?https://underver.se/) - (`RU`)
 - [OnHaxCrack](https://anonym.to/?https://www.onhaxcrack.me) - A website dedicated to provide cracks for various types of Software.
@@ -1942,7 +1945,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
 - [ProFreeCrack](https://anonym.to/?https://profreecrack.com) - Provides cvracks for various programs.
 
-**[`^        back to top        ^`](#readm
+**[`^        back to top        ^`](#readme)**
+
+
 ### Software Repacks
 - [Diakov.net](https://anonym.to/?https://diakov.net/) - (`RU`) - Russian repacker provides various software repacks.
 - [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
@@ -1953,16 +1958,18 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## MacOS
-- [CMacA](https://anonym.to/?https://cmacapps.com/) - A nice website for MacOS software.
+- [CMac Apps](https://anonym.to/?https://cmacapps.com/) - A nice website for MacOS software.
 - [APPKED](https://anonym.to/?https://www.macbed.com) - Links to share-hosters, provides serials, cracks & more.
 - [CrackSoft](https://anonym.to/?https://crackzsoft.com/) - Latest Crack Softwares For Windows and MacOS.
-- [Imojado](https://anonym.to/?https://www.imojado.org) - (needs ad-blocker) - Android, MacOS X and other things.
+- [Imojado](https://anonym.to/?https://www.imojado.org) - (`needs ad-blocker`) - Android, MacOS X and other things.
 - [KaranPC](https://anonym.to/?https://karanpc.com/mac) - MacOS X warez via sharehoster.
-- [Mac Torrent Download](https://anonym.to/?https://mac-torrent-download.net/) - (needs ad-blocker) - Provides cracks for MacOS. Be careful, each click triggers an ad.
+- [Mac Torrent Download](https://anonym.to/?https://mac-torrent-download.net/) - (`needs ad-blocker`) - Provides cracks for MacOS. Be careful, each click triggers an ad.
 - [nMac.to](https://anonym.to/?https://nmac.to) - Tutorials, Apps, Games via P2P or sharehoster for MacOS.
 - [Sanet](https://anonym.to/?https://sanet.st/) - Windows and uncracked software as well as MacOS cracked software.
 - [GetIntoPC](https://anonym.to/?https://getintopc.com/) - Last place to look for MacOS software.
 - [Olarila](https://anonym.to/?http://Olarila.com) - Provides MacOS ISOs for VM among several other stuff.
+- [Mac Torrents](https://anonym.to/?https://mac-torrents.io/mac-games/) - provides magnets / torrents for MacOS.
+- [NXMac Ked](https://anonym.to/?https://nxmac.com/) - MacOS apps, software, deisgn & more.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2957,6 +2964,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [/f/SharedAcc](https://anonym.to/?https://raddle.me/) - Share and use account logins to preserve your online privacy.
 
 **[`^        back to top        ^`](#readme)**
+
 
 ## Fake Torrents Detection
 - [Hide Fake Torrent on ThePirateBay](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
