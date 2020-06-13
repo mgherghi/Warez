@@ -638,6 +638,7 @@ Downloads albums in bulk.
 - [WFDownloader App](https://anonym.to/?http://www.wfdownloader.xyz/) - Batch downloader ultility.
 - [Xtreme Download Manager](https://anonym.to/?http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 - [pyIDM](https://anonym.to/?https://github.com/pyIDM/PyIDM) - Python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui.
+- [mypony](https://anonym.to/?https://www.mipony.net/en/) - Mipony is a download manager specially designed to optimize and automate the downloads.
 
 **[`^        back to top        ^`](#)**
 

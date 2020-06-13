@@ -2170,7 +2170,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MyAnonyMouse](https://www.myanonamouse.net) - Community sharing for Audiobooks & more.
 - [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - ThePirateBay's collection of AudioBooks.
 - [Tokybook](https://anonym.to/?https://tokybook.com/) - Yet another free audiobook streaming site.
-- [](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. The world's largest ebook library.
+- [b-ok](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. The world's largest ebook library.
 
 
 ### Science Books
@@ -2206,7 +2206,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mangareader.net](https://anonym.to/?https://www.mangareader.net) - Read your favorite manga scans and scanlations online at Manga Reader.
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
-- [MangdaDex](https://anonym.to/?https://mangadex.org/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3074,9 +3073,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 ## Cloud based DNS Alternatives
-- [Blockchain-DNS.info](https://anonym.to/?https://blockchain-dns.info/) - First step towards the uncensored Internet
+- [Blockchain-DNS.info](https://anonym.to/?https://blockchain-dns.info/) - First step towards the uncensored Internet, blockchaun based DNS system.
 - [NextDNS](https://anonym.to/?https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
-- (https://anonym.to/?https://docs.nixnet.services/DNS)
+- [NixNet](https://anonym.to/?https://docs.nixnet.services/DNS) - Freedom served with a slice of liberty.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3086,7 +3085,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Toplists
-- [BGTop](https://anonym.to/?https://bgtop.net) - (BL) - Bulgarian toplist.
+- [BGTop](https://anonym.to/?https://bgtop.net) - (`BL`) - Bulgarian toplist.
 - [Cyonix](https://anonym.to/?https://www.cyonix.to) - Underground toplist with over 70 entries.
 - [DDL Rank](https://anonym.to/?https://ddlrank.com) - Toplist for forums, download-sites, warez blogs and sharehoster.
 - [DirtyWarez Top Sites](https://anonym.to/?https://dirtywarez.org) - Toplist for forums, download-sites, warez blogs and sharehoster.
@@ -3094,7 +3093,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Nydus Toplist](https://anonym.to/?https://top.nydus.org) - Yet another good looking toplist.
 - [Querverweis](https://anonym.to/?https://www.querverweis.net) - (`GER`) - A big german toplist with lots of entries.
 - [RaidRush](https://anonym.to/?https://toplist.raidrush.ws) - (`GER`)- One of the oldest german toplist provider.
-- [Toplist Warez](https://anonym.to/?https://www.toplist.cz/warez) - (PL) - Polish warez toplist.
+- [Toplist Warez](https://anonym.to/?https://www.toplist.cz/warez) - (`PL`) - Polish warez toplist.
 - [Uscene](https://anonym.to/?https://www.uscene.net/warez.html) - A small but fine warez toplist.
 
 **[`^        back to top        ^`](#readme)**
