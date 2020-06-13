@@ -1,0 +1,48 @@
+# Cache files
+.temp/
+
+# Exclude folders
+.devbots/**
+.github/eMail/**
+.github/workflows/**
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for VS Code
+.history/
+
+# VS
+!/.vs/
+/.vs/*
+!/.vs/ProjectSettings.json
+!/.vs/config/
+!/.vs/config/*
+
+# Do not touch
+!.gitignore
+!.gitattributes
+!README.md
+!Android.md
+!Banned.md
+!Bulletproof Hosting.md
+!CODE_OF_CONDUCT.md
+!Cracking Groups.md
+!Extensions & Scripts.md
+!iOS.md
+!LICENSE
+!Offline.md
+!Open Source Hardware.md
+!Proxy.md
+!Scene Info.md
+!Soft-Ban.md
+!Telegram.md
+!Tools.md
+!Tor.md
+!Trusted.md
+!Tutorials.md
