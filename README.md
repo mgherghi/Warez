@@ -1083,7 +1083,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Good-Old-Downloads/gg](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
 - [Good-Old-Downloads (GitHub source code)](https://anonym.to/?https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://anonym.to/?https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://anonym.to/?https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [MachineGunnur/GOG-Games](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
-- [Torminatorr](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
+- [Torminatorr Forum](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
 - [GOG-Games](https://anonym.to/?http://gog-games.com) - GoG Games - Archive and backups.
 
 **[`^        back to top        ^`](#readme)**
@@ -1159,6 +1159,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [CB01.uno](https://anonym.to/?https://cb01.gallery/) - (`IT`) - Movies, TV Shows and Animes.
 - [Digiboy](https://anonym.to/?https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
 - [downloadha](https://anonym.to/?https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
+- [scnlog](https://anonym.to/?https://scnlog.me/) - Scene releases uploaded via share hoster.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1632,6 +1633,25 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [r/PiratedGame](https://anonym.to/?https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
 - [Mabandonware](https://anonym.to/?https://www.myabandonware.com/) - Old(er) Video games.
 - [OVA Games](https://anonym.to/?https://www.ovagames.com/) - Full cracked PC Game Releases.
+- [Gamecopyworld](https://anonym.to/?https://gamecopyworld.com/games/index.php) - PC Game Trainers, Cracks & Cheats.
+
+
+### PC Game Repackers
+- [Fitgirl](https://anonym.to/?https://fitgirlrepacks.co/)
+- [BlackBox](https://anonym.to/?http://www.blackboxrepack.com/)
+- [Dodi](https://anonym.to/?http://dodi-repacks.site/)
+- [ElAmigos](https://anonym.to/?https://www.elamigos-games.com/)
+- [KaosKrew](https://anonym.to/?https://kaoskrew.org/)
+- [Kapital Sin](https://anonym.to/?http://www.kapitalsin.com/forum/)
+- [Masquerade](https://anonym.to/?https://discord.com/invite/HP5sQ6c)
+- [MrDJ](https://anonym.to/?https://mrdj777.wordpress.com/)
+- [Repack.info](https://anonym.to/?https://repack.info/)
+- [R.G.Catalyst](https://anonym.to/?https://torrent5.games/catalyst/)
+- [R.G.Mechanics](https://anonym.to/?https://repack-mechanics.com/)
+- [R.G.Revenants](https://anonym.to/?https://rgames.org/)
+- [TeamLiL](https://anonym.to/?https://lilfellauk.wordpress.com/)
+- [Xatab](https://anonym.to/?https://xatab-repack.org/)
+- [ZAZIX](https://anonym.to/?https://zazixgaming.blogspot.com/)
 
 **[`^        back to top        ^`](#readme)**
 
