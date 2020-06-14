@@ -35,7 +35,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - [tr.anidub.com](https://anonym.to/?http://tr.anidub.com/)
 - [Genration Rosco](https://anonym.to/?http://genration-rosco-tk.net/) - (`FR`) - Movie/TV/General.
 - [Bettyboop-tk](https://anonym.to/?http://bettyboop-tk.biz/) - (`FR`) - Movie/TV/General.
-
+[[](https://api.gitkraken.com/oauth/github/login?action=login&socket_id=f14bf749-f531-4d43-810b-9cf4eeaa3656&in_app=false&needs_gk_permissions=false)](https://api.gitkraken.com/oauth/github/login?action=login&socket_id=f14bf749-f531-4d43-810b-9cf4eeaa3656&in_app=false&needs_gk_permissions=false)
 
 ### Magnet Search
 - [xbit.pw](http://xbit.pw/) - (`insecure`) - A Magnet site search engine.
@@ -67,9 +67,6 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 ### Free Usenet Indexer
 - [NZBKing](http://nzbking.com/)- The service allows you to search and browse binary files that have been posted to Usenet newsgroups.
 
-
-### Portables & Repacks
-- [monkrus](https://anonym.to/?http://w13.monkrus.ws) - (`RU`) - Russian repacker website by monkrus.4
 
 
 ### Custom "Google" Search Engines

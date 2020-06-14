@@ -1,6 +1,6 @@
 ## Offline but never forgotten
 
-Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
+Based on "[Scammers Hit Pirate Game Sites With "irreversibleÃ¢â€žÂ¢ Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
 
 - Good-Old-Downloads
 - MovieBox
@@ -369,7 +369,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - kikibt.org
 - scrapetorrent.com
 - thepirategoogle.com
-- torrentkitty.ws
+- torrentkitty.
 - torrentlookup.com
 - torrentproject.se
 - torrents.to
@@ -650,3 +650,5 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversibleâ„¢ Google Taked
 - cracksnow.com
 - tparser.org
 
+### Portables & Repacks
+- [monkrus](https://anonym.to/?http://w13.monkrus.ws) - (`RU`) - Russian repacker website by monkrus.

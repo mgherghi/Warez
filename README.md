@@ -1979,6 +1979,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
 - [Soft4PC](https://anonym.to/?https://s0ft4pc.com/) - Yet another website for cracked software repacks.
 - [SCloud](https://anonym.to/?https://scloud.ws/) - Provides site several years repacks for popular software like Adobe & Windows.
+- [monkrus](https://anonym.to/?https://web.archive.org/web/20200609224331/http://w13.monkrus.ws/) - (`RU`) - Russian repacker website by monkrus.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3459,7 +3460,6 @@ one cryptocurrency wallet to another across various cryptocurrencies
 
 
 ## BadUSB Protection
-
 Keep in mind that you can lock yourself out if you're whitelisted keybord is unfunctional or damaaged, you might not be able to use other USB hardware!
 
 - [USBGuard](https://anonym.to/?https://usbguard.github.io/) + [Tutorial](https://anonym.to/?https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/security_guide/sec-using-usbguard)
