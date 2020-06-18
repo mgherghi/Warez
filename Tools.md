@@ -951,6 +951,7 @@ Downloads albums in bulk.
 - [Twitch-GUI](https://anonym.to/?https://github.com/streamlink/streamlink-twitch-gui) -  A multi platform Twitch.tv browser for Streamlink
 - [smarttv-twitch](https://anonym.to/?https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models.
 - [TwitchAutomator](https://anonym.to/?https://github.com/MrBrax/TwitchAutomator) - Automatic Twitch cyclic stream recorder with a GUI.
+- [Twitch-Clips-Downloader](https://anonym.to/?https://github.com/TorbenCapiau/Twitch-Clips-Downloader) - Streamers have been receiving a lot of copyright complaints and are forced to delete all their clips to avoid their Twitch account being closed. Save the clips you've made with this tool.
 
 **[`^        back to top        ^`](#)**
 
