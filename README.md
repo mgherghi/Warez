@@ -1168,6 +1168,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [DW Forum](https://anonym.to/?http://dw-game.info/) - (`RU`) - Games, Software & more.
 - [softoroom](https://anonym.to/?https://softoroom.net/) - (`RU`) - Software download portal.
 - [puzo](https://anonym.to/?https://www.puzo.org/) - Provides warez since 2001.
+- [volno](https://anonym.to/?https://volno.org/) - Volno Warez Forum shares movies, software & Co via file hoster.
+- [wjungle](https://anonym.to/?https://wjungle.net/) - Another forum dedicated to warez.
 
 **[`^        back to top        ^`](#readme)**
 
