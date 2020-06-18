@@ -2190,6 +2190,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [BookSC](https://anonym.to/?https://booksc.org/) - The world's largest scientific articles store. 50,000,000+ articles for free.
 - [GRE Prep](https://anonym.to/?https://www.chegg.com/test-prep/gre) - (**semi free**) - Paid and free (trial) material for school, college and graduate students.
 - [Sci-Hub](https://anonym.to/?https://sci-hub.tw/) - [Sci-hub btw. automatically uploads articles to libgen](https://anonym.to/?https://engineuring.wordpress.com/2017/07/02/some-facts-on-sci-hub-that-wikipedia-gets-wrong/) and provides public access to tens of millions of research papers.
+- [academictorrents](https://anonym.to/?https://www.academictorrents.com/)
+- [IPFS dir for academic research paper](https://ipfs.io/ipfs/bafykbzaced4xstofs4tc5q4irede6uzaz3qzcdvcb2eedxgfakzwdyjnxgohq/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2722,7 +2724,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [KissCommunity Discord](https://anonym.to/?https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
 - [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server. The Wiki open source Wiki can be found [here](https://anonym.to/?https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages), the Reddit Wiki is [here](https://anonym.to/?https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index).
 - [TopNow.se](https://anonym.to/?https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
-- [Music Horder](https://anonym.to/?https://discord.gg/fEq8Jxy) - Discord Server dedicated to hord Music.
+(https://anonym.to/?https://discord.gg/fEq8Jxy) - Discord Server dedicated to hord Music.
 
 **[`^        back to top        ^`](#readme)**
 
