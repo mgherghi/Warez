@@ -4,6 +4,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Audio Guides
+- [(Guide/Information) Archiving and managing audio files](https://anonym.to/?https://www.reddit.com/r/DataHoarder/comments/h869qj/guideinformation_archiving_and_managing_audio/)
+
+**[`^        back to top        ^`](#)**
+
+
 ## Blizzard
 - [For anyone looking for the actual classic Warcraft 3 installers (not Battle.net launcher nor Reforged)](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/)
 
@@ -270,7 +276,6 @@
 - [A complete guide of shared drive (Team drive)](https://anonym.to/?https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
 
 **[`^        back to top        ^`](#)**
-
 
 
 ## How to create a Windows 10 Custom ISO
