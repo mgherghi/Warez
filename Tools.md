@@ -1124,3 +1124,11 @@ Overall strategy:
 - [BotTerminator](https://anonym.to/?https://github.com/justcool393/BotTerminator) - A bot that bans spam bots when they post to a subreddit.
 
 **[`^        back to top        ^`](#)**
+
+
+## Automated eBook Downloader
+- [ArchiveOrgLibraryDownloader](https://anonym.to/https://github.com/harrcorr/ArchiveOrgLibraryDownloader) - Archive.org Book downloader.
+
+**[`^        back to top        ^`](#)**
+
+
