@@ -685,7 +685,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [TheGeeks](https://anonym.to/?https://thegeeks.click/) - (TGBZ) - Private tracker for e-learning
 - [TorrentLeech](https://anonym.to/?https://torrentleech.org/) - (TL) - Well-known popular private tracker
 - [Tracker Spreadsheet](https://anonym.to/?https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) - Comprehensive spreadsheet of private trackers (somewhat out of date).
-- [TVChaos UK](https://anonym.to/?https://www.tvchaosuk.com/) - (`TVCUK`) - Private tracker for British television
+- [TVChaos UK](https://anonym.to/?https://www.tvchaosuk.com/) - (`UK`) - Private tracker for British television
 - [UHDBits](https://anonym.to/?https://uhdbits.org/) - (UHD) - UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
 - [WorldOfP2P](https://anonym.to/?https://worldofp2p.net) - (`WOP`) - Private tracker for Movies, TV and general P2P stuff.
 - [Fou Du cinema](https://anonym.to/?https://fou-du-cinema.net/) - (`FR`) - (`invite only`) Movies, TV Series, Documentaries, General.

@@ -1117,3 +1117,8 @@ Overall strategy:
 
 **[`^        back to top        ^`](#)**
 
+
+## Reddit Bots
+- [BotTerminator](https://anonym.to/?https://github.com/justcool393/BotTerminator) - A bot that bans spam bots when they post to a subreddit.
+
+**[`^        back to top        ^`](#)**
