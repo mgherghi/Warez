@@ -267,6 +267,13 @@
 
 
 ## Shared Drive (old name was Team Drive) Guides
-- [A complete guide of shared drive (Team drive)](https://anonym.to/?hhttps://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
+- [A complete guide of shared drive (Team drive)](https://anonym.to/?https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
+
+**[`^        back to top        ^`](#)**
+
+
+
+## How to create a Windows 10 Custom ISO
+- [How To Make A Custom Windows 10 ISO YouTube Video](https://anonym.to/?https://www.youtube.com/watch?v=R6XPff38iSc)
 
 **[`^        back to top        ^`](#)**
