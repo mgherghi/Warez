@@ -1161,3 +1161,7 @@ Overall strategy:
 **[`^        back to top        ^`](#)**
 
 
+## Video Tools (mainly for ffmpeg)
+- [Banana Split](https://anonym.to/?https://github.com/pathartl/BananaSplit) - BananaSplit is an application built in .NET Core WinForms that can be used to split video files based on ffmpeg's black frame detection feature.
+
+**[`^        back to top        ^`](#)**
