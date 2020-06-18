@@ -2722,6 +2722,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [KissCommunity Discord](https://anonym.to/?https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
 - [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server. The Wiki open source Wiki can be found [here](https://anonym.to/?https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages), the Reddit Wiki is [here](https://anonym.to/?https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index).
 - [TopNow.se](https://anonym.to/?https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
+- [Music Horder](https://anonym.to/?https://discord.gg/fEq8Jxy) - Discord Server dedicated to hord Music.
 
 **[`^        back to top        ^`](#readme)**
 
