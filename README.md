@@ -163,8 +163,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## Google Drive link shortener
+- [drive.klop](https://anonym.to/?https://drive.klop.me/) - Shorten your Google Drive link and share with your friends.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## EDU Mail
-- [Techpanga](https://anonym.to/?https://techpanga.com/free-edu-email/) -Generate your free EDU mail.
+- [Techpanga](https://anonym.to/?https://techpanga.com/free-edu-email/) - Generate your free EDU mail.
 
 **[`^        back to top        ^`](#readme)**
 
