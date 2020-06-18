@@ -808,7 +808,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Tracker Aggregators
 - [AIO Search](https://anonym.to/?http://www.aiosearch.com/) - Yet another Torrent search engine.
-- [snowfl](https://anonym.to/?https://snowfl.com/) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
+- [snowfl](https://anonym.to/?) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
 - [TParser](https://anonym.to/?http://tparser.org/) (`RU`) - Russian torrent sites indexer
 - [Torrents.me](https://anonym.to/?https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://anonym.to/?https://github.com/DEgITx/rats-search) - P2P Bittorrent search engine.
@@ -1155,7 +1155,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [UpTown](https://anonym.to/?https://en.uptodown.com/) - Software portal.
 - [UHDMV](https://anonym.to/?https://uhdmv.com/) - Yet another alternative to the popular Snahp website.
 - [Vidics](https://anonym.to/?https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
-- [Warez-BB](https://anonym.to/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]]
+- [Warez-BB](https://anonym.to/?https://warez-bb.org/) - One of the top Warez forums.
 - [WarezForums](https://anonym.to/?https://warezforums.com/) - (`EN/US`) - Warez forum with films, TV shows, ebooks, anime, games, and more via G-Drive and Mega.
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
@@ -1167,6 +1167,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [scnlog](https://anonym.to/?https://scnlog.me/) - Scene releases uploaded via share hoster.
 - [DW Forum](https://anonym.to/?http://dw-game.info/) - (`RU`) - Games, Software & more.
 - [softoroom](https://anonym.to/?https://softoroom.net/) - (`RU`) - Software download portal.
+- [puzo](https://anonym.to/?https://www.puzo.org/) - Provides warez since 2001.
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2211,7 +2213,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MyAnonyMouse](https://www.myanonamouse.net) - Community sharing for Audiobooks & more.
 - [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - ThePirateBay's collection of AudioBooks.
 - [Tokybook](https://anonym.to/?https://tokybook.com/) - Yet another free audiobook streaming site.
-- [b-ok](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. The world's largest ebook library.
+- [b-ok](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. Claims to be the world's largest ebook library.
 
 
 ### Science Books
@@ -2507,6 +2509,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [OK.ru](https://anonym.to/?https://ok.ru/videos/) - (`RU`) - Legal and other videos, differnt quality, mostly 720p.
 - [tuga.tv](https://anonym.to/?https://tuga.tv/) - Sistema PLEX - Cinema + Netflix + HBO + PrimeVideo + Disney + HULU
 - [mrpiracy](https://anonym.to/?https://v1.mrpiracy.xyz/) - (`GeoIP block`) - Lots of movies and TV shows.
+- [chiasenhac](https://anonym.to/?http://old.chiasenhac.vn/)
 
 **[`^        back to top        ^`](#readme)**
 
