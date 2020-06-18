@@ -1301,6 +1301,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [/r/KissCommunitySupport](https://anonym.to/?https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
 - [FMovies](https://anonym.to/?https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
 - [Full Episodes](https://anonym.to/?http://fullepisodes.biz/) - (`insecure`) - A alternative to WatchSeries.
+- [animepahe](https://anonym.to/?https://animepahe.ru/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1804,6 +1805,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MegatronEncodes](https://anonym.to/?https://www.megatronencodes.com/) - Provides HQ Animes.
 - [AnimK](https://anonym.to/?https://animk.info/) - HQ, BDrips & more.
 - [Anime DL Archive](https://anonym.to/?https://archive.org/details/animedl4.0_202004) - Stream and download anime in VLC or MPC.
+- [anymeapp](https://anonym.to/?https://zunjae.github.io/anymeapp.com/)
+- [AnimeWatch](https://anonym.to/?http://aniwatch.me)
+
+
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3005,6 +3010,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Hide Fake Torrent on ThePirateBay](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [Solid Torrents](https://anonym.to/?https://solidtorrents.net/) - A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
 - [The Pirate Bay Tweaks](https://anonym.to/?https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) (based on [this script](https://anonym.to/?https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
+- [torlook](https://anonym.to/?https://torlook.info/) - Fast and easy search engine. All popular torrent trackers indexed! Find everything you want in 1 click.
 
 **[`^        back to top        ^`](#readme)**
 
