@@ -950,6 +950,7 @@ Downloads albums in bulk.
 - [Official Twitch Apps](https://anonym.to/?https://www.twitch.tv/downloads) - All official Twitch clients.
 - [Twitch-GUI](https://anonym.to/?https://github.com/streamlink/streamlink-twitch-gui) -  A multi platform Twitch.tv browser for Streamlink
 - [smarttv-twitch](https://anonym.to/?https://github.com/fgl27/smarttv-twitch) - Twitch client for Samsung Smart TVs 2015 and newer models.
+- [TwitchAutomator](https://anonym.to/?https://github.com/MrBrax/TwitchAutomator) - Automatic Twitch cyclic stream recorder with a GUI.
 
 **[`^        back to top        ^`](#)**
 
