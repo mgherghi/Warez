@@ -1478,6 +1478,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Streama](https://anonym.to/?https://github.com/streamaserver/streama) - Self hosted streaming media server.
 - [Stremio](https://anonym.to/?https://www.stremio.com/) - Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Viewscreen](https://anonym.to/?https://github.com/viewscreen/viewscreen) - A personal video streaming server.
+- [Plex](https://anonym.to/?https://www.plex.tv/media-server-downloads/) - Free movies and TV plus all your personal media libraries on every device.
 
 **[`^        back to top        ^`](#readme)**
 
