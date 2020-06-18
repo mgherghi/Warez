@@ -225,6 +225,10 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 - openload.status
 
 
+## Xbox360
+- xbox360iso.com
+
+
 ## Domain registrar
 - openleaf.net.ru
 

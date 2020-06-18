@@ -3138,7 +3138,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [BGTop](https://anonym.to/?https://bgtop.net) - (`BL`) - Bulgarian toplist.
 - [Cyonix](https://anonym.to/?https://www.cyonix.to) - Underground toplist with over 70 entries.
 - [DDL Rank](https://anonym.to/?https://ddlrank.com) - Toplist for forums, download-sites, warez blogs and sharehoster.
-- [DirtyWarez Top Sites](https://anonym.to/?https://dirtywarez.org) - Toplist for forums, download-sites, warez blogs and sharehoster.
+- [DirtyWarez Top Sites](https://anonym.to/?https://dirtywarez.org/cat/forum) - Toplist for forums, download-sites, warez blogs and sharehoster.
 - [LinkR](https://anonym.to/?https://www.linkr.top/index.php) - A good looking toplist, gets regularily updates.
 - [Nydus Toplist](https://anonym.to/?https://top.nydus.org) - Yet another good looking toplist.
 - [Querverweis](https://anonym.to/?https://www.querverweis.net) - (`GER`) - A big german toplist with lots of entries.
