@@ -1126,7 +1126,8 @@ Overall strategy:
 
 ## Reddit Bots
 - [BotTerminator](https://anonym.to/?https://github.com/justcool393/BotTerminator) - A bot that bans spam bots when they post to a subreddit.
-- [](https://anonym.to/?https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads media from reddit posts.
+- [bulk-downloader-for-reddit](https://anonym.to/?https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads media from reddit posts.
+- [timesearch](https://anonym.to/?https://github.com/voussoir/timesearch) - The subreddit archiver.
 
 **[`^        back to top        ^`](#)**
 
