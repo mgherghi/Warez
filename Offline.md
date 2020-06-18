@@ -65,6 +65,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 - AnimeHeaven.eu
 - Masterani.me
 - Kissasian.com
+- anime.sch.id
 
 
 ## Music
@@ -567,6 +568,11 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 ## Telegram
 - @Music_High_Resolution
 - @kumarsanu0789
+- @Storebot
+- @SMMJOB_BOT
+- @popcornTime_bot
+- @Popcorn_Time1_bot
+- @PopcornTBot
 
 
 ## Forums

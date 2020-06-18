@@ -371,7 +371,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-## Email Service Providers
+## Secure Email Service Providers
 - [Mailbox](https://anonym.to/?https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [Posteo](https://anonym.to/?https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](https://anonym.to/?https://protonmail.com/) - Secure Email Based made in Switzerland.
@@ -391,6 +391,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
 - [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay).
+- [33 Mail](https://anonym.to/?https://www.33mail.com/) - Create a new e-mail address whenever you need one. Maintain complete control over active addresses. Forwards all mail to your existing e-mail address.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -700,7 +701,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HD-Spain](https://anonym.to/?https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
-- [Telly.CC](https://anonym.to/?hhttps://telly.cc/login) - Movie tracker website.
+- [Telly.CC](https://anonym.to/?https://telly.cc/login) - Movie tracker website.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -885,7 +886,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Sharehoster search engine
 - [Crawli](https://anonym.to/?https://crawli.net) - Searches for online/offline content.
 - [FilePursuit](https://anonym.to/?https://filepursuit.com) - Meta search engine for Warez.
-- [MegaSearch.co](https://anonym.to/?hhttp://megasearch.co) - (blocked by some ISP) - (`insecure`) - Meta search engine which indexes webwarez websites.
+- [MegaSearch.co](https://anonym.to/?http://megasearch.co) - (blocked by some ISP) - (`insecure`) - Meta search engine which indexes webwarez websites.
 - [Rapidlinks](https://anonym.to/?https://rapidlinks.org) - (`RU`) - Russian search engine for various sharehoster.
 
 **[`^        back to top        ^`](#readme)**
@@ -900,7 +901,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## TV-Show Calendar
-- [at.my TV](https://anonym.to/?hhttp://at-my.tv/) - (`insecure`) - TV Calendar, TV Episode Guide, TV Show Listings.
+- [at.my TV](https://anonym.to/?http://at-my.tv/) - (`insecure`) - TV Calendar, TV Episode Guide, TV Show Listings.
 - [DuckieTV](https://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like/fav.
 
 **[`^        back to top        ^`](#readme)**
@@ -1096,7 +1097,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### DDL Link Sites
 - [r/FREEMEDIAFUCKYEAH/](https://anonym.to/?https://old.reddit.com/r/FREEMEDIAFUCKYEAH/) - Animes, movies and more.
 - [/r/DataHoarder/](https://anonym.to/?https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
-- [/r/ZippyShare](https://anonym.to/?https://www.removeddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK, Germany and other countries_)
+- [/r/ZippyShare](https://anonym.to/?https://www.removeddit.com/r/ZippyShare) - DL links hosted on ZippyShare (_blocked in the UK, Germany and other countries_)
 - [Zippy Direct](https://anonym.to/?https://zippy.direct/) - ZippyShare proxy.
 - [0DayDown](https://anonym.to/?https://www.0daydown.com/) (`CN/EN`)  MacOS, Music & other links (works with JDownloader).
 - [3dl.tv](https://anonym.to/?https://3dl.tv/) - (`GER`) - Music, Movies, TV Shows, apps & more.
@@ -1107,16 +1108,16 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AVXHome](https://avxhome.se/) - Best of eBooks, Software, Mag & more.
 - [BetaArchive](https://anonym.to/?https://www.betaarchive.com/) - Windows ISOs, Windows tools & more.
 - [Board4All](https://anonym.to/?[https://www.board4all.bi](https://github.com/anthonyebiner/foxy-calculator)z/) - A forum which provides and shares all sorts of stuff.
-- [Boerse.to](https://anonym.to/?https://boerse.to/) - (blocked by some ISP) - A big and well-known german warez forum.
+- [Boerse.to](https://anonym.to/?https://boerse.to/) - (`blocked by some ISP`) - A big and well-known german warez forum.
 - [Byte.to](https://anonym.to/?https://byte.to/) - (`GER`) - Movies (SD/HD/UHD), Docus, WWE & Series.
 - [CWER.ws](https://anonym.to/?https://cwer.ws) - (`RU`) - Well-known russian board for web warez.
 - [DDL-Warez](https://anonym.to/?https://ddl-warez.to/) - (`GER`) - German software, movies & tv board.
 - [DDLValley](https://anonym.to/?https://www.ddlvalley.me/) - DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [DeeJayPirate's Pastebin](https://anonym.to/?https://pastebin.com/u/DeeJayPirate) - Pastebin user who uploads premium links for TV shows
-- [DirtyWarez Forum](https://anonym.to/?https://forum.dirtywarez.com/) - (EN-US) - Popular warez forum with films, TV shows, ebooks, anime, games, and more. You also can [request Warez](https://anonym.to/?https://forum.dirtywarez.com/categories/download-requests.113/).
+- [DirtyWarez Forum](https://anonym.to/?https://forum.dirtywarez.com/) - (`EN-US`) - Popular warez forum with films, TV shows, ebooks, anime, games, and more. You also can [request Warez](https://anonym.to/?https://forum.dirtywarez.com/categories/download-requests.113/).
 - [DL4All](https://anonym.to/?https://dl4all.org/) - Various Games, Tutorials, TV Shows, Music and mobile stuff.
 - [Dospelis](https://anonym.to/?https://www.dospelis.net) - Spanish DDL indexer.
-- [DownloadLY.IR](https://anonym.to/?https://downloadly.ir/) - (IR) - Software download portal.
+- [DownloadLY.IR](https://anonym.to/?https://downloadly.ir/) - (`IR`) - Software download portal.
 - [DownTurk](https://anonym.to/?https://www.downturk.net/) - Software portal.
 - [ExeLab Forums](https://anonym.to/?https://exelab.ru/f/index.php?action=vtopic&forum=5)
 - [FilmRls](https://anonym.to/?https://filmrls.com/) - Movies, Series and TV Shows.
@@ -1127,7 +1128,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [IceFilms.info](https://anonym.to/?https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more.
 - [IntoTheInter](https://anonym.to/?https://intotheinter.net/) - (`needs invite`) -  Android apps, Windows Software & Games.
 - [KickassWarez](https://anonym.to/?https://kickasswarez.info/) - (`EN/RU`) - Sometimes offline, hosts TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [Mawto](https://anonym.to/?https://www.mawtoload.com/) - (IR) - Android apps, Windows Software & Games.
+- [Mawto](https://anonym.to/?https://www.mawtoload.com/) - (`IR`) - Android apps, Windows Software & Games.
 - [Movie Glide](https://anonym.to/?https://www.movieglide.com/) - Videos/Movies & TV Shows in HD Quality.
 - [MovieFiles](https://anonym.to/?https://moviefiles.org/) - Direct download search engine which generates Google Drive links
 - [Moviesleak](https://anonym.to/?https://moviesleak.net/) - Yet another movie page, the focus is in IMDB announcements.
@@ -1138,7 +1139,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [NulledTeam Underground](https://anonym.to/?https://www.nulledteam.com/) - Software forum for nulled script/tools/software.
 - [PCPortal](https://anonym.to/?https://pcportal.org/) - (`RU`) - One of the biggest russian software forums.
 - [PSARips](https://anonym.to/?https://psarips.com/) - Popular site for movies and TV shows, includes torrent files
-- [RADIXX11](https://anonym.to/?https://radixx11rce2.blogspot.com) - (EN-US) - Software forum.
+- [RADIXX11](https://anonym.to/?https://radixx11rce2.blogspot.com) - (`E-US`) - Software forum.
 - [Reduson](https://anonym.to/?https://www.reduson.com/) - (`EN/RU`) - Another software portal for various type of releases like software, magazines, games and many more.
 - [ReleaseBB](https://anonym.to/?https://rlsbb.ru/) - (`RU`) - Russian Software Portal.
 - [RSLinks](https://anonym.to/?https://rslinks.org/) - Tracks scene software releases and mirrors them.
@@ -1147,15 +1148,15 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [RuTracker](https://anonym.to/?https://rutracker.cr/) - (`RU`) - If you didn't alreay knew RUTracker you never heard of Warez at all.
 - [SceneSource](https://anonym.to/?https://scnsrc.me/) - WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [Snahp Forum](https://anonym.to/?https://forum.snahp.it/) - (registration disabled) - A popular forum which provides links to HD rips & software (mostly mega & zippyshare).
-- [Soft98.iR](https://anonym.to/?https://soft98.ir/software/) - (IR) - All Software Download in Only One Website.
+- [Soft98.iR](https://anonym.to/?https://soft98.ir/software/) - (`IR`) - All Software Download in Only One Website.
 - [SoftArchive – SANET](https://anonym.to/?https://sanet.ws/) - SoftArchive is the oldest and most reliable resource for direct download [SolidShare](https://anonym.to/?https://www.solidshare.net/) - (TR) - Software Portal.
-- [Tekspert](https://anonym.to/?https://tekspert.se/) - (EN/US) - Software forum.
-- [TNCTR](https://anonym.to/?https://www.tnctr.com/) - (TR) - Turkish Network Community for software, ebooks, apps, portable, AIO & coding.
+- [Tekspert](https://anonym.to/?https://tekspert.se/) - (`EN/US`) - Software forum.
+- [TNCTR](https://anonym.to/?https://www.tnctr.com/) - (`TR`) - Turkish Network Community for software, ebooks, apps, portable, AIO & coding.
 - [UpTown](https://anonym.to/?https://en.uptodown.com/) - Software portal.
 - [UHDMV](https://anonym.to/?https://uhdmv.com/) - Yet another alternative to the popular Snahp website.
 - [Vidics](https://anonym.to/?https://www.vidics.to/) - Vidics provides Tv shows and movie releases.
-- [Warez-BB](https://anonym.to/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]](#)
-- [WarezForums](https://anonym.to/?https://warezforums.com/) - (EN/US) - Warez forum with films, TV shows, ebooks, anime, games, and more via G-Drive and Mega.
+- [Warez-BB](https://anonym.to/?https://warez-bb.org/) - Elite warez forum. [![(invite needed)][inviteneeded]]
+- [WarezForums](https://anonym.to/?https://warezforums.com/) - (`EN/US`) - Warez forum with films, TV shows, ebooks, anime, games, and more via G-Drive and Mega.
 - [watchepisodeseries](https://anonym.to/?https://watchepisodeseries.bypassed.wtf/) - Watch Episode Series provides TV Shows releases from the scene.
 - [WatchTVSeries](https://anonym.to/?https://watchtvseries.unblocked.krd/) - Watch TV shows online.
 - [ZeroBoard](https://anonym.to/?https://zeroboard.org/) - A board which provides Windows related stuff.
@@ -1164,6 +1165,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Digiboy](https://anonym.to/?https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
 - [downloadha](https://anonym.to/?https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
 - [scnlog](https://anonym.to/?https://scnlog.me/) - Scene releases uploaded via share hoster.
+- [DW Forum](https://anonym.to/?http://dw-game.info/) - (`RU`) - Games, Software & more.
+- [softoroom](https://anonym.to/?https://softoroom.net/) - (`RU`) - Software download portal.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1952,7 +1955,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Bagas31](https://anonym.to/?https://www.bagas31.info/) - Bagas32 is a known disturber for software and software cracks.
 - [Bontersoft.cc](https://anonym.to/?https://www.bontersoft.cc/) - Windows software to various products, AV's, Music etc.
 - [Cloud-Droid](https://anonym.to/?https://www.cloud-droid.com) - Cloud-Droid offers (mostly) downloads via sharehoster.
-- [CrackingPatching](https://anonym.to/?https://crackingpatching.com/) - Cracked software for free!
 - [Gallery-dl](https://anonym.to/?https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [KaranPC](https://anonym.to/?https://karanpc.com) - Yet another community around Windows software.
 - [Nulled](https://anonym.to/?https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
@@ -1979,7 +1981,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Punsh](https://anonym.to/?https://punsh.at.ua/) - (`RU`) - Russian repacker, similar like PoorShock and M0nkrus.
 - [Soft4PC](https://anonym.to/?https://s0ft4pc.com/) - Yet another website for cracked software repacks.
 - [SCloud](https://anonym.to/?https://scloud.ws/) - Provides site several years repacks for popular software like Adobe & Windows.
-- [monkrus](https://anonym.to/?https://web.archive.org/web/20200609224331/http://w13.monkrus.ws/) - (`RU`) - Russian repacker website by monkrus.
+- [monkrus](https://anonym.to/?http://w14.monkrus.ws) - (`RU`) - Russian repacker website by monkrus.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3083,7 +3085,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Addic7ed](https://anonym.to/?https://www.addic7ed.com/) - Quality Subtitles for TV Shows and movies.
 - [HorribleSubs](https://anonym.to/?https://horriblesubs.info/) - Schedule for upcoming Anime releases, Subs, IRC, Show Info.
 - [RenameThemSubs](https://anonym.to/?https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
-- [Subscene](https://anonym.to/?https://subscene.com/) - Quality Subtitles for Movies.
+- [Subscene](https://anonym.to/?https://subscene.com/) - Quality Subtitles for Movies & TV shows.
 - [WonderfulSubs](https://anonym.to/?https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!
 
 **[`^        back to top        ^`](#readme)**
@@ -3182,6 +3184,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### Google Translate
 - [DeepL](https://anonym.to/?https://www.deepl.com/) - A privacy friendly alternative to Google's translation engine.
 - [PROMPT Online](https://anonym.to/?https://www.online-translator.com/) - Pretty new service, but aims to provide a privacy friendly translation engine.
+
+
+### Google Drive
+- [myDrive](https://anonym.to/?hhttps://github.com/subnub/myDrive) - Open Source Node.js and mongoDB Google Drive Clone alternative.
 
 
 ### Google reCAPTCHA
@@ -3409,7 +3415,7 @@ one cryptocurrency wallet to another across various cryptocurrencies
 - [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
 - [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source based Client for Chrome.
 - [Multcloud](https://anonym.to/?https://www.multcloud.com/) - Similar like Offcloud. Transfer and manage your multiple cloud files with one app. 100% Free.
-- [Transfercloud](https://anonym.to/?hhttps://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
+- [Transfercloud](https://anonym.to/?https://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
 - [Put.io](https://anonym.to/?https://put.io/) - We fetch files from many public places at very high speeds, then put them into downloads.
 - [Boxopus](https://anonym.to/?https://boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
 - [Cloudload](https://anonym.to/?https://www.cloudload.com/login) - Safely stream and download with Cloudload. Movies, music, software and documents; from the web to your secure cloud account in seconds.

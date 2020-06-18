@@ -22,6 +22,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@BotListBot](https://anonym.to/?https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
 - [Botlist](https://anonym.to/?https://botlist.co/) - A botlist for various messenger (including Telegram).
 - [telegram-list](https://anonym.to/?https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
+- [@BotsArchive](https://anonym.to/?https://t.me/BotsArchive) - A channel to list/update known bots.
 
 
 ### Telegram Piracy Discussion Channels
@@ -139,8 +140,28 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### Add comment Bot
+- [@discussbot](https://anonym.to/?https://t.me/discussbot) - Add comments to channel's posts.
+
+**[`^        back to top        ^`](#)**
+
+
+### Rocket Launch Bots
+- [@rocketrybot](https://anonym.to/?https://t.me/rocketrybot) - Receive notifications about rocket launches.
+
+**[`^        back to top        ^`](#)**
+
+
 ### Telegram YouTube downloader Bot
 - [@Proytdlbot](https://anonym.to/?https://t.me/Proytdlbot) - Simple bot to download YouTube Videos. You can't invite the bot into groups.
+- [@vid](https://anonym.to/?https://t.me/Proytdlbot) - Simple YouTube downloader bot.
+- [@utubebot](https://anonym.to/?https://t.me/utubebot) - Video Downloader with MP3 Conversion support.
+
+**[`^        back to top        ^`](#)**
+
+
+### Telegram YouTube Timestamp Bots
+- [@YouTubeTSBot](https://anonym.to/?http://t.me/YouTubeTSBot) - YT app to create timestamped URLs.
 
 **[`^        back to top        ^`](#)**
 
@@ -148,11 +169,15 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### Telegram Spotify downloader Bot
 - [@spotdlrobot](https://anonym.to/?https://t.me/spotdlrobot) - Simple bot to download Spotify Songs in High quality (_no FLAC!_). You can't invite the bot into Groups.
 - [ppmusicbot - Spotify playlist bot](https://anonym.to/?https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
+- [@spotify_to_mp3_bot](https://anonym.to/https://t.me/spotify_to_mp3_bot)
+
+**[`^        back to top        ^`](#)**
 
 
 ### Telegram Deezer downloader Bot
 - [@DeezloaderAn0n_bot](https://anonym.to/?https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are now avbl. in Deezer it downloads it from YouTube.
 - [@DeezerMusicBot](https://anonym.to/?https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
+- [@SKY_REAPER_BOT](https://anonym.to/?http://www.t.me/SKY_REAPER_BOT) - Downloads from both Deezer & Spotify.
 
 **[`^        back to top        ^`](#)**
 
@@ -185,6 +210,17 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### Text formatting Bots
+- [@bold](https://anonym.to/?https://t.me/bold)
+- [@fliptxtbot](https://anonym.to/?https://t.me/fliptxtbot)
+- [@textobot](https://anonym.to/?https://t.me/textobot)
+- [@mdtohtmlbot](https://anonym.to/?https://t.me/mdtohtmlbot) - Markdown to Html bot.
+- [@nashrabot](https://anonym.to/?https://t.me/nashrabot) - Awesome bot for channels & advertising list owners helps you create rich posts.
+- [@gopublishbot](https://anonym.to/?https://t.me/gopublishbot) - It allows you to create custom covers, memes, quotes, greeting cards, and much more from prebuilt templates.
+
+**[`^        back to top        ^`](#)**
+
+
 ### Telgram bots for file sharing
 - [@APDSeedbox](https://anonym.to/?https://t.me/APDSeedbox)
 - [@LinkForFilebot](https://anonym.to/?https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
@@ -195,7 +231,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@UploadBots](https://anonym.to/?https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 - [@vipercloud](https://anonym.to/?https://t.me/vipercloud)
 - [@filetobot](https://anonym.to/?https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
-- [@getmediabot](https://anonym.to/?https://t.me/getmediabot)
+- [@getmediabot](https://anonym.to/?https://t.me/getmediabot) - Download from YouTube, Instagram, Facebook, Twitter and more.
 - [@intermediabot](https://anonym.to/?https://t.me/intermediabot)
 - [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@multi_purposebot](https://anonym.to/?https://t.me/multi_purposebot) - Rename, get media links, and upload files. The bot has lots of features.
@@ -261,7 +297,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ## Telegram Bot for SoundCloud
 - [@Soundclouddownloadbot](https://anonym.to/?https://t.me/Soundclouddownloadbot) - Download SoundCloud files (music, no playlists) from within Telegram. You can't invite the Bot into Groups.
-
+- [@scdlbot](https://anonym.to/?https://t.me/scdlbot) - Downloading SoundCloud songs.
 
 **[`^        back to top        ^`](#)**
 
@@ -290,6 +326,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ## Telegram eMail forwarding bot
 - [@ToEmailBot](https://anonym.to/?https://t.me/ToEmailBot) - Redirect all pictures and files to email. Send me one and get it to inbox 💌.
+
+**[`^        back to top        ^`](#)**
+
+
+## Activity Tracker Bot
+- [@myTrackBot](https://anonym.to/?https://t.me/myTrackBot) - Helps to track time spend on different activities.
 
 **[`^        back to top        ^`](#)**
 
@@ -563,6 +605,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@vardast_bot](https://anonym.to/?https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@assistChannel_bot](https://anonym.to/?https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
 - [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection, a Group Chat can be found [here](https://anonym.to/?https://t.me/butter_bot_info)
+- [@TheDigestBot](https://anonym.to/?https://t.me/TheDigestBot) - Collect all your channel subscriptions in one place.
 
 **[`^        back to top        ^`](#)**
 
@@ -598,6 +641,13 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Instagram Bots
 - [@Instasave_bot](https://anonym.to/?https://t.me/Instasave_bot) - Save Instagram photos.
+- [@IPPGBOT](https://anonym.to/?http://www.t.me/IPPGBOT) - Instagram profile picture, story etc download.
+
+**[`^        back to top        ^`](#)**
+
+
+### Anonymising messages
+- [@mirroring_bot](https://anonym.to/?https://t.me/mirroring_bot)
 
 **[`^        back to top        ^`](#)**
 
@@ -616,12 +666,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@pic](https://anonym.to/?https://t.me/pic)
 - [@imagesearchbot](https://anonym.to/?https://t.me/imagesearchbot)
 - [@imagebot](https://anonym.to/?https://t.me/imagebot)
-
-**[`^        back to top        ^`](#)**
-
-
-### Internet search Bots
-- [@ya](https://anonym.to/?https://t.me/ya)
 
 **[`^        back to top        ^`](#)**
 
@@ -660,8 +704,36 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Lyric Bots
 - [@iLyricsBot](https://anonym.to/?https://t.me/iLyricsBot)
+- [@LyricsGramBot](https://anonym.to/?https://t.me/LyricsGramBot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Spoiler Bots
+- [@ispoilerbot](https://anonym.to/?https://t.me/ispoilerbot) - Adds spoiler tags around posts.
+
+**[`^        back to top        ^`](#)**
+
+
+### Like button bots
+- [@like](https://anonym.to/?https://t.me/like) - Add simple like/dislike buttons bellow posts.
+- [@ReactBot](https://anonym.to/?https://t.me/ReactBot) - Create rich posts with reactions and comments in your channels.
+
+**[`^        back to top        ^`](#)**
+
+
+### Bots for Maps
+- [@openmap_bot](https://anonym.to/?https://t.me/openmap_bot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Share Music
+- [@MusicLinkBot](https://anonym.to/?https://t.me/MusicLinkBot)
+- [@Spotybot](https://anonym.to/?https://t.me/Spotybot)
 
 **[`^        back to top        ^`](#)**
 
@@ -670,6 +742,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@ShortUrlBot](https://anonym.to/?https://t.me/ShortUrlBot)
 - [@shorturl_googl_bot](https://anonym.to/?https://t.me/shorturl_googl_bot)
 - [@PlinkBot](https://anonym.to/?https://t.me/PlinkBot)
+- [@shorturlinksbot](https://anonym.to/?https://t.me/shorturlinksbot)
 
 **[`^        back to top        ^`](#)**
 
@@ -696,6 +769,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@TheFeedReaderBot](https://anonym.to/?https://t.me/TheFeedReaderBot)
 - [@el_monitorro](https://anonym.to/?https://t.me/el_monitorro_bot) - el_monitorro is RSS, Atom and JSON feed reader written in Rust.
 - [@eventsaggregatorbot](https://anonym.to/?https://t.me/eventsaggregatorbot) - Forward your favorite Twitter, Instagram, RSS, Reddit, YouTube, Twitch accounts in Telegram.
+- [@AximoBot](https://anonym.to/?https://t.me/AximoBot) - Can monitor Coub.com, Instagram.com, Twitter.com, Twitch.tv, Periscope.tv, Medium.com, Vine.com accounts, VK.com users and public groups, Livejournal.com blogs and Youtube.com channels.
 
 **[`^        back to top        ^`](#)**
 
@@ -724,8 +798,40 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### Web Search Bots
+- [@GoogleDEBot](https://anonym.to/?https://t.me/GoogleDEBot) - Simple Google Search Bot.
+- [@GoogleSearchUnofficialBot](https://anonym.to/?https://t.me/GoogleSearchUnofficialBot)
+- [@GoogramBot](https://anonym.to/?https://t.me/GoogramBot)
+- [@HentaiDBot](https://anonym.to/?https://t.me/HentaiDBot)
+- [@hotRedditBot](https://anonym.to/?https://t.me/hotRedditBot)
+- [@inlinepixivbot](https://anonym.to/?https://t.me/inlinepixivbot)
+- [@inlineredditbot](https://anonym.to/?https://t.me/inlineredditbot)
+- [@instant_utilities_bot](https://anonym.to/?https://t.me/instant_utilities_bot)
+- [@itorrentsearchbot](https://anonym.to/?https://t.me/itorrentsearchbot)
+- [@letmebot](https://anonym.to/?https://t.me/letmebot)
+- [@letmegbot](https://anonym.to/?https://t.me/letmegbot)
+- [@lmddgtfybot](https://anonym.to/?https://t.me/lmddgtfybot)
+- [@NephoBot](https://anonym.to/?https://t.me/NephoBot)
+- [@PHPFuncsBot](https://anonym.to/?https://t.me/PHPFuncsBot)
+- [@PHPIndexBot](https://anonym.to/?https://t.me/PHPIndexBot)
+- [@podsearchbot](https://anonym.to/?https://t.me/podsearchbot)
+- [@ribot](https://anonym.to/?https://t.me/ribot)
+- [@TorrentSearchRoBot](https://anonym.to/?https://t.me/TorrentSearchRoBot)
+- [@TubeListBot](https://anonym.to/?https://t.me/TubeListBot)
+- [@ya](https://anonym.to/?https://t.me/ya)
+- [@RedditBrowserBot](https://anonym.to/?https://t.me/RedditBrowserBot) - Browse Reddit on Telegram.
+
+**[`^        back to top        ^`](#)**
+
+
 ### Twitter Downloader Bots
 - [@twittervid_bot](https://anonym.to/?https://t.me/twittervid_bot) - Download Twitter's videos.
+
+**[`^        back to top        ^`](#)**
+
+
+### Instagram Downloader Bot
+- [@instatoolsbot](https://anonym.to/?https://t.me/instatoolsbot) - Download Instagram videos.
 
 **[`^        back to top        ^`](#)**
 
@@ -788,7 +894,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Sticker Search Bot
-- [@sticker](https://anonym.to/?https://t.me/sticker)
+- [@sticker](https://anonym.to/?https://t.me/sticker) - Emoji-to-sticker.
+- [@StickerpipeBot](https://anonym.to/?https://t.me/StickerpipeBot) - Text-to-sticker.
 
 **[`^        back to top        ^`](#)**
 
@@ -809,7 +916,6 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Poll Bots
 - [@pollbot](https://anonym.to/?https://t.me/pollbot)
-- [@like](https://anonym.to/?https://t.me/like)
 - [@vote](https://anonym.to/?https://t.me/vote)
 
 **[`^        back to top        ^`](#)**
@@ -820,6 +926,19 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@storebot](https://anonym.to/?https://t.me/storebot) - Channel Introducing.
 - [@tchannelsbot](https://anonym.to/?https://t.me/tchannelsbot) - Channel Introducing.
 - [@Telegroupsbot](https://anonym.to/?https://t.me/Telegroupsbot) - Group Introducing.
+
+**[`^        back to top        ^`](#)**
+
+
+### Anime
+- [opmanganimebot](https://anonym.to/?https://t.me/opmanganimebot) - OP manga and Anime bot.
+- [@nepgearBot](https://anonym.to/?https://t.me/nepgearBot) - You can search info for anime and manga like year of release, episodes, sinopsis, genres, it's very useful.
+
+**[`^        back to top        ^`](#)**
+
+
+### eShop
+- [@BoteqaServiceBot](https://anonym.to/?https://t.me/BoteqaServiceBot) - Turn your bot into a Telegram e-shop.
 
 **[`^        back to top        ^`](#)**
 
@@ -924,6 +1043,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ## Bot to remove or prevent forwarding messages
 - [@hazf_bot](https://anonym.to/?https://t.me/hazf_bot)
+- [@userdatabot](https://anonym.to/?https://t.me/userdatabot) - This bot displays user info when you forward a message to it.
 
 **[`^        back to top        ^`](#)**
 

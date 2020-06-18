@@ -208,6 +208,7 @@
 * accountbot.io
 * [APKGOD](https://old.reddit.com/r/Piracy/comments/gf2g8d/statement_from_apkgod_after_banned_from_1337x/)
 * apkpakfree.blogspot.com
+* [CrackingPatching](https://anonym.to/?https://crackingpatching.com/) - Cracked software for free!
 
 
 ## MKVCage clones
