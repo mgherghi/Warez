@@ -506,7 +506,7 @@ Downloads albums in bulk.
 - [gallery-dl](https://anonym.to/?http://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [How to download paid fonts for free](https://anonym.to/?http://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
 - [Pirating Adobe CC for Dummies](https://anonym.to/?http://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - detailed guide about pirating Adobe CC for Windows.
-- [All latest Adobe installers (working) June 2020](https://anonym.to/?hhttps://www.reddit.com/r/AdobeZii/comments/g4rnar/all_latest_adobe_installers_working/)
+- [All latest Adobe installers (working) June 2020](https://anonym.to/https://www.reddit.com/r/AdobeZii/comments/g4rnar/all_latest_adobe_installers_working/)
 
 **[`^        back to top        ^`](#)**
 

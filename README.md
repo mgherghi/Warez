@@ -1521,6 +1521,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Ultimate Kodi Guide](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) - ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 - [Yoda](https://anonym.to/?https://supremacy.org.uk/zip/repo/) - (`GeoIP-/DNS block`) - Another solid Exodus/Covenant fork, and this time it's from S-media.
 - [VShare](https://anonym.to/?https://vshare.eu) - Allows all the kodi users to pair with this service, which allows users to share and stream their favorite videos.
+- [Kodi Addons Tracker](https://anonym.to/?https://kinkeadtech.com/best-kodi-streaming-addons/) - A list which can get up-/downlvotes based on popularity, it lists a lot of Kodi addons.
 
 **[`^        back to top        ^`](#readme)**
 
