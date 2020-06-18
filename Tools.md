@@ -685,6 +685,7 @@ Downloads albums in bulk.
 
 ## Data Scraper
 - [bluprntr](https://anonym.to/?https://github.com/shogerr/bluprntr) - A Chrome extension (and local server) that saves your Bluprint classes to disk. Works on a Windows, Mac, or Linux machine. Allows for the preservation of your videos on https://myblurpint.com by saving your class videos to disk as you watch.
+- [YouTube Backup](https://anonym.to/?https://github.com/w0d4/yt-backup) - This is a backup utility for youtube videos. Since youtube-dl works very well, yt-backup will use youtube-dl as downloader.
 
 **[`^        back to top        ^`](#)**
 
