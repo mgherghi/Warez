@@ -467,6 +467,9 @@ Downloads albums in bulk.
 - [megabasterd](https://anonym.to/?http://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [megadown](https://anonym.to/?https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
 - [megatools](https://anonym.to/?http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
+- [Megacmd](https://anonym.to/?https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA.
+
+
 
 **[`^        back to top        ^`](#)**
 
