@@ -1018,6 +1018,10 @@ Downloads albums in bulk.
 ## Spotify
 - [MuteSpotifyAds](https://anonym.to/?https://github.com/simonmeusel/MuteSpotifyAds) - A efficent MacOS application automatically silencing ads on the spotify desktop app.
 - [spotify-dl](https://anonym.to/?https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl.
+
+**[`^        back to top        ^`](#)**
+
+
 ## RSS link generation
 - [ShowRSS.info](https://anonym.to/?http://showrss.info/) -  Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
 - [BlockTheSpot](https://anonym.to/?https://github.com/mrpond/BlockTheSpot/releases) - Spotify injection (for the Windows Desktop version only) which blocks video, audio & banner.
@@ -1122,13 +1126,19 @@ Overall strategy:
 
 ## Reddit Bots
 - [BotTerminator](https://anonym.to/?https://github.com/justcool393/BotTerminator) - A bot that bans spam bots when they post to a subreddit.
-- [Bulk Downloader for Reddit](https://anonym.to/?https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads media from reddit posts.
+- [](https://anonym.to/?https://github.com/aliparlakci/bulk-downloader-for-reddit) - Downloads media from reddit posts.
 
 **[`^        back to top        ^`](#)**
 
 
 ## Automated eBook Downloader
-- [ArchiveOrgLibraryDownloader](https://anonym.to/https://github.com/harrcorr/ArchiveOrgLibraryDownloader) - Archive.org Book downloader.
+- [ArchiveOrgLibraryDownloader](https://anonym.to/?https://github.com/harrcorr/ArchiveOrgLibraryDownloader) - Archive.org Book downloader.
+
+**[`^        back to top        ^`](#)**
+
+
+## Instagram Downloader
+- [Instaloader](https://anonym.to/?https://instaloader.github.io/) - Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 
 **[`^        back to top        ^`](#)**
 
