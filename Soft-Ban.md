@@ -90,7 +90,6 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - warezheaven.com
 - puredl.org
 - desirulez.me
-- cyberphoenix.org
 
 
 ### Anime & Cartoon Streaming (720p)

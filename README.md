@@ -2114,6 +2114,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WiLd's Occult Ebook Sources](https://anonym.to/?https://justpaste.it/WiLdOccultEbooks) - Constantly updated eBook source for direct downloads, eBook source pages, tracker and magnets regarding eBook stuff.
 - [Hpaudiobooks.club](https://anonym.to/?https://hpaudiobooks.club)
 - [Scrdownloader](https://anonym.to/?https://scrdownloader.com/) - (`Tool`) - Download .pdf documents and books from Scribd
+- [magzdb](https://anonym.to/?http://magzdb.org/) - EBooks and Magazines via FTP.
 
 **[`^        back to top        ^`](#readme)**
 
