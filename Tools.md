@@ -956,6 +956,12 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
+## Twitter
+- [BunnysTwitterScraper](https://anonym.to/?https://github.com/BunnyHelp/BunnysTwitterScraper) -  Archive given Twitter URLs.
+
+**[`^        back to top        ^`](#)**
+
+
 ## OS Fingerprinting tools
 - [asp-audit](https://anonym.to/?http://seclists.org/basics/2006/Sep/128) - An ASP fingerprinting tool and vulnerability scanner.
 - [blindelephant](https://anonym.to/?http://blindelephant.sourceforge.net/) - Attempts to discover the version of a (known) web application by comparing static files at known locations.
