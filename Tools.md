@@ -684,7 +684,7 @@ Downloads albums in bulk.
 
 
 ## Data Scraper
-- [bluprntr](https://anonym.to/?https://github.com/shogerr/bluprntr) - A Chrome extension (and local server) that saves your Bluprint classes to disk. Works on a Windows, Mac, or Linux machine.
+- [bluprntr](https://anonym.to/?https://github.com/shogerr/bluprntr) - A Chrome extension (and local server) that saves your Bluprint classes to disk. Works on a Windows, Mac, or Linux machine. Allows for the preservation of your videos on https://myblurpint.com by saving your class videos to disk as you watch.
 
 **[`^        back to top        ^`](#)**
 
@@ -950,6 +950,7 @@ Downloads albums in bulk.
 ## File Searching utilities
 - [File Search Utility](https://anonym.to/?https://www.getlazarus.org/apps/filesearch/) - A portable and open source cross platform visual file search tool.
 - [Everything](https://anonym.to/?https://www.voidtools.com/) - Locate files and folders by name on Windows instantly.
+- [Recoll](https://anonym.to/?https://www.lesbonscomptes.com/recoll/) - Recoll finds documents based on their contents as well as their file names.
 
 **[`^        back to top        ^`](#)**
 
