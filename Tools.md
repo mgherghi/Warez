@@ -468,8 +468,7 @@ Downloads albums in bulk.
 - [megadown](https://anonym.to/?https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
 - [megatools](https://anonym.to/?http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
 - [Megacmd](https://anonym.to/?https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA.
-
-
+- [MegaKeep](https://anonym.to/?https://github.com/xCryptic/MegaKeep) - This program will allow you to login to all of your mega accounts to avoid deletion due to inactivity.
 
 **[`^        back to top        ^`](#)**
 
@@ -680,6 +679,12 @@ Downloads albums in bulk.
 - [WhatWeb](https://anonym.to/?http://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
 - [Wordpress Exploit Framework](https://anonym.to/?http://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - [WPSploit](https://anonym.to/?http://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
+
+**[`^        back to top        ^`](#)**
+
+
+## Data Scraper
+- [bluprntr](https://anonym.to/?https://github.com/shogerr/bluprntr) - A Chrome extension (and local server) that saves your Bluprint classes to disk. Works on a Windows, Mac, or Linux machine.
 
 **[`^        back to top        ^`](#)**
 
