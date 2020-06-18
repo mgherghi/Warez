@@ -1114,6 +1114,7 @@ Overall strategy:
 
 ## Bypass Google's 750 GB Limit
 - [Autorclone](https://anonym.to/?https://github.com/xyou365/AutoRclone) - AutoRClone is a fork of rclone which bypasses Google's 750 GB daily limit.
+- [folderclone](https://anonym.to/?https://github.com/Spazzlo/folderclone) - A project that allows you copy large folders to Shared Drives.
 
 **[`^        back to top        ^`](#)**
 
