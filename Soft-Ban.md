@@ -88,7 +88,7 @@ Please **DO NOT** start discussions why popular websites are de-listed e.g. Fitg
 - telugucz.com
 - psychodownloads.com
 - warezheaven.com
-
+- puredl.org
 
 ### Anime & Cartoon Streaming (720p)
 - [AnimeBorn](https://anonym.to/?http://www.animereborn.io/) - Subs only, banner ads, pop-ins, pop-ups, videos hosted by Google (proxy), only 1 source, downloadable.
