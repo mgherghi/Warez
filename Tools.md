@@ -98,6 +98,7 @@ Downloads albums in bulk.
 - [Snahp tool](https://anonym.to/?http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [traktarr](https://anonym.to/?http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Qo-DL-Reborn](https://anonym.to/?https://github.com/Sorrow446/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
+- [ComicScraper](https://anonym.to/?https://github.com/Gink3/ComicScraper) - Bulk Comic Book Downloader for getcomics.info Downloaded as a cbr file.
 
 **[`^        back to top        ^`](#)**
 
