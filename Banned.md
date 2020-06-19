@@ -238,6 +238,7 @@
 * mkvcagez.net
 * LBRY.tv
 
+
 ## Faker
 * 2baksa.net
 * NORO repacks
@@ -245,6 +246,8 @@
 * Kkiste.io
 * Corepack
 * yasdl.com
+- [Nsane Forum](https://anonym.to/?https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
+
 
 ## eBooks
 * downeu.org
