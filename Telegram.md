@@ -245,6 +245,9 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [tgfilestream](https://anonym.to/?https://github.com/SpEcHiDe/tgfilestream) - A Telegram bot that can stream Telegram files to users over HTTP.
 - [@lightzcloud](https://anonym.to/?https://t.me/lightzcloud)
 - [@LinkToFilesBot](https://anonym.to/?https://t.me/LinkToFilesBot) - Send any document to get a direct download link.
+- [@UploadsRobot](https://anonym.to/?https://t.me/UploadsRobot)
+- [@uploadbot](https://anonym.to/?https://t.me/uploadbot)
+- [@url_uploadbot](https://anonym.to/?https://t.me/url_uploadbot)
 
 
 #### Telegram channel for file sharing
@@ -257,11 +260,15 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-####
+#### rclone Discussion Channels
 - [rclone](https://anonym.to/?https://t.me/rclone) - A help rclone discussion channel.
 
 
 **[`^        back to top        ^`](#)**
+
+
+### Media Info Bots
+- [@mediainforobot](https://anonym.to/?https://t.me/mediainforobot)
 
 
 ## Upload to Google Drive Bots

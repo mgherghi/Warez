@@ -2615,6 +2615,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [dirtywarez.org](https://anonym.to/?https://dirtywarez.org/cat/streaming)
 - [hdmovie8](https://anonym.to/?https://hdmovie8.com/)
 - [hindimoviesonline](https://anonym.to/?https://www.hindimoviesonline.club/) - (`Hindi`)
+- [B.net Index Server](https://anonym.to/?http://server1.ftpbd.net/) - Movies, TV shows, PC Games, Android Gamess & Console Games.
 
 **[`^        back to top        ^`](#readme)**
 
