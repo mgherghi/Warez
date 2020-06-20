@@ -3183,6 +3183,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## Seam Workshop
+- [Steam Workshop](http://steamworkshop.download/) - Download audio and video file from steam who are normally behind a paywall.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## Wordpress plugins & themes
 - [Vestathemes](https://anonym.to/?https://www.vestathemes.com/) - Vestathemes is a website for [WordPress](https://anonym.to/?https://www.wordpress.com/) - themes and plugins.
 
