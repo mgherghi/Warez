@@ -310,7 +310,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ## Telegram Torrent Bots
-- [Torrent Drive](https://anonym.to/?https://t.me/torrentdrive_bot?do=open_link) - Gives you Google Drive link for the torrent files you send.
+- [torrentdrive_bot](https://anonym.to/?https://t.me/torrentdrive_bot) - Gives you Google Drive link for the torrent files you send.
 - [@torrent_drive](https://anonym.to/?https://t.me/torrent_drive) - Torrent to GDrive Bot.
 - [@kltorrent](https://anonym.to/?https://t.me/kltorrent)
 - [@XtremeCloud](https://anonym.to/?https://t.me/XtremeCloud/10)
