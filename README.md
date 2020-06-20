@@ -2121,6 +2121,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Hpaudiobooks.club](https://anonym.to/?https://hpaudiobooks.club)
 - [Scrdownloader](https://anonym.to/?https://scrdownloader.com/) - (`Tool`) - Download .pdf documents and books from Scribd
 - [magzdb](https://anonym.to/?http://magzdb.org/) - EBooks and Magazines via FTP.
+- [springer-books](https://anonym.to/?https://hnarayanan.github.io/springer-books/) - To help support everyone during Covid-19, [Springer has released a ton of free textbooks](https://anonym.to/?https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3184,7 +3185,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Seam Workshop
-- [Steam Workshop](http://steamworkshop.download/) - Download audio and video file from steam who are normally behind a paywall.
+(http://steamworkshop.download/) - Download audio and video file from steam who are normally behind a paywall.
 
 **[`^        back to top        ^`](#readme)**
 
