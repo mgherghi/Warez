@@ -163,6 +163,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## Google Colaboratory
+- [colabtools](https://anonym.to/?hhttps://github.com/googlecolab/colabtools) - Colaboratory is a research project created to help disseminate machine learning education and research. Example [here](https://anonym.to/?https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb).
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## Google Drive link shortener
 - [drive.klop](https://anonym.to/?https://drive.klop.me/) - Shorten your Google Drive link and share with your friends.
 
@@ -673,7 +679,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [HD-Forever](https://anonym.to/?https://hdf.world/) - (HD-F) - HD-Forever is a French private tracker for HD movies.
 - [HD-Space](https://anonym.to/?https://hd-space.org/) - (HDS) - HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. A good tracker for beginners.
 - [HD4Free](https://anonym.to/?https://hd4.xyz) - (HD4F) - HD4Free is a general HD tracker with a good range of content.
-- [IPTorrents](https://anonym.to/?https://iptorrents.com/) - (IPT) - Private tracker with movies, books, and more.
+- [IPTorrents](https://anonym.to/?https://iptorrents.com/) - Private tracker for movies, books, and more.
 - [JPopsuki](https://anonym.to/?https://jpopsuki.eu/) - (JPop) - JPopsuki is a torrent tracker focused on Asian music.
 - [Milkie](https://anonym.to/?https://milkie.cc/milk/General2019) - Added another upcoming private tracker site.
 - [MyAnonaMouse](https://anonym.to/?https://www.myanonamouse.net/) - (MAM) - Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
