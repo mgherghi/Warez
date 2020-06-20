@@ -40,6 +40,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [TelegramBotsList](https://anonym.to/?http://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
 - [Telegram XP Bot](https://anonym.to/?http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](https://anonym.to/?http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
+- [PyroGramBot](https://github.com/SpEcHiDe/PyroGramBot) - A Telegram User / Bot based on Pyrogram.
 
 **[`^        back to top        ^`](#)**
 
