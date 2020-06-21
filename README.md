@@ -3071,6 +3071,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## Favicon grabber/generator
+- [Favicon grabber](https://anonym.to/?https://favicongrabber.com/) - Grabbing favicons from any domain.
+- [realfavicongenerator](https://anonym.to/?https://realfavicongenerator.net/) - Generate favicons for all platforms.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## Documents Downloaders (sliedeshare etc.)
 - [DocDownloader.com](https://anonym.to/?https://docdownloader.com/) - Scribd, Issuu, Slideshare & Academia downloader.
 - [Slideshare Downloader](https://anonym.to/?https://slidesharedownloader.ngelmat.net/) - Slideshare presentation downloader service is totally free and there's no limit to the number of files you can download, so feel free to use my website as much as you want.
