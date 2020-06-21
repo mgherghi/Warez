@@ -3070,10 +3070,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 **[`^        back to top        ^`](#readme)**
 
-## Documents Downloaders
+
+## Documents Downloaders (sliedeshare etc.)
 - [DocDownloader.com](https://anonym.to/?https://docdownloader.com/) - Scribd, Issuu, Slideshare & Academia downloader.
+- [Slideshare Downloader](https://anonym.to/?https://slidesharedownloader.ngelmat.net/) - Slideshare presentation downloader service is totally free and there's no limit to the number of files you can download, so feel free to use my website as much as you want.
 
 **[`^        back to top        ^`](#readme)**
+
 
 ## Web Page Testing
 - [wptagent](https://anonym.to/?https://github.com/WPO-Foundation/wptagent) - Cross-platform WebPageTest agent which supports allmost all current OS.

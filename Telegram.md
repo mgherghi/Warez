@@ -355,6 +355,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### Telegram APK downloader Bots
 - [@apkdl_bot](https://anonym.to/?https://t.me/apkdl_bot) - Download latest version of any free android app and game from apkdl.in.
 - [@GooglePlayDownloader_bot](https://anonym.to/?https://t.me/GooglePlayDownloader_bot) - Download latest version of any free android app directly from Google Play Store.
+- [@ApkManagerBot](https://anonym.to/?https://t.me/ApkManagerBot) - Write one or more words to obtain Android Apks.
 
 **[`^        back to top        ^`](#)**
 
