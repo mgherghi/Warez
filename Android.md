@@ -182,6 +182,7 @@ TCP Port: 853
 
 ## WhatsApp Mods
 - [Foud Whatsapp](https://anonym.to/?http://www.fouadmods.com/fouad-whatsapp/)
+- [WhatsApp+ By Abo2Sadam](https://anonym.to/?https://www.whatsappmods.net/)
 
 **[`^        back to top        ^`](#)**
 
