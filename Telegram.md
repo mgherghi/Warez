@@ -271,6 +271,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 #### rclone Discussion Channels
 - [rclone](https://anonym.to/?https://t.me/rclone) - A help rclone discussion channel.
 
+**[`^        back to top        ^`](#)**
+
+
+### Music Sharing Bots
+- [@stadyxbot](https://anonym.to/?https://t.me/stadyxbot) - Helps to share link to all services in one message in any chat. Also it will attach a 30-second preview if available.
+- [@MusicLinkBot](https://anonym.to/?https://t.me/MusicLinkBot) - You can easily share Music links with your friends with me! Just use me inline and type the Name of a Song!
 
 **[`^        back to top        ^`](#)**
 
