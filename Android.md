@@ -1,6 +1,6 @@
 ## DNS
 
-```
+```bash
 UncensoredDNS
 (https://blog.uncensoreddns.org/dns-servers/)IPv4 Address: 91.239.100.100
 Port: 53
@@ -55,9 +55,9 @@ IPv4 Address: 104.244.78.231
 TLS Hostname: uncensored.lux1.dns.nixnet.xyz
 TCP Port: 853
 🇱🇺 Luxembourg, EU
-````
+```
 
-*⚠️ Do not use Cloudflare, Quad9, Google or your ISP's DNS, as they're run by big corporations | [SOURCE](https://old.reddit.com/r/sevengali/comments/8fy15e/dns_cloudflare_quad9_etc) ⚠️
+*⚠️ Avoid using Cloudflare, Quad9, Google or your ISP's DNS, as they're run by big corporations | [SOURCE](https://old.reddit.com/r/sevengali/comments/8fy15e/dns_cloudflare_quad9_etc) ⚠️
 
 *⚠️ Don't trust TorstenJahnke and nor his spyware DNS (Keweon DNS) | [SOURCE](https://t.me/NoGoolag/786) ⚠️
 
@@ -66,6 +66,7 @@ TCP Port: 853
 - [android-scripts](https://anonym.to/?https://github.com/strazzere/android-scripts) - Collection of open source Android reverse engineering scripts.
 
 **[`^        back to top        ^`](#)**
+
 
 ## Apps
 
@@ -121,7 +122,7 @@ TCP Port: 853
 - [ProSmart](http://prosmart.by/) - (`insecure`) - ProSmart is a russian site which provides several apks, mods and games.
 - [Release-APK](https://anonym.to/?https://release-apk.com/) - Balatan's APK page.
 - [Tachiyomi](https://anonym.to/?https://github.com/inorichi/tachiyomi) - Tachiyomi is a free and open source manga reader for Android.
-- [Tautulli Remote](https://anonym.to/?https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go
+- [Tautulli Remote](https://anonym.to/?https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go.
 - [Trashbox](https://anonym.to/?https://trashbox.ru/) - Trashbox is the russian Mobilism.
 - [YMusic](https://anonym.to/?https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - YouTube Music Player & Downloader.
 

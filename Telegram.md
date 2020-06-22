@@ -670,6 +670,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 ### Anonymising messages
 - [@mirroring_bot](https://anonym.to/?https://t.me/mirroring_bot)
+- [@anonymize_bot](https://anonym.to/?https://t.me/anonymize_bot) - Forward any message, photos, files, etc. to this bot. The bot will reply your message, without any indication where this message is from.
 
 **[`^        back to top        ^`](#)**
 
