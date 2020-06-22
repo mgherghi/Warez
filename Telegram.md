@@ -211,6 +211,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+### Paid Membership Bots
+- [@PatrontoBot](https://anonym.to/?https://t.me/PatrontoBot) - Introduce paid membership into your channel.
+
+**[`^        back to top        ^`](#)**
+
+
 ### Text formatting Bots
 - [@bold](https://anonym.to/?https://t.me/bold)
 - [@fliptxtbot](https://anonym.to/?https://t.me/fliptxtbot)
@@ -218,6 +224,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@mdtohtmlbot](https://anonym.to/?https://t.me/mdtohtmlbot) - Markdown to Html bot.
 - [@nashrabot](https://anonym.to/?https://t.me/nashrabot) - Awesome bot for channels & advertising list owners helps you create rich posts.
 - [@gopublishbot](https://anonym.to/?https://t.me/gopublishbot) - It allows you to create custom covers, memes, quotes, greeting cards, and much more from prebuilt templates.
+- [@ConfluxBot](https://anonym.to/?https://medium.com/@ak4zh/confluxbot-how-to-use-text-manipulation-feature-63b24fb9a93e)
 
 **[`^        back to top        ^`](#)**
 
