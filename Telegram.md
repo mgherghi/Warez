@@ -470,6 +470,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [gdrivemovielink](https://anonym.to/?https://t.me/gdrivemovielink) - Google drive movies linked into Telegram.
 - [hamil_movies](https://anonym.to/?https://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
 - [TV Updates](https://anonym.to/?https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!
+- [@Join_Linkztagram](https://t.me/Join_Linkztagram) - For Latest Movies and TV Shows.
 
 
 ### Telegram Movie Bots
@@ -1051,8 +1052,14 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
-### Markdown Bot
+### Markdown Bots
 - [@markdownrobot](https://anonym.to/?https://t.me/markdownrobot)
+
+**[`^        back to top        ^`](#)**
+
+
+### Direct Link Bots
+- [@FileToLinkTGbot](https://anonym.to/?https://t.me/FileToLinkTGbot) - This bot generate direct download link of Telegram Files.
 
 **[`^        back to top        ^`](#)**
 
