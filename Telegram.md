@@ -92,6 +92,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@fakemailbot](https://anonym.to/?https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
 - [@smtpbot](https://anonym.to/?https://t.me/smtpbot) - Get fake emails.
 - [@temp_mail_bot](https://anonym.to/?https://t.me/temp_mail_bot) - Get fake emails.
+- [@trashemail_bot](https://anonym.to/?https://t.me/trashemail_bot) - TrashEmail is hosted Telegram bot that can save your private email address by offering disposable email address
 
 **[`^        back to top        ^`](#)**
 
