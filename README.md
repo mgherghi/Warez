@@ -2131,6 +2131,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Scrdownloader](https://anonym.to/?https://scrdownloader.com/) - (`Tool`) - Download .pdf documents and books from Scribd
 - [magzdb](https://anonym.to/?http://magzdb.org/) - EBooks and Magazines via FTP.
 - [springer-books](https://anonym.to/?https://hnarayanan.github.io/springer-books/) - To help support everyone during Covid-19, [Springer has released a ton of free textbooks](https://anonym.to/?https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
+- [edoc](https://edoc.pub/) - Upload Ideas And Publishing Resources Write A Book PDF Free Download Professional Platform.
 
 **[`^        back to top        ^`](#readme)**
 
