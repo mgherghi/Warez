@@ -2684,6 +2684,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Video streaming hoster
 - [gounlimited](https://anonym.to/?https://gounlimited.to/) - AdFree streaming service, share your videos without limits.
+- [netu](https://anonym.to/?https://netu.tv/#current_file_chunk_upload_div_3) - Video hoster with 200mbps, fast & secure.
 
 **[`^        back to top        ^`](#readme)**
 

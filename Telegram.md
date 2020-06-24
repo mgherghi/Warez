@@ -171,7 +171,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 ### Telegram Spotify downloader Bot
 - [@spotdlrobot](https://anonym.to/?https://t.me/spotdlrobot) - Simple bot to download Spotify Songs in High quality (_no FLAC!_). You can't invite the bot into Groups.
 - [ppmusicbot - Spotify playlist bot](https://anonym.to/?https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
-- [@spotify_to_mp3_bot](https://anonym.to/https://t.me/spotify_to_mp3_bot)
+- [@spotify_to_mp3_bot](https://anonym.to/https://t.me/spotify_to_mp3_bot) - Simple Spotify downloader bot.
 
 **[`^        back to top        ^`](#)**
 
@@ -257,6 +257,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@UploadsRobot](https://anonym.to/?https://t.me/UploadsRobot)
 - [@uploadbot](https://anonym.to/?https://t.me/uploadbot)
 - [@url_uploadbot](https://anonym.to/?https://t.me/url_uploadbot)
+- [@FilesToIinkBot](https://anonym.to/?https://t.me/FilesToIinkBot)
+- [@hk_Link_Bot](https://anonym.to/?https://t.me/hk_Link_Bot)
 
 
 #### Telegram channel for file sharing
