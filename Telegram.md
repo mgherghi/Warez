@@ -331,6 +331,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@XtremeCloud](https://anonym.to/?https://t.me/XtremeCloud/10)
 - [@torrdriveheaven](https://anonym.to/?https://t.me/torrdriveheaven)
 - [@torrentbcloud](https://anonym.to/?https://t.me/torrentbcloud)
+- [@torrentdrive_bot](https://anonym.to/?https://t.me/torrentdrive_bot)
 
 **[`^        back to top        ^`](#)**
 
