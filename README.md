@@ -2701,6 +2701,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## Torrent Fake Seeders
+- [Fake Seeder](https://github.com/nickfox-taterli/fakeseeder) - This will result in a perma ban if you use it on private tracker.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## Account Checker
 - [Netflix checker](https://anonym.to/?https://github.com/AbdeslemSmahi/NetflixChecker)
 
