@@ -1304,7 +1304,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Chia-anime](https://anonym.to/?https://www2.chia-anime.cc/)
 - [DaiWEEB](https://anonym.to/?https://www.daiweeb.org/) - Subs only (EN and JP), no ads, only one source, self-hosted, aimed for Japanese learners.
 - [DarkAnime.stream](https://anonym.to/?https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
-- [DubbedAnime](https://anonym.to/?https://dubbedanime.biz/) - Dubbed animes, large collecction.
+- [DubbedAnime](https://anonym.to/?https://dubbedanime.biz/) - Dubbed animes, large collection.
 - [DubbedAnime](https://anonym.to/?https://ww5.dubbedanime.net/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [EyeOnAnime](https://anonym.to/?https://eyeonanime.tv/) - Subs and dubs, banner ads, uses multiple uploaders/players.
 - [GoGoAnime](https://anonym.to/?https://www1.gogoanime.sh/) - Subs and dubs, many ads, many player alternatives.
@@ -1312,9 +1312,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Kawaiifu](https://anonym.to/?https://kawaiifu.com/) - Videos hosted by Google, only one source, style similar to niconico, missing multiple anime.
 - [KickAssAnime.rs](https://anonym.to/?https://www.kickassanime.rs/) - (`RU`)
 - [KickAssAnime](https://anonym.to/?https://www11.kickassanime.io/) - Subs and dubs, banner ads, some sources.
-- [KimCartoon](https://anonym.to/?https://kimcartoon.to/)
-- [MoviesEver](https://anonym.to/?https://moviesever.com/)
-- [NineAnime](https://anonym.to/?https://www.nineanime.com/)
+- [KimCartoon](https://anonym.to/?https://kimcartoon.to/) - Watch cartoons online in high quality. Free download high quality cartoons. Various formats from 240p to 720p HD (or even 1080p).
+- [MoviesEver](https://anonym.to/?https://moviesever.com/) - Movies, Animes & Cartoons.
 - [Online WatchCartoon](https://anonym.to/?https://www.watchcartoononline.com/)
 - [Randaris Anime](https://anonym.to/?https://randaris.app) - (`Ger`) - Banner ads, multiple sources, eng & german subs, captcha.]
 - [RyuAnime](https://anonym.to/?https://www4.ryuanime.com/) - Dubbed animes.
@@ -2283,6 +2282,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mangareader.net](https://anonym.to/?https://www.mangareader.net) - Read your favorite manga scans and scanlations online at Manga Reader.
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
+- [NineAnime](https://anonym.to/?https://www.nineanime.com/) - Read Free Manga Online, Manga, english Manga, Nine Anime.
 
 **[`^        back to top        ^`](#readme)**
 
