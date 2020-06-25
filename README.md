@@ -904,7 +904,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Put.io automator](https://anonym.to/?https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
 - [Seedbox.io](https://anonym.to/?https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://anonym.to/?https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
-- [UltraSeedbox](https://anonym.to/?https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
 
 **[`^        back to top        ^`](#readme)**
 

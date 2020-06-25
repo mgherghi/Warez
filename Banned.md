@@ -480,3 +480,6 @@
 ### Google Streaming Proxy
 - [HydraX.net](https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/)
 
+
+## SeedBox
+- [UltraSeedbox](https://anonym.to/?https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
