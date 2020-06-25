@@ -684,7 +684,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Audionews](https://anonym.to/?https://audionews.org/) - (AN) - Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) - Open signups on the 1st-2nd every month.
 - [Awesome HD](https://anonym.to/?https://awesome-hd.me/) - (AHD) - Awesome-HD is a private tracker for quality enthusiasts.
 - [BakaBT](https://anonym.to/?https://bakabt.me/) - (BBT) - a torrent tracker which specializes in serving anime fans
-- [BeyondHD](https://anonym.to/?https://beyondhd.xyz/) - (BHD) - BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
+- [BeyondHD](https://anonym.to/?https://beyond-hd.me/) - (BHD) - BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
 - [Bibliotik](https://anonym.to/?https://bibliotik.me/) - (BI) - Popular ebooks/audiobooks private tracker
 - [Blutopia](https://anonym.to/?https://blutopia.xyz) - (BLU) - Blutopia is a private tracker for HD movies (Blu-Ray) and HD TV shows.
 - [CGPeers](https://anonym.to/?https://www.cgpeers.com/) - (CGP) - CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
