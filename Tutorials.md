@@ -1,5 +1,6 @@
 ## Adobe
 - [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://anonym.to/?https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18)
+- [How to download latest adobe cc 2020 ISO in Google Drive](https://anonym.to/?https://telegra.ph/How-to-download-latest-adobe-cc-2020-ISO-in-Google-Drive-04-18)
 
 **[`^        back to top        ^`](#)**
 

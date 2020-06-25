@@ -388,6 +388,11 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [monolith](https://anonym.to/?https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
 - [Local Website Archive](https://anonym.to/?https://www.aignes.com/lwa.htm) - Paid software to Archive online documents to your PC.
 
+**[`^        back to top        ^`](#readme)**
+
+
+## Adobe
+- [MasterCollector](https://anonym.to/?https://bitbucket.org/MasterCollector/master-collector/src/master/) - Master Collector is a very small and portable application designed for simplifying, downloading, and installing Adobe Apps. It has everything needed to download, install, activate, uninstall, and clean.
 
 **[`^        back to top        ^`](#readme)**
 
