@@ -636,6 +636,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@assistChannel_bot](https://anonym.to/?https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
 - [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection, a Group Chat can be found [here](https://anonym.to/?https://t.me/butter_bot_info)
 - [@TheDigestBot](https://anonym.to/?https://t.me/TheDigestBot) - Collect all your channel subscriptions in one place.
+- [chainfuel](https://anonym.to/?https://www.chainfuel.com/) - Telegram analytics, anti-spam, and user engagement.
 
 **[`^        back to top        ^`](#)**
 
