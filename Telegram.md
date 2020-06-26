@@ -596,7 +596,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [jhusbooks](https://anonym.to/?https://t.me/joinchat/AAAAAEGe-ebJ--qN4LI3ng)
 - [mfmixebooks](https://anonym.to/?https://t.me/mfmixebooks)
 - [@philosophybooks](https://anonym.to/?https://t.me/philosophybooks)
-- [@Engineering_Ebooks1](https://anonym.to/?https://t.me/Engineering_Ebooks1)
+- [@Engineering_Ebooks1](https://anonym.to/?https://t.me/Engineering_Ebooks1) - Programming eBooks.
 
 
 ### Telegram chats regarding eBooks

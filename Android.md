@@ -223,3 +223,6 @@ TCP Port: 853
 ## Movie release notifications
 - [Movie Updates](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
 
+
+## rclone Android apps
+- [rcx](https://anonym.to/?https://github.com/x0b/rcx) - Android rclone application with a lot of features.
