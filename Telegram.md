@@ -626,7 +626,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@AlbionRoBoT](https://anonym.to/?https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
 - [@BotFather](https://anonym.to/?https://t.me/BotFather) - Create and maintain your own bots.
 - [@Combot](https://anonym.to/?https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
-- [@Controller](https://anonym.to/?https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
+- [@ControllerBot](https://anonym.to/?https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
 - [@GroupHelpBot](https://anonym.to/?https://t.me/GroupHelpBot) - This is the most complete Bot to help you manage your groups easily and safely!
 - [@IFTTT](https://anonym.to/?https://t.me/IFTTT) - Similar like webhooks your can create own script based snippets which you can use in your channel or group.
 - [@Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot.
@@ -637,6 +637,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection, a Group Chat can be found [here](https://anonym.to/?https://t.me/butter_bot_info)
 - [@TheDigestBot](https://anonym.to/?https://t.me/TheDigestBot) - Collect all your channel subscriptions in one place.
 - [chainfuel](https://anonym.to/?https://www.chainfuel.com/) - Telegram analytics, anti-spam, and user engagement.
+- [@h0ker_welcomebot](https://anonym.to/?https://t.me/h0ker_welcomebot) - Show other groups you can join if a new user joins.
+- [@PerspectiveIX](https://anonym.to/?https://t.me/PerspectiveIX) - Similar like ControllerBot.
 
 **[`^        back to top        ^`](#)**
 
