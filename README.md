@@ -489,6 +489,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Accounts
 - [GrimHackers](https://anonym.to/?https://grimhackers.me/) - Account giveaways & more.
+- [Jovial Premium](https://anonym.to/?https://jovialpremium.ga/) - Several premium account generators.
+- [h-gen](https://anonym.to/?https://www.h-gen.xyz/) - Several premium account generators.
 
 **[`^        back to top        ^`](#readme)**
 
