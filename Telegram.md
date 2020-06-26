@@ -596,6 +596,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [jhusbooks](https://anonym.to/?https://t.me/joinchat/AAAAAEGe-ebJ--qN4LI3ng)
 - [mfmixebooks](https://anonym.to/?https://t.me/mfmixebooks)
 - [@philosophybooks](https://anonym.to/?https://t.me/philosophybooks)
+- [@Engineering_Ebooks1](https://anonym.to/?https://t.me/Engineering_Ebooks1)
 
 
 ### Telegram chats regarding eBooks
@@ -639,6 +640,8 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [chainfuel](https://anonym.to/?https://www.chainfuel.com/) - Telegram analytics, anti-spam, and user engagement.
 - [@h0ker_welcomebot](https://anonym.to/?https://t.me/h0ker_welcomebot) - Show other groups you can join if a new user joins.
 - [@PerspectiveIX](https://anonym.to/?https://t.me/PerspectiveIX) - Similar like ControllerBot.
+- [@Markento](https://anonym.to/?https://t.me/rippadminbot) - Group Management made easy.
+- [telegram-moderator](https://anonym.to/?https://github.com/OriginProtocol/telegram-moderator) - Telegram bot for controlling spam, logging, and more.
 
 **[`^        back to top        ^`](#)**
 
