@@ -1147,3 +1147,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+## Raspberry Pi Bots
+- [remoteTelegramShell](https://anonym.to/?https://github.com/EnriqueMoran/remoteTelegramShell) - Telegram bot that allows you to control your Raspberry Pi (or Linux computer, untested).
+
+**[`^        back to top        ^`](#)**
