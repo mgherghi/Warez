@@ -360,6 +360,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Stream.io](https://anonym.to/?https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
 - [Shodan.io](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [Lemmy](https://anonym.to/?https://github.com/LemmyNet/lemmy) - Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News.
+- [ruqqus](https://anonym.to/?https://ruqqus.com/) - Another open platform with free speech in mind.
 
 **[`^        back to top        ^`](#readme)**
 
