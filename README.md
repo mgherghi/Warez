@@ -2186,6 +2186,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Reddit History Wiper Tools
 - [Removeddit](https://anonym.to/?https://www.removeddit.com/about/) - Display removed (by mods) and deleted (by users) comments/threads from Reddit.
+- [forget](https://anonym.to/?https://forget.codl.fr/about/) - Forget is a service that automatically deletes your old posts.
 
 **[`^        back to top        ^`](#readme)**
 
