@@ -23,7 +23,7 @@
 
 
 ## Graphics & Design
-- [GFXDomain.net Tutorials board](https://anonym.to/?http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
+- [GFXDomain.net Tutorials board](https://anonym.to/?https://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.
 
 **[`^        back to top        ^`](#)**
 
@@ -130,7 +130,7 @@
 - [linuxserver/docker-plex](https://anonym.to/?https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
 - [Plex](https://anonym.to/?https://www.plex.tv/) - Your content”from live and recorded TV and personal media, to on-demand web shows, video news, and podcastsâ€”beautifully organized and ready to stream everywhere.
 - [PGBlitz.com](https://anonym.to/?https://pgblitz.com/) - Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD.
-- [Plexi](http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
+- [Plexi](https://anonym.to/?hhttp://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
 - [plexinc/pms-docker](https://anonym.to/?https://github.com/plexinc/pms-docker) - Official Plex docker image.
 - [timhaak/plex](https://anonym.to/?https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
 
@@ -141,7 +141,7 @@
 - [kube-plex](https://anonym.to/?https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!
 - [Plex-Remote-Transcoder](https://anonym.to/?https://github.com/wnielson/Plex-Remote-Transcoder) - A distributed transcoding backend for Plex.
 - [UnicornTranscoder](https://anonym.to/?https://github.com/UnicornTranscoder/UnicornTranscoder) - A remote transcoder for Plex Media Server.
-- [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) - Article describing how to bypass the artifical single-transcode limit.
+- [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](https://anonym.to/?http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) - Article describing how to bypass the artifical single-transcode limit.
 
 **[`^        back to top        ^`](#)**
 
@@ -282,6 +282,12 @@
 ## Google Drive & G-Index
 - [G-Index [DarkMode + MultiAuth + English] + TD Maker + Custom Domain[.ga] Tutorial](https://anonym.to/?https://telegra.ph/G-Index-DarkMode--MultiAuth--English--TD-Maker--Custom-Domainga-Tutorial-04-29)
 - [Gdrive Guide-Noob Friendly](https://anonym.to/?https://telegra.ph/Gdrive-Guide-Noob-Friendly-04-10)
+
+**[`^        back to top        ^`](#)**
+
+
+### Telegram Bot Tutorials
+- [Deploy your own Telegram Bots - Step-by-Step](https://anonym.to/?https://www.youtube.com/channel/UCLY4kbZ2IQXbph4S54Z-JnA)
 
 **[`^        back to top        ^`](#)**
 
