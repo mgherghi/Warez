@@ -2178,6 +2178,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
 - [ScanLibs](https://anonym.to/?https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
 - [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials.
+- [freestudyweb](https://anonym.to/?https://freestudyweb.com/) - Free udemy courses.
 
 **[`^        back to top        ^`](#readme)**
 
