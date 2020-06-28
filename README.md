@@ -1198,6 +1198,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [wjungle](https://anonym.to/?https://wjungle.net/) - Another forum dedicated to warez.
 - [yourptflixmovies](https://anonym.to/?https://yourptflixmovies.com/) - Forum for movies, videos & tv shows.
 - [dreamteamdownloads1](https://anonym.to/?https://dreamteamdownloads1.com/) - DreamTeamDownloads1, FTP Help, Movies, Bollywood, Applications, etc. & Mature Sex Forum, Rapidshare, Filefactory, Freakshare, Rapidgator, Turbobit, & More MULTI Filehosts.
+- [sharespark](https://anonym.to/?https://sharespark.me/) - Bollywood movies, tv shows, international movies, OST, Music and other soundtracks.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2178,7 +2179,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
 - [ScanLibs](https://anonym.to/?https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
 - [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials.
-- [freestudyweb](https://anonym.to/?https://freestudyweb.com/) - Free udemy courses.
+- [freestudyweb](https://anonym.to/?https://freestudyweb.com/) - (`needs adblocker`) - Free udemy courses.
 
 **[`^        back to top        ^`](#readme)**
 
