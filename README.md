@@ -568,6 +568,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
 - [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay).
 - [33 Mail](https://anonym.to/?https://www.33mail.com/) - Create a new e-mail address whenever you need one. Maintain complete control over active addresses. Forwards all mail to your existing e-mail address.
+- [Fake Mail Generator](https://anonym.to/?https://fakedetail.com/) - Generate fake eMails for almost all popular eMail providers.
 
 **[`^        back to top        ^`](#readme)**
 
