@@ -358,6 +358,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [social.privacytools.io](https://anonym.to/?https://social.privacytools.io/about/) Mastodon instance of [PrivacyTools](https://anonym.to/?https://www.privacytools.io/), a volunteer-run privacy centered collective.
 - [Stream.io](https://anonym.to/?https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
 - [Shodan.io](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
+- [Lemmy](https://anonym.to/?https://github.com/LemmyNet/lemmy) - Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -567,8 +568,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
 - [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay).
-- [33 Mail](https://anonym.to/?https://www.33mail.com/) - Create a new e-mail address whenever you need one. Maintain complete control over active addresses. Forwards all mail to your existing e-mail address.
-- [Fake Mail Generator](https://anonym.to/?https://fakedetail.com/) - Generate fake eMails for almost all popular eMail providers.
+- [33 Mail](https://anonym.to/?https://www.33mail.com/) - Create a new e-mail address whenever you need one. Maintain complete control over active addresses. Forwards all mail to your existing e-mail addres(https://anonym.to/?https://fakedetail.com/) - Generate fake eMails for almost all popular eMail providers.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2260,7 +2260,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [DailyLit](https://anonym.to/?https://www.dailylit.com/) - Get free downloads sent to your email by RSS feed.
 - [DeDRM_tools](https://anonym.to/?https://github.com/apprenticeharper/DeDRM_tools) A github repository of all the scripts and other tools for removing DRM from ebooks.
 - [ebookee.org](https://anonym.to/?https://ebookee.org/) - PDF & eBooks trading, various categories.
-- [eLearning](https://anonym.to/?https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
 - [Free eBooks](https://anonym.to/?https://www.free-ebooks.net/) - Besides browsing topics such as biography, fan fiction, games, history, or tutorials, you can submit your own ebook, too.
 - [FreeTechBooks](https://anonym.to/?https://www.freetechbooks.com/) - Download free computer science, engineering and programming books, textbooks and lecture notes.
 - [GetFreeEBooks](https://anonym.to/?https://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
