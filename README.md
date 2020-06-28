@@ -815,7 +815,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Tracker Twitters](https://anonym.to/?https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
 - [Trackers List](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 - [Root.yt](https://anonym.to/?https://root.yt/) - Yet [another torrent proxy](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/fcq0v4/i_made_a_proxy_service_for_popular_sites_like_tpb/) who aims to imrpvoe privacy and security by removing blacklisted domains.
-- [SolidTorrents](https://anonym.to/?http://solidtorrents.net) - Yet another torrent search engine.
+- [SolidTorrents](https://anonym.to/?https://solidtorrents.net) - Yet another torrent search engine.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -874,7 +874,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [peers](https://anonym.to/?https://peers.fm/)
 - [tracker.0day.kiev](https://anonym.to/?https://tracker.0day.kiev.ua/)
 - [BeyondHD](https://anonym.to/?https://beyond-hd.me/login) - (`login needed`) - 4K remuxes and 4K movies
-- [xbytes](https://anonym.to/?http://www.xbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [xbytes](https://anonym.to/?https://www.xbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HDBytes](https://anonym.to/?https://www.hdbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
@@ -985,9 +985,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Tracker Aggregators
-- [AIO Search](https://anonym.to/?http://www.aiosearch.com/) - Yet another Torrent search engine.
+- [AIO Search](https://anonym.to/?https://www.aiosearch.com/) - Yet another Torrent search engine.
 - [snowfl](https://anonym.to/?) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
-- [TParser](https://anonym.to/?http://tparser.org/) (`RU`) - Russian torrent sites indexer
+- [TParser](https://anonym.to/?https://tparser.org/) (`RU`) - Russian torrent sites indexer
 - [Torrents.me](https://anonym.to/?https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://anonym.to/?https://github.com/DEgITx/rats-search) - P2P Bittorrent search engine.
 - [SolidTorrents](https://anonym.to/?https://solidtorrents.net) - A clean and privacy focused torrent search engine.
@@ -1063,7 +1063,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Sharehoster search engine
 - [Crawli](https://anonym.to/?https://crawli.net) - Searches for online/offline content.
 - [FilePursuit](https://anonym.to/?https://filepursuit.com) - Meta search engine for Warez.
-- [MegaSearch.co](https://anonym.to/?http://megasearch.co) - (blocked by some ISP) - (`insecure`) - Meta search engine which indexes webwarez websites.
+- [MegaSearch.co](https://anonym.to/?https://megasearch.co) - (blocked by some ISP) - (`insecure`) - Meta search engine which indexes webwarez websites.
 - [Rapidlinks](https://anonym.to/?https://rapidlinks.org) - (`RU`) - Russian search engine for various sharehoster.
 
 **[`^        back to top        ^`](#readme)**
@@ -1078,7 +1078,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## TV-Show Calendar
-- [at.my TV](https://anonym.to/?http://at-my.tv/) - (`insecure`) - TV Calendar, TV Episode Guide, TV Show Listings.
+- [at.my TV](https://anonym.to/?https://at-my.tv/) - (`insecure`) - TV Calendar, TV Episode Guide, TV Show Listings.
 - [DuckieTV](https://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like/fav.
 
 **[`^        back to top        ^`](#readme)**
@@ -1266,7 +1266,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Good-Old-Downloads (GitHub source code)](https://anonym.to/?https://github.com/Good-Old-Downloads) - - Good-Old-Downloads is shooting down, see [here](https://anonym.to/?https://goodolddownloads.com/static/Investigation_into_igg_games_and_gamestorrent.pdf) - why. There is a full encrypted dump avbl. [here](https://anonym.to/?https://mega.nz/#!UccmySQK!N099Mjn9pe7PNYKJDOTdAAOSHpV1ZwpA8CT_wp2CNbw), make sure you read the integrated readme file!
 - [MachineGunnur/GOG-Games](https://anonym.to/?https://github.com/MachineGunnur/GOG-Games) - Source Code & Tor Mirror (goggamespc7v6z5e.onion or goggamespc7v6z5e.onion.ws) for GOG Games.
 - [Torminatorr Forum](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
-- [GOG-Games](https://anonym.to/?http://gog-games.com) - GoG Games - Archive and backups.
+- [GOG-Games](https://anonym.to/?https://gog-games.com) - GoG Games - Archive and backups.
 
 **[`^        back to top        ^`](#readme)**
 
