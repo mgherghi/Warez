@@ -236,7 +236,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [r/freemoviesonpornhub](https://anonym.to/?https://www.reddit.com/r/freemoviesonpornhub/)
 - [r/TTVreborn](https://anonym.to/?https://www.reddit.com/r/TTVreborn/)
 - [r/megaporn](https://anonym.to/?https://www.reddit.com/r/megaporn)
-- [r/MegalinkNSFW](https://anonym.to/?hhttps://www.reddit.com/r/MegalinkNSFW)
+- [r/MegalinkNSFW](https://anonym.to/?https://www.reddit.com/r/MegalinkNSFW)
 
 
 ## List of Piracy Subreddits for Streaming Sports Events
@@ -275,12 +275,20 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [td.fastio.me](https://anonym.to/?http://td.fastio.me/) - Create Free Google Share Drives.
 - [googlefiles](https://anonym.to/?https://search.googlefiles.workers.dev/) - Another movie Team Drive, the websites forces you to use the [Telegram Bot](https://telegram.dog/SearchMoviesBot) to search and find files.
 - [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
-- [xisanhere](https://anonym.to/?hhttps://hey.xisanhere.workers.dev/series/) - TV shows, movies and games. The home drive is password protected.
+- [xisanhere](https://anonym.to/?https://hey.xisanhere.workers.dev/series/) - TV shows, movies and games. The home drive is password protected.
 
 **[`^        back to top        ^`](#readme)**
 
 
-## Google Team Drives Groups and Discussions
+## Convert Google Drive File Links to Direct Download Links
+- [DriveDirectDL](https://anonym.to/?https://dl.anidrive.in/) - It is a unique tool on the web to convert Google Drive File Links to Direct Download Links.
+- [driveproxy](https://anonym.to/?http://driveproxy.net/)
+- [pirated.me](https://anonym.to/?https://pirated.me/drive/)
+
+**[`^        back to top        ^`](#readme)**
+
+
+## Google Team Drives Groups & Discussions
 - [HKTeamDrive Group](https://anonym.to/?https://groups.google.com/d/forum/hkteamdrive1group)
 - [TD-Automation](https://anonym.to/?https://groups.google.com/d/forum/td-automation)
 - [TeamDrive 0](https://anonym.to/?https://groups.google.com/forum/m/#!forum/teamdrive0)
@@ -315,7 +323,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Google Colaboratory
-- [colabtools](https://anonym.to/?hhttps://github.com/googlecolab/colabtools) - Colaboratory is a research project created to help disseminate machine learning education and research. Example [here](https://anonym.to/?https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb).
+- [colabtools](https://anonym.to/?https://github.com/googlecolab/colabtools) - Colaboratory is a research project created to help disseminate machine learning education and research. Example [here](https://anonym.to/?https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb).
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3430,8 +3438,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [PROMPT Online](https://anonym.to/?https://www.online-translator.com/) - Pretty new service, but aims to provide a privacy friendly translation engine.
 
 
-### Google Drive
-- [myDrive](https://anonym.to/?hhttps://github.com/subnub/myDrive) - Open Source Node.js and mongoDB Google Drive Clone alternative.
+### Google Drive Clone
+- [myDrive](https://anonym.to/?https://github.com/subnub/myDrive) - Open Source Node.js and mongoDB Google Drive Clone alternative.
 
 
 ### Google reCAPTCHA
