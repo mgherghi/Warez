@@ -610,6 +610,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### OneDrive
 - [Office 365 and 5TB on OneDrive for free - Office 365 E3](https://anonym.to/?https://od.obagg.com/)
+- [Free Microsoft Sub-account registration](https://anonym.to/?https://ms.jim9527.workers.dev/#form)
+- [25 TB OneDrive](https://anonym.to/?https://ethreesymsauto.laulzgoay.workers.dev/)
 
 **[`^        back to top        ^`](#readme)**
 
