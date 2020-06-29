@@ -361,6 +361,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Shodan.io](https://anonym.to/?https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [Lemmy](https://anonym.to/?https://github.com/LemmyNet/lemmy) - Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News.
 - [ruqqus](https://anonym.to/?https://ruqqus.com/) - Another open platform with free speech in mind.
+- [zoomerchan](https://anonym.to/?https://zoomerchan.com/) - Yet another alternative.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3440,6 +3441,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [LineageOS](https://anonym.to/?https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) can be optionally installed.
 - [Replicaant](https://anonym.to/?https://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
 - [CalyxOS](https://anonym.to/?https://calyxos.org/) - Similar like GraphenOS, supports some Google Pixel Devi
+- [GerdaOS](https://anonym.to/?https://gerda.tech/) - Frst custom ROM for Nokia 8110 4G and (in the future) other KaiOS based phones.
 
 
 ### Google Translate

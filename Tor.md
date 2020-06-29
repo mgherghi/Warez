@@ -70,7 +70,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 ## Filesharing
 | clearnet/name    | onion address
 |------------------|:--------------
-| OnionShare | http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/
+| OnionShare       | http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/
 
 ## Blogs
 | clearnet/name    | onion address
@@ -423,6 +423,7 @@ Table below contains a list of `.onion` addresses for some more popular clearnet
 |------------------|:--------------
 | Tor Library – library of books and other media files | http://am4wuhz3zifexz5u.onion/
 | Various eBooks | http://xfmro77i3lixucja.onion/
+|  ebook Planet  | http://loginlibhuwhnmis.onion/
 
 
 ## Music
