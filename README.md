@@ -344,6 +344,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Checksum verification
 - [OpenHashTab](https://anonym.to/?https://github.com/namazso/OpenHashTab) - File hashing shell extension for Windows.
 - [GtkHash](https://anonym.to/?https://github.com/tristanheaven/gtkhash) - A cross-platform desktop utility for computing message digests or checksums.
+- [PS Hash](https://anonym.to/?https://www.pazera-software.com/products/hash/) - Portable checksum tool.
 
 **[`^        back to top        ^`](#readme)**
 
