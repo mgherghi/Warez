@@ -1359,6 +1359,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [yourptflixmovies](https://anonym.to/?https://yourptflixmovies.com/) - Forum for movies, videos & tv shows.
 - [dreamteamdownloads1](https://anonym.to/?https://dreamteamdownloads1.com/) - DreamTeamDownloads1, FTP Help, Movies, Bollywood, Applications, etc. & Mature Sex Forum, Rapidshare, Filefactory, Freakshare, Rapidgator, Turbobit, & More MULTI Filehosts.
 - [sharespark](https://anonym.to/?https://sharespark.me/) - Bollywood movies, tv shows, international movies, OST, Music and other soundtracks.
+- [CHICFASR Blog](https://anonym.to/?https://chicfasr491.weebly.com/) - Blog who links to Adobe and other Software & Music related products.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2302,7 +2303,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Scrdownloader](https://anonym.to/?https://scrdownloader.com/) - (`Tool`) - Download .pdf documents and books from Scribd
 - [magzdb](https://anonym.to/?http://magzdb.org/) - EBooks and Magazines via FTP.
 - [springer-books](https://anonym.to/?https://hnarayanan.github.io/springer-books/) - To help support everyone during Covid-19, [Springer has released a ton of free textbooks](https://anonym.to/?https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
-- [edoc](https://edoc.pub/) - Upload Ideas And Publishing Resources Write A Book PDF Free Download Professional Platform.
+- [edoc](https://anonym.to/?https://edoc.pub/) - Upload Ideas And Publishing Resources Write A Book PDF Free Download Professional Platform.
+- [maxwell.faotas](https://anonym.to/?hhttps://maxwell.faotas.info/) - Hindi ebooks.
 
 **[`^        back to top        ^`](#readme)**
 
