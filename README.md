@@ -312,13 +312,15 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-## Team Drive Indexer
+## Google/Team Drive Indexer
 - [GDIndex](https://anonym.to/?https://github.com/maple3142/GDIndex)
 - [goindex](https://anonym.to/?https://github.com/donwa/goindex)
 - [Another goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
 - [BhadooDriveIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
 - [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
 - [goindex-drive](https://anonym.to/?https://github.com/CHEF-KOCH/goindex-drive)
+- [Bhadoo-Drive-Index](https://anonym.to/?https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index)
+- [OneManager-php](https://anonym.to/?https://github.com/qkqpttgf/OneManager-php)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -548,6 +550,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Adobe
 - [MasterCollector](https://anonym.to/?https://bitbucket.org/MasterCollector/master-collector/src/master/) - Master Collector is a very small and portable application designed for simplifying, downloading, and installing Adobe Apps. It has everything needed to download, install, activate, uninstall, and clean.
+- [Latest Adobe Installers](https://anonym.to/?https://www.reddit.com/r/AdobeZii/comments/g4rnar/all_latest_adobe_installers_working/) - Latest versions of the installer for each app.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1717,7 +1720,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Ultimate Kodi Guide](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/7wp42u/ultimate_guide_to_install_kodi_popular_streaming/) - ULTIMATE GUIDE TO INSTALL KODI + POPULAR STREAMING ADDONS by /u/giorgiomilan
 - [Yoda](https://anonym.to/?https://supremacy.org.uk/zip/repo/) - (`GeoIP-/DNS block`) - Another solid Exodus/Covenant fork, and this time it's from S-media.
 - [VShare](https://anonym.to/?https://vshare.eu) - Allows all the kodi users to pair with this service, which allows users to share and stream their favorite videos.
-- [Kodi Addons Tracker](https://anonym.to/?https://kinkeadtech.com/best-kodi-streaming-addons/) - A list which can get up-/downlvotes based on popularity, it lists a lot of Kodi addons.
+- [Kodi Addons Tracker](https://anonym.to/?https://kinkeadtech.com/best-kodi-streaming-addons/) - A list which can get up-/down votes based on popularity, it lists a lot of Kodi addons.
 
 **[`^        back to top        ^`](#readme)**
 
