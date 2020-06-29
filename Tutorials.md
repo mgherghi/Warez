@@ -71,7 +71,6 @@
 - [MIC028_Piracy Guide.indd - Microsoft (.PDF)](https://anonym.to/?http://download.microsoft.com/documents/australia/PIRACY/PiracyGuide.pdf) - Microsoft's anti software piracy guide.
 - [What are the risks of using pirated Windows 10?](https://anonym.to/?https://windowsreport.com/pirated-windows-10-risks/)
 - [Unofficial Reddit Guides to software piracy](https://anonym.to/?https://reddit.guide/r/Piracy/) - A list with subreddits connected to software piracy, it also lists which community was banned from Reddit.
-- [How to download snahp zippy files without using your computer space and bandwidth!!!](https://anonym.to/?https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
 
 **[`^        back to top        ^`](#)**
 
@@ -297,6 +296,7 @@
 - [How to get ti-nspire CX student software for free, even after the free trial.](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
 - [Traning Circle](https://anonym.to/?https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [How To Get Lynda & Skillshare Premium Account Legally | Lynda Free For Lifetime | SkillShare For 3 Months!](https://anonym.to/?https://onehack.us/t/how-to-get-lynda-skillshare-premium-account-legally-lynda-free-for-lifetime-skillshare-for-3-months/54470) - (`needs adblocker`)
+- [How to download snahp zippy files without using your computer space and bandwidth!!!](https://anonym.to/?https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
 
 **[`^        back to top        ^`](#)**
 

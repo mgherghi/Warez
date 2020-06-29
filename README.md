@@ -1366,6 +1366,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Content Aggregators
 - [LinkSnappy](https://anonym.to/?https://linksnappy.com/) - Aggregator to download from over 75 file hosters with one paid account only.
+- [zimtools](https://anonym.to/?https://zimtools.xyz/) - Website for command line tools YouTube-dl, Wget, FFmpeg & Phuber.
 
 **[`^        back to top        ^`](#readme)**
 
