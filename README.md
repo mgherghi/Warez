@@ -1850,7 +1850,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### PC Game Repackers
 - [Fitgirl](https://anonym.to/?https://fitgirlrepacks.co/)
 - [BlackBox](https://anonym.to/?http://www.blackboxrepack.com/)
-- [Dodi](https://anonym.to/?http://dodi-repacks.site/)
 - [ElAmigos](https://anonym.to/?https://www.elamigos-games.com/)
 - [KaosKrew](https://anonym.to/?https://kaoskrew.org/)
 - [Kapital Sin](https://anonym.to/?http://www.kapitalsin.com/forum/)

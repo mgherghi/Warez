@@ -1,6 +1,6 @@
 ## Offline but never forgotten
 
-Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
+Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](https://anonym.to/?https://torrentfreak.com/scammers-hit-pirate-game-sites-with-irreversible-google-takedowns-181130/)"
 
 - Good-Old-Downloads
 - MovieBox
@@ -233,8 +233,8 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 - openleaf.net.ru
 
 
-## Crypo
-- [VirWox](https://www.virwox.com/index.php)
+## Cryto Coins
+- [VirWoX](https://anonym.to/?https://www.virwox.com/index.php)
 
 
 ## IRC + Websites

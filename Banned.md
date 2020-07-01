@@ -1,4 +1,4 @@
-## Imposter, crypto mining etc.
+###  Imposter, crypto mining etc.
 * CMRG
 * cpygames
 * cracked-games.org
@@ -42,7 +42,7 @@
 * fitgirl-repack.com
 
 
-## Other reasons (sell-out, under surveillance or dangerous ads etc)
+###  Other reasons (sell-out, under surveillance or dangerous ads etc)
 * [YTS](https://torrentfreak.com/movie-companies-sue-yts-users-including-one-who-hid-behind-a-vpn-200106/) / [Discussion](https://www.reddit.com/r/Piracy/comments/emyitb/movie_companies_have_got_access_to_ytslt_user/)
 * 3456.ws
 * 01torrent.net
@@ -211,7 +211,7 @@
 * [CrackingPatching](https://anonym.to/?https://crackingpatching.com/) - Cracked software for free!
 
 
-## MKVCage clones
+###  MKVCage clones
 * mkvcage.best
 * mkvcage.bid
 * mkvcage.biz
@@ -239,7 +239,7 @@
 * LBRY.tv
 
 
-## Faker
+###  Faker
 * 2baksa.net
 * NORO repacks
 * nosTEAM.ro
@@ -249,7 +249,7 @@
 - [Nsane Forum](https://anonym.to/?https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
 
 
-## eBooks
+###  eBooks
 * downeu.org
 * ebook-hell.to
 * ebookbay.net
@@ -262,29 +262,29 @@
 * ebooks.wtf
 
 
-## Manga
+###  Manga
 * MangaRock
 
-## Search engines
+###  Search engines
 * DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
 
-## Apps with malware, ads etc in it (possible honeypot apps to steal your data or to monitor you):
+###  Apps with malware, ads etc in it (possible honeypot apps to steal your data or to monitor you):
 * OLA TV
 * AppVN
 
-## File/Cloud Hoster which scanning your files (via bots)
+###  File/Cloud Hoster which scanning your files (via bots)
 * DropBox
 * github.com
 * OneDrive
 * upload.ee
 
-## Windows/Browser Themes
+###  Windows/Browser Themes
 * VestaThemes.com
 
-## Browser
+###  Browser
 * [Watferfox](https://old.reddit.com/r/privacy/comments/f3gqoc/privacy_browser_waterfox_appears_to_be_sold_to/)
 
-## Apps
+###  Apps
 * [Comet TV](https://www.comettv.com/)
 * [GlavTV](https://www.tvbox.one/apps/glav-tv.html)
 * [Sofa TV Movie App](https://sofa-tv.en.aptoide.com/) - Watch Hollywood and Bollywood movies in High Quality for free. New movies are uploaded when HD quality is available.
@@ -293,23 +293,23 @@
 * [ThopTV](https://thoptv.space/)
 * [Hoop Messenger](http://hoopmessenger.com/)
 
-## YouTube Downloader
+###  YouTube Downloader
 - [Videoder](https://www.videoder.com/) - Download videos for free. See [here](https://old.reddit.com/r/androidapps/comments/bnekx7/is_videoder_safe_these_days/).
 
-## Hoster (storage)
+###  Hoster (storage)
 - [AllSync](https://cloud.allsync.com/apps/announcementcenter/?announcement=2)
 
-## Ad-Blocker
+###  Ad-Blocker
 - [Block This!](https://block-this.com/) - No updates?!
 - [unlockapk](https://unlockapk.com/) - A website which aims to remove ads from pk files.
 
 
-## VPN Research
+###  VPN Research
 - [VPNpro research: this Chinese-linked company secretly owns 10 VPNs with 86 million installs](https://securityaffairs.co/wordpress/86328/security/chinese-company-vpns.html)
 - [Kape turns privacy crusader with purchase of VPN provider PIA](https://www.proactiveinvestors.co.uk/companies/news/907357/kape-turns-privacy-crusader-with-purchase-of-vpn-provider-pia-907357.html)
 - [Hidden VPN owners unveiled: 97 VPN products run by just 23 companies](https://vpnpro.com/blog/hidden-vpn-owners-unveiled-97-vpns-23-companies/)
 
-## VPN provider
+###  VPN provider
 - [NordVPN](https://www.theverge.com/2019/10/21/20925065/nordvpn-server-breach-vpn-traffic-exposed-encryption), see [here](https://torrentfreak.com/nordvpn-had-private-keys-stolen-after-server-breach-191022/) for more information.
 - [Private Internet Access](https://www.techradar.com/news/cyberghost-owner-buys-pia-for-dollar955m-to-create-vpn-giant), also see [here](https://www.proactiveinvestors.co.uk/companies/news/907357/kape-turns-privacy-crusader-with-purchase-of-vpn-provider-pia-907357.html)
 - [TorGuard](https://torguard.net/blog/why-torguards-network-is-secure-after-an-isolated-2017-server-breach/)
@@ -385,45 +385,45 @@
 - Zenmate
 - ZoogVPN
 
-## Social media alternatives
+###  Social media alternatives
 - [Gab Social](https://anonym.to/?https://gab.com/) - Gab is a fork of Mastodon, open-source self-hosted, federated social media networking service.
 
 
-## eMail provider
+###  eMail provider
 - [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
 - [Apple eMail](https://www.forbes.com/sites/thomasbrewster/2020/02/11/how-apple-intercepts-and-reads-emails-when-it-finds-child-abuse/)
 
 
-## Google Photos Alternative
+###  Google Photos Alternative
 - [Stingle Photos](https://play.google.com/store/apps/details?id=org.stingle.photos)
 
-## Android Apps
+###  Android Apps
 - Ponydroid
 
-## Tools
+###  Tools
 - [FlashFXP](http://www.whig.com/20171021/quincy-man-faces-federal-exploitation-of-a-minor-charges#//)
 
 
-## Messenger
+###  Messenger
 - [Dino](https://dino.im/blog/2020/01/dino-0.1-release/)
 - [TikTok](https://www.wired.com/story/tiktok-ftc-record-fine-childrens-privacy/)
 - [Vernam.im](https://vernam.im/)
 
-## Mobile OS
+###  Mobile OS
 - [/e/l](https://ewwlo.xyz/evil.html)
 
 
-## Malvertising
+###  Malvertising
 - [Yes! Movies](https://anonym.to/?https://yesmovies.to) - Watch movies full HD online free. Watch latests episode series online. Over 9000 free streaming movies, documentaries & TV shows.
 
 
-## Reddit
+###  Reddit
 - /r/modpiracy
 - /r/girlsfinishingthejob
 - r/modpiracy
 
 
-## Hentai Telegram Channels
+###  Hentai Telegram Channels
 - @adultlinks (channels hub)
 - @amorzinhobr
 - @b_grad
@@ -477,12 +477,17 @@
 - @WorkForSafeNo (Hentai,pics,gifs,episodes channel)
 
 
-## Watermark in Videos/Movies/TV Shows
+###  Watermark in Videos/Movies/TV Shows
 - torrentgalaxy.to
+
 
 ### Google Streaming Proxy
 - [HydraX.net](https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/)
 
 
-## SeedBox
+### SeedBox
 - [UltraSeedbox](https://anonym.to/?https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
+
+
+### RePackers
+* [DODI](https://redd.it/hi7gb6), [Dodi Website](https://anonym.to/?http://dodi-repacks.site/)

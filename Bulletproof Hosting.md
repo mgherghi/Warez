@@ -1,9 +1,11 @@
 ## Domain Name Registrars
 
-**Warning**: Avoid UK, USA, Australia, European Union and every countries with strong copyright laws.
+**Warning**
+
+Avoid UK, USA, Australia, European Union and every countries with strong copyright laws.
 
 
-#### Hong King
+#### Hong Kong
 * [https://npw.top](https://npw.top)
 * [https://cnobin.com](https://cnobin.com)
 
@@ -12,6 +14,7 @@
 * [https://cheapprivacy.ru](https://cheapprivacy.ru)
 * [https://ri-tld.com](https://ri-tld.com)
 * [https://xuid.ru/domains.php](https://xuid.ru/domains.php)
+
 
 #### Sweden
 * [https://njal.la](https://njal.la)
@@ -27,7 +30,6 @@
 
 #### USA
 * [https://epik.com](https://epik.com)
-
 
 
 ## Reverse Proxy
