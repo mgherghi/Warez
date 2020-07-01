@@ -67,9 +67,9 @@
 * Pirate.ws
 * Share-Online.biz
 * Streamworld.co (GeoIP/Proxy/VPN block)
-* [APKGOD](https://old.reddit.com/r/Piracy/comments/gf2g8d/statement_from_apkgod_after_banned_from_1337x/)
+* [APKGOD](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/gf2g8d/statement_from_apkgod_after_banned_from_1337x/)
 * [CrackingPatching](https://anonym.to/?https://crackingpatching.com/) - Cracked software for free!
-* [YTS](https://torrentfreak.com/movie-companies-sue-yts-users-including-one-who-hid-behind-a-vpn-200106/) / [Discussion](https://www.reddit.com/r/Piracy/comments/emyitb/movie_companies_have_got_access_to_ytslt_user/)
+* [YTS](https://anonym.to/?https://torrentfreak.com/movie-companies-sue-yts-users-including-one-who-hid-behind-a-vpn-200106/) / [Discussion](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/emyitb/movie_companies_have_got_access_to_ytslt_user/)
 * accountbot.io
 * afdah.info
 * afdah.to
@@ -267,7 +267,7 @@
 
 
 ### Search engines
-* DuckDuckGo ([read here why](https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
+* DuckDuckGo ([read here why](https://anonym.to/?https://torrentfreak.com/duckduckgo-removes-pirate-site-bangs-to-avoid-liability-181203/))
 
 
 ### Apps with malware, ads etc in it (possible honeypot apps to steal your data or to monitor you):
@@ -287,17 +287,17 @@
 
 
 ### Browser
-* [Watferfox](https://old.reddit.com/r/privacy/comments/f3gqoc/privacy_browser_waterfox_appears_to_be_sold_to/)
+* [Watferfox](https://anonym.to/?https://old.reddit.com/r/privacy/comments/f3gqoc/privacy_browser_waterfox_appears_to_be_sold_to/)
 
 
 ### Apps
-* [Comet TV](https://www.comettv.com/)
-* [GlavTV](https://www.tvbox.one/apps/glav-tv.html)
-* [Sofa TV Movie App](https://sofa-tv.en.aptoide.com/) - Watch Hollywood and Bollywood movies in High Quality for free. New movies are uploaded when HD quality is available.
-* [Taraftar Tv](https://play.google.com/store/apps/details?id=com.tebilisim.android.taraftar)
-* [Typhoon TV](https://typhoontv.net/)
-* [ThopTV](https://thoptv.space/)
-* [Hoop Messenger](http://hoopmessenger.com/)
+* [Comet TV](https://anonym.to/?https://www.comettv.com/)
+* [GlavTV](https://anonym.to/?https://www.tvbox.one/apps/glav-tv.html)
+* [Sofa TV Movie App](https://anonym.to/?https://sofa-tv.en.aptoide.com/) - Watch Hollywood and Bollywood movies in High Quality for free. New movies are uploaded when HD quality is available.
+* [Taraftar Tv](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tebilisim.android.taraftar)
+* [Typhoon TV](https://anonym.to/?https://typhoontv.net/)
+* [ThopTV](https://anonym.to/?https://thoptv.space/)
+* [Hoop Messenger](https://anonym.to/?http://hoopmessenger.com/)
 
 
 ### YouTube Downloader
@@ -497,7 +497,7 @@
 
 
 ### Google Streaming Proxy
-- [HydraX.net](https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/)
+- [HydraX.net](https://anonym.to/?https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/)
 
 
 ### SeedBox
@@ -505,4 +505,4 @@
 
 
 ### RePackers
-* [DODI](https://redd.it/hi7gb6), [Dodi Website](https://anonym.to/?http://dodi-repacks.site/)
+* [DODI](https://anonym.to/?https://redd.it/hi7gb6), [Dodi Website](https://anonym.to/?https://anonym.to/?http://dodi-repacks.site/)

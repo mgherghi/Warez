@@ -2366,6 +2366,13 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## Reddit Downloader
+- [RippSave](https://anonym.to/?https://ripsave.com/) - Download videos with audo from various platforms.
+- [viddit](hhttps://anonym.to/?ttps://viddit.red/) - Download reddit videos incl. audio.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## eBook Search Indexer
 - [BinSearch](https://anonym.to/?https://binsearch.info/) - Binary Usenet search engine which can be used for eBooks and other stuff.
 - [EBook Bike](https://anonym.to/?https://ebook.bike/) - Another search indexer which claims to be the "largest" on the Internet.
@@ -2546,8 +2553,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Streaming Apps
 - [Anime Molecules](https://anonym.to/?https://animemolecules.com/) - (needs ad-blocker) - Yet another anime streaming app.
-- [AniméGlare](https://anonym.to/?https://animeglare.xyz/) - (needs ad-blocker) - Let's you stream any anime for free.
-- [AniméVibe](https://anonym.to/?https://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
+- [Anime Glare](https://anonym.to/?https://animeglare.xyz/) - (needs ad-blocker) - Let's you stream any anime for free.
+- [Anime Vibe](https://anonym.to/?https://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
 - [AOS TV](https://anonym.to/?https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
 - [Apollo TV](https://anonym.to/?https://apollotv.xyz/) - Open-source aggregator for various online video content.
 - [Cinema HD](https://anonym.to/?https://cine.com/) - (Ads) - FireTV Stick, Nvidia Shield, support Real-Debird, external players, Trakt.tv, series Guide.
