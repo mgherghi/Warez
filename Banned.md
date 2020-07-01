@@ -401,12 +401,12 @@
 
 
 ### eMail provider
-- [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
-- [Apple eMail](https://www.forbes.com/sites/thomasbrewster/2020/02/11/how-apple-intercepts-and-reads-emails-when-it-finds-child-abuse/)
+- [Tutanota](http://anonym.es/?https://tutanota.com) - A secure and open source eMail provider, Tutanota is forced (by law) to hand over all data in plain text, read the [german article](https://anonym.to/?https://www.sueddeutsche.de/digital/tutanota-verschluesselung-e-mail-ueberwachung-polizei-1.4676988)
+- [Apple eMail](https://anonym.to/?https://www.forbes.com/sites/thomasbrewster/2020/02/11/how-apple-intercepts-and-reads-emails-when-it-finds-child-abuse/)
 
 
 ### Google Photos Alternative
-- [Stingle Photos](https://play.google.com/store/apps/details?id=org.stingle.photos)
+- [Stingle Photos](https://anonym.to/?https://play.google.com/store/apps/details?id=org.stingle.photos)
 
 
 ### Android Apps
@@ -414,17 +414,17 @@
 
 
 ### Tools
-- [FlashFXP](http://www.whig.com/20171021/quincy-man-faces-federal-exploitation-of-a-minor-charges#//)
+- [FlashFXP](https://anonym.to/?http://www.whig.com/20171021/quincy-man-faces-federal-exploitation-of-a-minor-charges#//)
 
 
 ### Messenger
 - [Dino](https://dino.im/blog/2020/01/dino-0.1-release/)
 - [TikTok](https://www.wired.com/story/tiktok-ftc-record-fine-childrens-privacy/)
-- [Vernam.im](https://vernam.im/)
+- [Vernam.im](https://anonym.to/?https://vernam.im/)
 
 
 ### Mobile OS
-- [/e/l](https://ewwlo.xyz/evil.html)
+- [/e/l](https://anonym.to/?https://ewwlo.xyz/evil.html)
 
 
 ### Malvertising
@@ -432,9 +432,10 @@
 
 
 ### Reddit
-- /r/modpiracy
-- /r/girlsfinishingthejob
 - r/modpiracy
+- r/girlsfinishingthejob
+- r/modpiracy
+- r/BaconFeet
 
 
 ### Hentai Telegram Channels
