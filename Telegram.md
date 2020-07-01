@@ -6,7 +6,7 @@
 - telegram.ind.in
 - web.telegram.ind.in
 - core.telegram.ind.in
-- my.telegram.ind.in (Get API Id)
+- my.telegram.ind.in (to get API ID)
 - l.telegram.ind.in/Telegram
 - instantview.telegram.ind.in
 - translations.telegram.ind.in
