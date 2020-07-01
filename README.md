@@ -2343,8 +2343,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [FreeCourseSite.com](https://anonym.to/?https://freecoursesite.com/) - Provides Udemy courses for free.
 - [FTU Forum](https://anonym.to/?https://ftuforum.com/) - Forum for eBooks, Udemy courses and tutorials.
 - [Gigacourse](https://anonym.to/?https://gigacourse.com/) - Gigacourse provides coding courses.
-- [NulledPremium](https://anonym.to/?https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
-- [O’Reilly](https://anonym.to/?https://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - A platform to download books, magazines, and tutorials for free.
+- [NulledPremium](https://anonym.to/?https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music for free incl. Premium Graphics, Themes, Plugins, Music for free.
+- [Oreilly](https://anonym.to/?https://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - A platform to download books, magazines, and tutorials for free.
 - [RealMVP](https://anonym.to/?https://realmvp.org/) - New eBooks, video and written tutorials.
 - [ScanLibs](https://anonym.to/?https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
 - [TutsGalaxy](https://anonym.to/?https://tutsgalaxy.com/) - Free Courses & Tutorials.

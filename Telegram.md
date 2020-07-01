@@ -630,7 +630,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@ControllerBot](https://anonym.to/?https://t.me/ControllerBot) - ControllerBot is a feature-rich bot for Telegram channel (not group!) owners.
 - [@GroupHelpBot](https://anonym.to/?https://t.me/GroupHelpBot) - This is the most complete Bot to help you manage your groups easily and safely!
 - [@IFTTT](https://anonym.to/?https://t.me/IFTTT) - Similar like webhooks your can create own script based snippets which you can use in your channel or group.
-- [@Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) - Manage your group easily with the Rose bot.
+- [@Miss Rose](https://anonym.to/?https://missrose.org/guide/getting-started/adding-rose/) + [Official Website](https://anonym.to/?https://missrose.org/) - Manage your group easily with the Rose bot.
 - [@Protectron](https://anonym.to/?https://www.protectronbot.com/) - Telegram anti-spam and group management bot.
 - [@Shieldy](https://anonym.to/?https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@vardast_bot](https://anonym.to/?https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
