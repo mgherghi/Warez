@@ -314,6 +314,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [purple-firefly-4142](https://anonym.to/?https://purple-firefly-4142.swankytiger56sharing.workers.dev/Movies/) - Movies.
 - [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - Software and Movies.
 - [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
+- [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shoqws.
 
 **[`^        back to top        ^`](#readme)**
 
