@@ -270,7 +270,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Google Team Drive (CCSF)](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
-- [Get Free Google Shared Drive](https://anonym.to/?https://td.fastio.me/) - Create your own TeamDrive for free.
+- [Get Free Google Shared Drive](https://anonym.to/?https://td.fastio.me/)
+ - Create your own TeamDrive for free.
 - [whatintheworld](https://anonym.to/?https://whatintheworld.xyz/) - Search Team Drives resources.
 - [td.fastio.me](https://anonym.to/?http://td.fastio.me/) - Create Free Google Share Drives.
 - [googlefiles](https://anonym.to/?https://search.googlefiles.workers.dev/) - Another movie Team Drive, the websites forces you to use the [Telegram Bot](https://telegram.dog/SearchMoviesBot) to search and find files.
@@ -312,19 +313,19 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [BMirror](https://anonym.to/?https://drive.bartixxx.workers.dev/) - Movies & TV Shows.
 - [purple-firefly-4142](https://anonym.to/?https://purple-firefly-4142.swankytiger56sharing.workers.dev/Movies/) - Movies.
 - [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - Software and Movies.
+- [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
 
 **[`^        back to top        ^`](#readme)**
 
 
 ## Google/Team Drive Indexer
-- [GDIndex](https://anonym.to/?https://github.com/maple3142/GDIndex)
-- [goindex](https://anonym.to/?https://github.com/donwa/goindex)
 - [Another goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
 - [BhadooDriveIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
 - [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
 - [goindex-drive](https://anonym.to/?https://github.com/CHEF-KOCH/goindex-drive)
 - [Bhadoo-Drive-Index](https://anonym.to/?https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index)
 - [OneManager-php](https://anonym.to/?https://github.com/qkqpttgf/OneManager-php)
+- [alx-xlx go-index](https://anonym.to/?https://github.com/alx-xlx/goindex)
 
 **[`^        back to top        ^`](#readme)**
 
