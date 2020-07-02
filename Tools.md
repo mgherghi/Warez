@@ -1104,7 +1104,7 @@ Overall strategy:
 **[`^        back to top        ^`](#)**
 
 
-## WordPress login bruteforcer
+## WordPress login brute forcer
 - [wpbrute-rs](https://anonym.to/?https://github.com/leo-lb/wpbrute-rs) - High performance WordPress login bruteforcer with automatic concurrency for maximum amount of tries per second.
 
 **[`^        back to top        ^`](#)**
@@ -1166,5 +1166,17 @@ Overall strategy:
 
 ## Video Tools (mainly for ffmpeg)
 - [Banana Split](https://anonym.to/?https://github.com/pathartl/BananaSplit) - BananaSplit is an application built in .NET Core WinForms that can be used to split video files based on ffmpeg's black frame detection feature.
+
+**[`^        back to top        ^`](#)**
+
+
+## educative.io downloader
+- [educative.io-downloader](https://anonym.to/?https://github.com/shihabmridha/educative.io-downloader) - This tool is to download course from educative.io for offline usage. It uses your login credentials and download the course.
+
+**[`^        back to top        ^`](#)**
+
+
+## Anime Batch Downloader
+- [anidl](https://anonym.to/?https://anidl.org/) - Download Your Favourite Anime in Mega Batch
 
 **[`^        back to top        ^`](#)**

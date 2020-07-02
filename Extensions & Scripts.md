@@ -96,7 +96,7 @@ Download Mp4 and audio formats.
 - [Random User-Agent for Chrome/Chromium/Firefox](https://anonym.to/?https://addons.mozilla.org/firefox/addon/random_user_agent/)https://addons.mozilla.org/firefox/addon/random_user_agent/)
 - [Canvas Fingerprint blocker](https://anonym.to/?https://add0n.com/canvas-fingerprint-blocker.html) - Manipulates two methods of HTML5 Canvas element that are commonly used to generate a unique fingerprint key for your browser.
 - [Keyboard Privacy](https://anonym.to/?https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents behavioral profiling by randomizing the rate at which characters reach the DOM.
-- [AudioContext Fingerprint Defender](https://anonym.to/?hhttps://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
+- [AudioContext Fingerprint Defender](https://anonym.to/?https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
 
 
 **Notice**:
@@ -227,7 +227,7 @@ Keep also in mind that privacy oriented Browsers like Brave might not need the l
 
 
 ### Movie Streaming via Browser extensions
-- [Netflix Party](https://anonym.to/?hhttps://www.netflixparty.com/) - Netflix Party synchronizes video playback and adds group chat to your favorite Netflix shows.
+- [Netflix Party](https://anonym.to/?https://www.netflixparty.com/) - Netflix Party synchronizes video playback and adds group chat to your favorite Netflix shows.
 - [Discord Go Live](https://anonym.to/?https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
 
 **[`^        back to top        ^`](#)**
@@ -362,16 +362,22 @@ There is a universal rule for Android:
 ## The Pirate Bay based Browser Scripts
 - [The Pirate Bay Cleaner](https://anonym.to/?https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) - Auto Sorting, Torrentifying, Theme Change, Search Change, SSL/HTTPS and more...
 
-[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#)**
 
 
 ## KeePass Plugins
 - [HIBPOfflineCheck](https://anonym.to/?https://github.com/mihaifm/HIBPOfflineCheck) - Keepass plugin that performs offline and online checks against HaveIBeenPwned passwords
 
-[`^        back to top        ^`](#)**
+**[`^        back to top        ^`](#)**
+
 
 ## Base64 Decoder Extensions
 - [base64-encode-and-decode](https://anonym.to/?https://chrome.google.com/webstore/detail/base64-encode-and-decode/kcafoaahiffdjffagoegkdiabclnkbha) - Chrome extension to decode base64.
-- [base64-decoder/](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) - Firefox base64 decoder add-on.
+- [base64-decoder](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) - Firefox base64 decoder add-on.
 - [base64-encode-and-decode](https://anonym.to/?https://addons.opera.com/en/extensions/details/base64-encode-and-decode/) - Opera extension to decode base64.
+
+
+
+## Skillshare Downloader
+- [Chrome Skillshare downloader extension](https://anonym.to/?https://chrome.google.com/webstore/detail/skillshare-free-downloade/dafpgbifpihaomcjenlnebhepkklhkfh/related?hl=en)
 

@@ -824,7 +824,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Search Torrents](https://anonym.to/?https://search.torrents.io/) - Search torrents on dozens of torrent sites and torrent trackers.
 - [Toorgle](https://anonym.to/?https://www.toorgle.com/) - (`insecure`) - Torrent Search in over 450+ torrents websites at the same time.
 - [The Pirate Bay Search](https://anonym.to/?https://thepiratebay1.herokuapp.com/) - Searches the pirate bay (even if the official website is down or under maintainance)
-- [bonneteer.herokuapp.](https://anonym.to/?https://bonneteer.herokuapp.com/) - Indexes multiple trusted sources.
+- [bonneteer.herokuapp](https://anonym.to/?https://bonneteer.herokuapp.com/) - Indexes multiple trusted sources.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -901,7 +901,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HD-Spain](https://anonym.to/?https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [Telly.CC](https://anonym.to/?https://telly.cc/login) - Movie tracker website.
-- [TorrentLeech](https://anonym.to/?hhttps://www.torrentleech.org/) - Movies, Music & More.
+- [TorrentLeech](https://anonym.to/?https://www.torrentleech.org/) - Movies, Music & More.
+- [empornium](https://anonym.to/?https://www.empornium.me/) - Adult tracker.
+- [ncore](https://anonym.to/?https://ncore.cc/login.php) - Another adult private tracker.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3346,6 +3348,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### Premium leech
 - [Leech Premium](https://anonym.to/?https://leechpremium.link/) - Premium leech service.
 - [ss-leech.herokuapp](https://anonym.to/?https://ss-leech.herokuapp.com/) - Transload and leech service to various hoster.
+- [ahputuleech](https://anonym.to/?https://ahputuleech.herokuapp.com/) - RapidLeech v2.0, a mirror without password is [here](https://anonym.to/?https://aws.rapidleech.gq/).
 
 **[`^        back to top        ^`](#readme)**
 
