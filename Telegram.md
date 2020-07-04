@@ -1151,3 +1151,10 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [remoteTelegramShell](https://anonym.to/?https://github.com/EnriqueMoran/remoteTelegramShell) - Telegram bot that allows you to control your Raspberry Pi (or Linux computer, untested).
 
 **[`^        back to top        ^`](#)**
+
+
+## Mega.nz Uploader Bots
+- [uploadbot](https://anonym.to/?https://t.me/uploadbot)
+- [UploadsRobot](https://anonym.to/?https://t.me/UploadsRobot)
+
+**[`^        back to top        ^`](#)**
