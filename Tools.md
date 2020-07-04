@@ -653,6 +653,13 @@ Downloads albums in bulk.
 **[`^        back to top        ^`](#)**
 
 
+## qBittorrent Scripts & Skins
+- [qbt-theme](https://anonym.to/?https://github.com/jagannatharjun/qbt-theme) - Dark Themes for qB.
+
+
+**[`^        back to top        ^`](#)**
+
+
 ## Web Exploitation
 - [autochrome](https://anonym.to/?http://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/march/autochrome/) - Easy to install a test browser with all the appropriate setting needed for web application testing with native Burp support, from NCCGroup.
 - [badtouch](https://anonym.to/?http://github.com/kpcyrd/badtouch) - Scriptable network authentication cracker.
