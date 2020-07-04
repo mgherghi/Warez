@@ -649,6 +649,7 @@ Downloads albums in bulk.
 ## JDownloader Scripts & Skins
 - The [Event Scripter Scripts](https://anonym.to/?https://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) are a nice addition to "tweak" your JD with some scripts.
 - [Dark Theme](https://anonym.to/?https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme) - A dark theme for the download manager JDownloader 2.
+- [JD Event Scripter](https://anonym.to/?https://github.com/mgpai/resources) - JDownloader Event Scripter examples.
 
 **[`^        back to top        ^`](#)**
 
