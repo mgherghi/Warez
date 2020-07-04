@@ -48,13 +48,14 @@ Download Mp4 and audio formats.
 - [XZ Pixiv Batch Downloader](https://anonym.to/?https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images...
 - [1337x - Torrent page improvements](https://anonym.to/?https://greasyfork.org/en/scripts/33379-1337x-torrent-page-improvements) - Makes titles longer on the torrent page and optionally enables the detail box when available.
 - [1337X - Subtitle download links to TV and Movie torrents](https://greasyfork.org/en/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) - Adds download links for subtitles to every TV and movie torrent on 1337x (addic7ed & subscene).
-- [Youtube to invidious](https://anonym.to/?https://greasyfork.org/en/scripts/375264-youtube-to-invidious) - Convert YouTube links to invidious ones to protect your privacy.
+- [YouTube to invidious](https://anonym.to/?https://greasyfork.org/en/scripts/375264-YouTube-to-invidious) - Convert YouTube links to invidious ones to protect your privacy.
+- [Yes i'm here, YouTube !](https://anonym.to/?https://greasyfork.org/en/scripts/401348-yes-i-m-here-YouTube/code) - This script disable the auto pausing of YouTube videos if you don't interact with the screen for a certain amount of time. So, this disable the functionality "Video paused. Continue watching?" on YouTube.
 
 **[`^        back to top        ^`](#)**
 
 
 ## YouTube Downloader Scripts
-- [Local YouTube Downloader](https://anonym.to/?https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
+- [Local YouTube Downloader](https://anonym.to/?https://greasyfork.org/en/scripts/369400-local-YouTube-downloader) - Download YouTube Videos without YouTube-dl or external websites/tools.
 
 **[`^        back to top        ^`](#)**
 
@@ -64,8 +65,8 @@ Download Mp4 and audio formats.
 - [Hide Fake Torrents on TPB](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
 - [Reddit Enhancement Suite](https://anonym.to/?http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
 - [Twitter Quality Fixer](https://anonym.to/?https://greasyfork.org/en/scripts/399827-video-quality-fixer-for-twitter) - Viw Twitter Videos in the highest available quality.
-- [Clickbait remover for YouTube](https://anonym.to/?https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - Replace YouTube thumbnails with video thumbnails.
-- [YoutubeNonStop](https://anonym.to/?https://github.com/lawfx/YoutubeNonStop) - Autoclicker for Youtube's latest "feature" - Video paused. Continue watching?
+- [Clickbait remover for YouTube](https://anonym.to/?https://github.com/pietervanheijningen/clickbait-remover-for-YouTube) - Replace YouTube thumbnails with video thumbnails.
+- [YoutubeNonStop](https://anonym.to/?https://github.com/lawfx/YoutubeNonStop) - Autoclicker for YouTube's latest "feature" - Video paused. Continue watching?
 
 
 **[`^        back to top        ^`](#)**
@@ -132,7 +133,7 @@ Keep also in mind that privacy oriented Browsers like Brave might not need the l
 
 
 ## Spotify / Deezer extensions
-- [Spotify™ & Deezer™ Music Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
+- [Spotifyâ„¢ & Deezerâ„¢ Music Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
 
 
 ## RSS Feed extensions
@@ -156,7 +157,7 @@ Keep also in mind that privacy oriented Browsers like Brave might not need the l
 
 ### YouTube specific Browser Extensions
 - [Iridium](https://anonym.to/?https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout.
-- [YouTube Skip intro (Chrome)](https://anonym.to/?https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define the intro time to skip it each time you play a video on YouTube helpful when you watching a series or any many episodes shows.
+- [YouTube Skip intro (Chrome)](https://anonym.to/?https://chrome.google.com/webstore/detail/YouTube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define the intro time to skip it each time you play a video on YouTube helpful when you watching a series or any many episodes shows.
 - [YouTube: Age Verification Bypass](https://anonym.to/?https://greasyfork.org/scripts/375525) - Watch restricted videos without having to log in.
 - [Invidition](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/invidition/) - Redirects YouTube and Twitter to their alternative ads-free, privacy-friendly, interfaces.
 - [SponsorBlock - Sponsorship Blocker for YouTube] - Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. Compared to uBlock it actually does hide sponsor based in-video ads.
@@ -227,7 +228,7 @@ Keep also in mind that privacy oriented Browsers like Brave might not need the l
 
 
 ### Movie Streaming via Browser extensions
-- [Netflix Party](https://anonym.to/?https://www.netflixparty.com/) - Netflix Party synchronizes video playback and adds group chat to your favorite Netflix shows.
+- [Netflix Party](https://anonym.to/?h[](https://anonym.to/?)ttps://www.netflixparty.com/) - Netflix Party synchronizes video playback and adds group chat to your favorite Netflix shows.
 - [Discord Go Live](https://anonym.to/?https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
 
 **[`^        back to top        ^`](#)**
@@ -297,7 +298,7 @@ There is a universal rule for Android:
 - [Systemless TZData](https://anonym.to/?https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Update your ROM's TZData systemlessly.
 - [Viper4Android FX Legacy Materialized](https://anonym.to/?https://forum.xda-developers.com/apps/magisk/module-viper4android-fx-2-5-0-5-t3577058) - It's not placebo!
 - [Wireless Firmware for Nethunter](https://anonym.to/?https://github.com/Magisk-Modules-Repo/wirelessFirmware) - Adds the required firmware for external wireless adapters to be used with Nethunter.
-- [YouTube Vanced](https://anonym.to/?https://forum.xda-developers.com/android/apps-games/app-youtube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback. Or use [NewPipe app](https://anonym.to/?https://newpipe.schabi.org/).
+- [YouTube Vanced](https://anonym.to/?https://forum.xda-developers.com/android/apps-games/app-YouTube-vanced-edition-t3758757) - A well known modded version of YouTube with many features such as adblocking and background playback. Or use [NewPipe app](https://anonym.to/?https://newpipe.schabi.org/).
 - ~~[FDE](https://anonym.to/?https://github.com/Magisk-Modules-Repo/FDE) - Ultimate Android Optimizer.~~ (see warning!)
 
 **[`^        back to top        ^`](#)**
@@ -324,7 +325,7 @@ There is a universal rule for Android:
 
 
 ## SoundCloud Downloader Scripts
-- [Local SoundCloud Downloader](https://anonym.to/?hhttps://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
+- [Local SoundCloud Downloader](https://anonym.to/?https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
 - [kawai-scripts/soundcloud-downloader](https://anonym.to/?https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)
 
 **[`^        back to top        ^`](#)**
