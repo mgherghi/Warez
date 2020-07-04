@@ -319,7 +319,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Fang's Team Drive](https://drive.fangdrive.workers.dev/) - Username `fang`, Pass `fang`
 - [drive_bot.ad1t.workers.dev](https://anonym.to/?https://drive_bot.ad1t.workers.dev/0:/)
 - [Bot TD](https://anonym.to/?https://curly-wave-7a6b.swankytiger56bot.workers.dev/)
-- [one.driveindex.ga](https://anonym.to/?https://one.driveindex.ga/0:/)
+- [one.driveindex.ga](https://anonym.to/?https://one.driveindex.ga/)
+- [tdbot2.workers](https://anonym.to/?https://com.tdbot2.workers.dev/)
 
 **[`^        back to top        ^`](#readme)**
 
