@@ -309,7 +309,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [purple-firefly-4142](https://anonym.to/?https://purple-firefly-4142.swankytiger56sharing.workers.dev/Movies/) - Movies.
 - [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - Software and Movies.
 - [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
-- [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shoqws.
+- [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shows.
 - [bot14](https://anonym.to/?hhttps://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.
 - [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
 - [tor.uploadbot](https://anonym.to/?https://tor.uploadbot.workers.dev/) - Protected Share Drive, but you can reveal the download links.
