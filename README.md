@@ -4,7 +4,7 @@
 
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CHEF-KOCH/Warez/issues)
-![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=plastic)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=plastic)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
 
@@ -29,7 +29,7 @@ Since the list is huge I can't name each and every single one of you, but here i
 * All demoscene people which helped to build the _scene_.
 * All developers which developed mentioned programs.
 * All other people which helped to push this little project forward.
-* All people which are involved in the piracy & netsec scene or created forums to talk about such topics.
+* All people which are involved in the piracy & NetSec scene or created forums to talk about such topics.
 
 ### Donations
 I do not accept any donations or add sponsorship button into this repository. The information should be free for anyone and should not be influenced by specific groups/people or organizations.
@@ -237,6 +237,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [r/TTVreborn](https://anonym.to/?https://www.reddit.com/r/TTVreborn/)
 - [r/megaporn](https://anonym.to/?https://www.reddit.com/r/megaporn)
 - [r/MegalinkNSFW](https://anonym.to/?https://www.reddit.com/r/MegalinkNSFW)
+- [r/NSFW411](https://anonym.to/?https://www.reddit.com/r/NSFW411/)
 
 
 ## List of Piracy Subreddits for Streaming Sports Events
@@ -267,21 +268,15 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Share Drives (better known as Team Drives)
 - [Create Free TeamDrive](https://anonym.to/?https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
-- [Google Team Drive (CCSF)](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 - [Get Free Google Shared Drive](https://anonym.to/?https://td.fastio.me/)
  - Create your own TeamDrive for free.
 - [whatintheworld](https://anonym.to/?https://whatintheworld.xyz/) - Search Team Drives resources.
 - [td.fastio.me](https://anonym.to/?http://td.fastio.me/) - Create Free Google Share Drives.
-- [googlefiles](https://anonym.to/?https://search.googlefiles.workers.dev/) - Another movie Team Drive, the websites forces you to use the [Telegram Bot](https://telegram.dog/SearchMoviesBot) to search and find files.
-- [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
-- [xisanhere](https://anonym.to/?https://hey.xisanhere.workers.dev/series/) - TV shows, movies and games. The home drive is password protected.
-- [tor.uploadbot](https://anonym.to/?https://tor.uploadbot.workers.dev/) - Protected Share Drive, but you can reveal the download links.
 - [One](https://anonym.to/?https://one.driveindex.ga/) - Another Share Drive fro Movies and TV Shows.
 - [Multiple Colleges](https://anonym.to/?http://leon.educationhost.cloud)
 - [Washington University](https://anonym.to/?https://gdrive.oso.ac.cn/)
-- [Taiwan Primary School](https://anonym.to/?https://gd.404edu.workers.dev/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -305,28 +300,48 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Xtreambot](https://anonym.to/?https://teamdrive.xtremebot.workers.dev/)
 - [AlpacinoDump](https://anonym.to/?https://dh.alpacinodump.cf/)
 - [TUHOCTOEIC.EDU.VN](https://anonym.to/?https://driveteam.nguyenvanlong.blog/)
+- [googlefiles](https://anonym.to/?https://search.googlefiles.workers.dev/) - Another movie Team Drive, the websites forces you to use the [Telegram Bot](https://telegram.dog/SearchMoviesBot) to search and find files.
 
 **[`^        back to top        ^`](#readme)**
 
 
-## Free Public Team Drives
+## Public Team Drives
 - [BMirror](https://anonym.to/?https://drive.bartixxx.workers.dev/) - Movies & TV Shows.
 - [purple-firefly-4142](https://anonym.to/?https://purple-firefly-4142.swankytiger56sharing.workers.dev/Movies/) - Movies.
 - [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - Software and Movies.
 - [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
 - [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shoqws.
+- [bot14](https://anonym.to/?hhttps://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.
+- [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
+- [xisanhere](https://anonym.to/?https://hey.xisanhere.workers.dev/series/) - TV shows, movies and games. The home drive is password protected.
+- [tor.uploadbot](https://anonym.to/?https://tor.uploadbot.workers.dev/) - Protected Share Drive, but you can reveal the download links.
+- [Taiwan Primary School](https://anonym.to/?https://gd.404edu.workers.dev/)
+- [Fang's Team Drive](https://drive.fangdrive.workers.dev/) - Username `fang`, Pass `fang`
+- [drive_bot.ad1t.workers.dev](https://anonym.to/?https://drive_bot.ad1t.workers.dev/0:/)
+- [Bot TD](https://anonym.to/?https://curly-wave-7a6b.swankytiger56bot.workers.dev/)
+- [one.driveindex.ga](https://anonym.to/?https://one.driveindex.ga/0:/)
 
 **[`^        back to top        ^`](#readme)**
 
 
 ## Google/Team Drive Indexer
-- [Another goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
+- [K-E-N-W-A-Y goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
 - [BhadooDriveIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
 - [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
 - [goindex-drive](https://anonym.to/?https://github.com/CHEF-KOCH/goindex-drive)
 - [Bhadoo-Drive-Index](https://anonym.to/?https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index)
 - [OneManager-php](https://anonym.to/?https://github.com/qkqpttgf/OneManager-php)
 - [alx-xlx go-index](https://anonym.to/?https://github.com/alx-xlx/goindex)
+
+**[`^        back to top        ^`](#readme)**
+
+
+## OneDrive Indexer
+- [OneDriveFly](https://anonym.to/?https://github.com/Tai7sy/OneDriveFly) - OneDrive Index Anywhere (QCloud SCF/Aliyun FC/Cloudflare Workers/Google Cloud Functions etc.)
+- [IndexofOneDrive](https://anonym.to/?https://github.com/hesier/IndexofOneDrive) - Yet another OneDrive indexer.
+- [oneindex](https://anonym.to/?https://github.com/qupb/oneindex) - Onedrive Directory Index.
+- [OLAINDEX](https://anonym.to/?https://github.com/WangNingkai/OLAINDEX) - Another OneDrive Directory Index, the official homepage is [here](https://anonym.to/?https://share.imwnk.cn).
+- [herokuOnedrive](https://anonym.to/?https://github.com/qkqpttgf/herokuOnedrive) - A list index & manager of Onedrive in heroku.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -387,16 +402,16 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Penetration Testing Distributions
-* [Android Tamer](https://anonym.to/?https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for security testing.
-* [ArchStrike](https://anonym.to/?https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
-* [AttifyOS](https://anonym.to/?https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
-* [BackBox](https://anonym.to/?https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
-* [BlackArch](https://anonym.to/?https://www.blackarch.org/) - Arch GNU/Linux-based distribution for penetration testers and security researchers.
-* [Buscador](https://anonym.to/?https://inteltechniques.com/buscador/) - GNU/Linux virtual machine that is pre-configured for online investigators.
-* [Kali](https://anonym.to/?https://www.kali.org/) - GNU/Linux distribution designed for digital forensics and penetration testing.
-* [Parrot](https://anonym.to/?https://www.parrotsec.org/) - Distribution similar to Kali, with multiple architecture.
-* [PentestBox](https://anonym.to/?https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
-* [The Pentesters Framework](https://anonym.to/?https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
+- [Android Tamer](https://anonym.to/?https://androidtamer.com/) - OS for Android Security Professionals. Includes all the tools required for security testing.
+- [ArchStrike](https://anonym.to/?https://archstrike.org/) - Arch GNU/Linux repository for security professionals and enthusiasts.
+- [AttifyOS](https://anonym.to/?https://github.com/adi0x90/attifyos) - GNU/Linux distribution focused on tools useful during Internet of Things (IoT) security assessments.
+- [BackBox](https://anonym.to/?https://backbox.org/) - Ubuntu-based distribution for penetration tests and security assessments.
+- [BlackArch](https://anonym.to/?https://www.blackarch.org/) - Arch GNU/Linux-based distribution for penetration testers and security researchers.
+- [Buscador](https://anonym.to/?https://inteltechniques.com/buscador/) - GNU/Linux virtual machine that is pre-configured for online investigators.
+- [Kali](https://anonym.to/?https://www.kali.org/) - GNU/Linux distribution designed for digital forensics and penetration testing.
+- [Parrot](https://anonym.to/?https://www.parrotsec.org/) - Distribution similar to Kali, with multiple architecture.
+- [PentestBox](https://anonym.to/?https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
+- [The Pentesters Framework](https://anonym.to/?https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -698,6 +713,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [SILO](https://anonym.to/?https://medium.com/arweave-updates/building-silo-a-truly-private-internet-556c860222ca) - Offers complete privacy across the network (work in progress project in cooperationship with Loki).
 - [Tor](https://anonym.to/?https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis.
 - [Zeronet](https://anonym.to/?https://zeronet.io/) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
+- [IPSF](https://anonym.to/?https://ipfs.io/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -977,7 +993,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [TorrentGalaxy](https://anonym.to/?https://torrentgalaxy.org/) - Public tracker with a clean UI.
 - [Torrent King](https://anonym.to/?https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://anonym.to/?https://torrentz2.is/) - [(mirror)](https://anonym.to/?https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
-- [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
+- [Torrents-csv.ml](https://anonym.to/?https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
 - [Trackers list](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
 - [WebOas](https://anonym.to/?https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
 - [YggTorrent](https://anonym.to/?https://yggtorrent.ws/) - French tracker and search engine (has a download/upload ratio limitation).
@@ -999,6 +1015,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [monova](https://anonym.to/?https://monova.org)
 - [idope](https://anonym.to/?https://idope.se)
 - [demonoid](https://anonym.to/?https://www.demonoid.is/)
+
+**[`^        back to top        ^`](#readme)**
+
+
+### Torrent Invites
+- [TorrentInvites](https://anonym.to/?hhttps://torrentinvites.org/) - Public platform to share and get invites.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1066,7 +1088,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents Time](https://anonym.to/?https://torrents-time.com/) - Torrents-Time is a browser plugin that allows websites to have the same functionality as the popular Popcorn Time program, without requiring the client to download an application.
 - [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/) - Download Torrent URLs Anonymously, No registration, No software, No logging. Free trial.
 
-
 **[`^        back to top        ^`](#readme)**
 
 
@@ -1081,6 +1102,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Put.io automator](https://anonym.to/?https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
 - [Seedbox.io](https://anonym.to/?https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
 - [SeedSync](https://anonym.to/?https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
+- [Ultra Seedbox](https://anonym.to/?https://ultraseedbox.com/)
 
 **[`^        back to top        ^`](#readme)**
 

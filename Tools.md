@@ -1177,6 +1177,14 @@ Overall strategy:
 
 
 ## Anime Batch Downloader
-- [anidl](https://anonym.to/?https://anidl.org/) - Download Your Favourite Anime in Mega Batch
+- [anidl](https://anonym.to/?https://anidl.org/) - Download Your Favourite Anime in Mega Batch.
 
 **[`^        back to top        ^`](#)**
+
+
+## PSA Rips
+- [PSARipper](https://anonym.to/?https://github.com/architdate/PSARipper) - CLI tool to bypass the PSA shortner links and return the final list of all the hosters hosting the episodes.
+
+**[`^        back to top        ^`](#)**
+
+

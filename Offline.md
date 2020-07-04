@@ -660,5 +660,10 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 - cracksnow.com
 - tparser.org
 
+
 ### Portables & Repacks
 - [monkrus](https://anonym.to/?http://w13.monkrus.ws) - (`RU`) - Russian repacker website by monkrus.
+
+
+### Team Drive (stopped giving free TDs)
+- [Google Team Drive (CCSF)](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
