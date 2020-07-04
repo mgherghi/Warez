@@ -312,7 +312,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shoqws.
 - [bot14](https://anonym.to/?hhttps://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.
 - [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
-- [xisanhere](https://anonym.to/?https://hey.xisanhere.workers.dev/series/) - TV shows, movies and games. The home drive is password protected.
 - [tor.uploadbot](https://anonym.to/?https://tor.uploadbot.workers.dev/) - Protected Share Drive, but you can reveal the download links.
 - [Taiwan Primary School](https://anonym.to/?https://gd.404edu.workers.dev/)
 - [Fang's Team Drive](https://drive.fangdrive.workers.dev/) - Username `fang`, Pass `fang`
@@ -320,6 +319,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Bot TD](https://anonym.to/?https://curly-wave-7a6b.swankytiger56bot.workers.dev/)
 - [one.driveindex.ga](https://anonym.to/?https://one.driveindex.ga/)
 - [tdbot2.workers](https://anonym.to/?https://com.tdbot2.workers.dev/)
+- [goindex team drive](https://anonym.to/?https://goindex.teamsdrives.workers.dev/0:/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1397,6 +1397,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [dreamteamdownloads1](https://anonym.to/?https://dreamteamdownloads1.com/) - DreamTeamDownloads1, FTP Help, Movies, Bollywood, Applications, etc. & Mature Sex Forum, Rapidshare, Filefactory, Freakshare, Rapidgator, Turbobit, & More MULTI Filehosts.
 - [sharespark](https://anonym.to/?https://sharespark.me/) - Bollywood movies, tv shows, international movies, OST, Music and other soundtracks.
 - [CHICFASR Blog](https://anonym.to/?https://chicfasr491.weebly.com/) - Blog who links to Adobe and other Software & Music related products.
+- [scene-rls](https://anonym.to/?https://scene-rls.net/) -Scene releases via file-hoster.
 
 **[`^        back to top        ^`](#readme)**
 
