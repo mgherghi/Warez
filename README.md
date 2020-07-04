@@ -3,8 +3,7 @@
 </p>
 
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CHEF-KOCH/Warez/issues)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=plastic)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/CHEF-KOCH/Warez/issu[](https://anonym.to/?)![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=plastic)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 [![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
 
@@ -3445,6 +3444,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Athame](https://anonym.to/?https://github.com/fuzzybabybunny/Athame) - (Premium account required) - An extensible music download tool written in C#.
 - [Chimera](https://anonym.to/?https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) and works across almost every OS.
 - [RedSea](https://anonym.to/?https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
+- [Red3Mp3](https://anonym.to/?https://red3mp3.me/) - A music portal where you can listen to and download MP3s.
 
 **[`^        back to top        ^`](#readme)**
 
