@@ -262,7 +262,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@url_uploadbot](https://anonym.to/?https://t.me/url_uploadbot)
 - [@FilesToIinkBot](https://anonym.to/?https://t.me/FilesToIinkBot)
 - [@hk_Link_Bot](https://anonym.to/?https://t.me/hk_Link_Bot)
-- [FTG-Modules-Mirror](https://anonym.to/?https://github.com/HitaloSama/FTG-Modules-Mirror)
+- [FTG-Modules-Mirror](https://anonym.to/?https://github.com/HitaloSama/FTG-Modules-Mirror) - Official landing page is [here](https://anonym.to/?https://friendly-telegram.gitlab.io/).
 
 
 #### Telegram channel for file sharing
