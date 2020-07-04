@@ -521,6 +521,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 **[`^        back to top        ^`](#)**
 
+
 ### Telegram channels for eBooks & PDF's
 - [@BOOK_HOUSE_INTERNATIONAL](https://t.me/BOOK_HOUSE_INTERNATIONAL)
 - [@BookCafe](https://anonym.to/?https://t.me/eBookCafe)
@@ -598,6 +599,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [mfmixebooks](https://anonym.to/?https://t.me/mfmixebooks)
 - [@philosophybooks](https://anonym.to/?https://t.me/philosophybooks)
 - [@Engineering_Ebooks1](https://anonym.to/?https://t.me/Engineering_Ebooks1) - Programming eBooks.
+- [@BookCrush](https://anonym.to/?http://t.me/BookCrush)
 
 
 ### Telegram chats regarding eBooks
@@ -614,6 +616,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [A GRoUP Of eBooKz](https://anonym.to/?https://t.me/joinchat/Cdn35j0FlwHkKl7Z3-CWvw)
 - [Spiritual Books](https://anonym.to/?https://t.me/joinchat/NVkTNFfYRrI7xtrvSHaDvQ)
 - [EbooksEnglish](https://anonym.to/?http://t.me/EbooksEnglish)
+- [BookCrushGroup](https://anonym.to/?http://t.me/BookCrushGroup)
 
 **[`^        back to top        ^`](#)**
 
