@@ -191,7 +191,7 @@ Downloads albums in bulk.
 
 
 ### Subtitles Editors
-- [Aegisub](https://anonym.to/?hhttps://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor.
+- [Aegisub](https://anonym.to/?https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor.
 
 **[`^        back to top        ^`](#)**
 
@@ -634,7 +634,7 @@ Downloads albums in bulk.
 - [aria2](https://anonym.to/?http://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 - [EagleGet](http://www.eagleget.com/) - EagleGet is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 - [Internet Download Manager](https://anonym.to/?http://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
-- [JDownloader2](https://anonym.to/?http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. The [Event Scripter Scripts](https://anonym.to/?http://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) are a nice addition to "tweak" your JD with some scripts.
+- [JDownloader2](https://anonym.to/?http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Persepolis Download Manager](https://anonym.to/?http://persepolisdm.github.io/) - Open source alternative to IDM.
 - [Plowshare](https://anonym.to/?http://github.com/mcrapet/plowshare) Command-line tool & engine for managing sharing websites.
 - [pyLoad](https://anonym.to/?http://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
@@ -642,6 +642,13 @@ Downloads albums in bulk.
 - [Xtreme Download Manager](https://anonym.to/?http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 - [pyIDM](https://anonym.to/?https://github.com/pyIDM/PyIDM) - Python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui.
 - [mypony](https://anonym.to/?https://www.mipony.net/en/) - Mipony is a download manager specially designed to optimize and automate the downloads.
+
+**[`^        back to top        ^`](#)**
+
+
+## JDownloader Scripts & Skins
+- The [Event Scripter Scripts](https://anonym.to/?https://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) are a nice addition to "tweak" your JD with some scripts.
+- [Dark Theme](https://anonym.to/?https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme) - A dark theme for the download manager JDownloader 2.
 
 **[`^        back to top        ^`](#)**
 

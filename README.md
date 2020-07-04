@@ -3,12 +3,12 @@
 </p>
 
 [![HitCount](http://hits.dwyl.io/CHEF-KOCH/Warez.svg)](http://hits.dwyl.io/CHEF-KOCH/Warez)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=flat)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-[![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
-![GitHub repo size](https://img.shields.io/github/repo-size/CHEF-KOCH/Warez)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/CHEF-KOCH/Warez)
+[![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)]
+[![GitHub repo size](https://img.shields.io/github/repo-size/CHEF-KOCH/Warez)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CHEF-KOCH/Warez)
 
 # Warez
 This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wiki/Warez_scene) overview on the entire internet! It contains links to Warez related topics, discussions, tools etc. It also provides some background information about the scene.
@@ -312,7 +312,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [purple-firefly-4142](https://anonym.to/?https://purple-firefly-4142.swankytiger56sharing.workers.dev/Movies/) - Movies.
 - [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - Software and Movies.
 - [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
-- [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shws.
+- [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shows.
 - [bot14](https://anonym.to/?hhttps://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.
 - [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
 - [tor.uploadbot](https://anonym.to/?https://tor.uploadbot.workers.dev/) - Protected Share Drive, but you can reveal the download links.
