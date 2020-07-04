@@ -1154,7 +1154,14 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ## Mega.nz Uploader Bots
-- [uploadbot](https://anonym.to/?https://t.me/uploadbot)
-- [UploadsRobot](https://anonym.to/?https://t.me/UploadsRobot)
+- [@uploadbot](https://anonym.to/?https://t.me/uploadbot)
+- [@UploadsRobot](https://anonym.to/?https://t.me/UploadsRobot)
 
 **[`^        back to top        ^`](#)**
+
+
+## Video News Bots
+- [@TheLoop_bot](https://anonym.to/?https://t.me/TheLoop_bot) - Gives you the latest videos on a whole bunch of News, Sports Entertainment , Games and keywords.
+
+**[`^        back to top        ^`](#)**
+
