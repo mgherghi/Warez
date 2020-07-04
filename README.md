@@ -324,6 +324,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [tdbot2.workers](https://anonym.to/?https://com.tdbot2.workers.dev/)
 - [goindex team drive](https://anonym.to/?https://goindex.teamsdrives.workers.dev/0:/)
 - [dh.alpacinodump.cf](https://anonym.to/?https://dh.alpacinodump.cf)
+- [Torrent Hording](https://anonym.to/?https://torrent.hoarding.wtf/0:/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -596,7 +597,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Cock.li](https://anonym.to/?https://cock.li/) - Yeah, it's mail with cocks.
 - [Disposable](https://anonym.to/?https://github.com/0x19/disposable) - Disposable is a robust disposable email (burner emails) - API designed to help you verify whenever email address is coming from disposable service.
 - [Nada](https://anonym.to/?https://getnada.com/) - Fast & free.
-- [s.MailPro](https://anonym.to/?https://smailpro.com/) - Offering Temporary Email Service
+- [S.MailPro](https://anonym.to/?https://smailpro.com/) - Offering Temporary Email Service
 - [Temp Mail](https://anonym.to/?https://temp-mail.org/en/) - Keep spam out of your mail and stay safe - just use a disposable temporary email address!
 - [Tempr eMail](https://anonym.to/?https://tempr.email/fr/) - Similar service like Temp Mail, it's from the same provider.
 - [Firefox Private Relay](https://anonym.to/?https://relay.firefox.com/) - Addon to create a temp eMail, the source code can be found over [here](https://anonym.to/?https://github.com/mozilla/fx-private-relay).
@@ -1377,7 +1378,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [SceneSource](https://anonym.to/?https://scnsrc.me/) - WordPress powered website dedicated to bringing you the latest info on new scene releases
 - [Snahp Forum](https://anonym.to/?https://forum.snahp.it/) - (registration disabled) - A popular forum which provides links to HD rips & software (mostly mega & zippyshare).
 - [Soft98.iR](https://anonym.to/?https://soft98.ir/software/) - (`IR`) - All Software Download in Only One Website.
-- [SoftArchive – SANET](https://anonym.to/?https://sanet.ws/) - SoftArchive is the oldest and most reliable resource for direct download [SolidShare](https://anonym.to/?https://www.solidshare.net/) - (TR) - Software Portal.
+- [SoftArchive SANET](https://anonym.to/?https://sanet.ws/) - SoftArchive is the oldest and most reliable resource for direct download [SolidShare](https://anonym.to/?https://www.solidshare.net/) - (TR) - Software Portal.
 - [Tekspert](https://anonym.to/?https://tekspert.se/) - (`EN/US`) - Software forum.
 - [TNCTR](https://anonym.to/?https://www.tnctr.com/) - (`TR`) - Turkish Network Community for software, ebooks, apps, portable, AIO & coding.
 - [UpTown](https://anonym.to/?https://en.uptodown.com/) - Software portal.
