@@ -35,93 +35,109 @@ excluded_files:
 
 # Any typos we should ignore?
 excluded_words:
-  - typoci
-  - Warez
-  - Cloudflare
-  - meme
-  - CHEF-KOCH
-  - IGG
-  - Offline
-  - Trackers
-  - Public
-  - Good-Old-Downloads
-  - GIndex
-  - GoIndex
-  - Reddit
-  - Microsoft
-  - Discord
-  - Riot
-  - SpaceX
-  - ZippyShare
-  - Matrix
-  - devbots
-  - makepdfs
-  - mkrakowitzer
-  - actions-makepdfs
-  - spyoungtech
-  - Genration
-  - Rosco
-  - SzeneBox
-  - szb
-  - NZB
-  - Kabel-Receiver
-  - torrenting
-  - Toorgle
-  - remuxes
-  - Animés
-  - différents
-  - dpstream
-  - herbergeurs
-  - votre
-  - Filmz
-  - alamy
-  - gsettings
-  - hoster
-  - WawaCity
-  - Streamcomplet
-  - Wikiserie
-  - Gratuit
+  - AMD
   - Allostream
-  - Série
-  - Papystreaming
-  - Filmcomplet
-  - Serie-Streaming
-  - Comédie
-  - Horreur
-  - Annuaire-telechargement-fr
+  - Animés
   - Annuaire
-  - Sokrostream
-  - Mobdro
+  - Annuaire-telechargement-fr
+  - CHEF-KOCH
+  - CODEX
+  - Cloudflare
+  - CompucaliTV
+  - Comédie
+  - Discord
+  - Filesharing
+  - Filmcomplet
+  - Filmz
+  - GIndex
+  - Genration
+  - GoIndex
+  - Good-Old-Downloads
+  - Google
+  - Google Cloud
+  - Gratuit
+  - Horreur
+  - IGG
+  - Intel
+  - Kabel-Receiver
+  - Kkiste
+  - Matrix
   - Megadede
+  - Microsoft
+  - Mobdro
   - Movidy
-  - Regarder
-  - complets
-  - kkiboeco
-  - XpoMusic
-  - Spotify
+  - MultCloud
+  - NZB
   - Netflix
+  - Nsane
+  - Offline
+  - PCMYMJuegos
+  - Papystreaming
+  - Public
+  - RClone
+  - Razor
+  - Reddit
+  - Regarder
+  - Riot
+  - Rosco
+  - Serie-Streaming
+  - Sokrostream
+  - SpaceX
+  - Spotify
+  - Steam
+  - SteamWorkFixs
+  - Streamcomplet
+  - SzeneBox
+  - Série
+  - Toorgle
+  - Trackers
+  - Tutorialspoint
+  - Warez
+  - WawaCity
+  - Wget
+  - Wikipedia
+  - Wikiserie
+  - XpoMusic
+  - ZippyShare
+  - actions-makepdfs
+  - alamy
+  - autres
+  - complets
   - des
+  - devbots
+  - différents
+  - downeu
+  - dpstream
+  - file-sharing
   - française
   - gratuit
-  - SteamWorkFixs
-  - Steam
-  - les
-  - sélections
-  - voir
-  - autres
   - gratuit
-  - PCMYMJuegos
+  - gsettings
+  - herbergeurs
+  - hoster
+  - kkiboeco
+  - les
+  - makepdfs
   - mangas
-  - téléchargement
-  - séries
-  - CompucaliTV
-  - monkrus
-  - repacker
+  - meme
+  - mkrakowitzer
   - mkvcagez
-  - Kkiste
+  - monkrus
+  - nVidia
+  - rClone
+  - remuxes
+  - repacker
+  - spyoungtech
+  - szb
+  - sélections
+  - séries
+  - torrenting
+  - typoci
+  - téléchargement
+  - voir
+  - votre
   - yasdl
-  - Nsane
-  - downeu
+
 
 # Would you like filenames to also be spellchecked?
-spellcheck_filenames: true
+spellcheck_filenames: no
