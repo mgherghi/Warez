@@ -47,7 +47,7 @@
 - [d00per.com](https://anonym.to/?https://www.d00per.com/dupe)
 - [DVD ReleaseDates](https://anonym.to/?https://www.dvdsreleasedates.com/)
 - [German pre](https://anonym.to/?http://www.germanpre.com/) (Ger)
-- [Logic Sunrise](https://anonym.to/?http://www.logic-sunrise.com/) (FR) 
+- [Logic Sunrise](https://anonym.to/?http://www.logic-sunrise.com/) (FR)
 - [Movie Release Types (as .PNG Image)](https://anonym.to/?https://i.imgur.com/kEOrKJT.png)
 - [mp3 Scene](https://anonym.to/?https://www.mp3scene.info/)
 - [nfo.nydus.org](https://anonym.to/?http://nfo.nydus.org/) (Ger)
@@ -63,7 +63,7 @@
 - [Release Lister](https://anonym.to/?https://releaselister.info/) (EN/GER)
 - [Release Watcher](https://anonym.to/?http://extremedownload.org/)
 - [renascene](https://anonym.to/?https://renascene.com/)
-- [ROM news](https://anonym.to/?http://rom-news.org/) 
+- [ROM news](https://anonym.to/?http://rom-news.org/)
 - [Scene Group List](https://anonym.to/?http://scenegrouplist.com/scene_info_About_the_scene_tsh.php)
 - [SCENE-SCRiPTS](https://anonym.to/?https://github.com/scriptzteam/SCENE-SCRiPTS)
 - [SCNLOG.me](https://anonym.to/?https://scnlog.me/)
@@ -92,7 +92,7 @@
 
 
 ## Piracy Archive
-- [27 Years of Warez Scene Release Info Leaked in Giant Database](https://anonym.to/?https://archive.org/details/predb) 
+- [27 Years of Warez Scene Release Info Leaked in Giant Database](https://anonym.to/?https://archive.org/details/predb)
 - [Archive of r/Megalinks from 11th April 2018](https://anonym.to/?https://pastebin.com/raw/7WrNLtZd) - A complete backup of the reddit r/Megalinks sub.
 - [OpenTrackers](https://anonym.to/?https://archive.fo/kuKOb) - Opentrackers.org Warez Scene Overview.
 - [Piracy Archive](https://anonym.to/?https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit r/Piracy sub.
@@ -112,10 +112,10 @@
 
 
 ## Usenet
-- [/r/Usenet](https://anonym.to/?https://www.reddit.com/r/Usenet) - A thriving community dedicated to helping users old and new understand and use usenet.
+- [/r/Usenet](https://anonym.to/?https://www.reddit.com/r/Usenet) - A thriving community dedicated to helping users old and new understand and use Usenet.
 - [/r/UsenetInvites](https://anonym.to/?https://www.reddit.com/r/UsenetInvites) - Requests and offers for Usenet indexers.
 - [/r/Usenet wiki: indexers](https://anonym.to/?https://www.reddit.com/r/Usenet/wiki/indexers) - Information about /r/Usenet's favourite indexing services.
-- [NZBLINK](https://anonym.to/?https://nzblnk.info/) - The NZBLNKâ„¢ URI scheme defines the format of NZBLNKâ„¢ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
+- [NZBLINK](https://anonym.to/?https://nzblnk.info/) - The NZBLNK URI scheme defines the format of NZBLNK links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
 - [QuickPar](https://anonym.to/?http://www.quickpar.org.uk/index.htm) - Tool for reconstructing damaged/missing/corrupt Usenet binaries.
 - [Wikipedia's Usenet newsgroup article](https://anonym.to/?https://en.wikipedia.org/wiki/Usenet_newsgroup) - A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
 - [Usenet-Uploaders](https://anonym.to/?https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Table of applications for uploading content to Usenet.
@@ -123,4 +123,8 @@
 
 
 ## Tracker checker (online/offline)
-- [Tracker Status](https://anonym.to/?https://trackerstatus.info/) - Check if tracker status. 
+- [Tracker Status](https://anonym.to/?https://trackerstatus.info/) - Check if tracker status.
+
+
+## RePacker History
+- [Meet FitGirl, The Repack ‘Queen’ Of Pirated Games](https://anonym.to/?https://torrentfreak.com/meet-fitgirl-the-repack-queen-of-pirated-games-200604/) - The story about FitGirl.
