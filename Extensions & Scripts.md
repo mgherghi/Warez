@@ -13,6 +13,7 @@
 - [Emuparadise ROMs:easy download](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) - Make Emuparadise great again!
 - [Mouseover Popup Image Viewer](https://anonym.to/?https://greasyfork.org/scripts/404) - Shows images and videos behind links and thumbnails.
 - [Various torrent links to Episodecalendar](https://anonym.to/?https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
+- [old-reddit-dark-obsidian-userstyle](https://anonym.to/?https://github.com/y4rr/old-reddit-dark-obsidian-userstyle) - Dark Theme for old Reddit.
 
 **[`^        back to top        ^`](#)**
 
