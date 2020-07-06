@@ -41,7 +41,7 @@ Download Mp4 and audio formats.
 - [IMDb Scout](https://anonym.to/?https://greasyfork.org/en/scripts/3967-imdb-scout) - Add links from IMDb pages to torrent sites, easy downloading from IMDb
 - [MAL-Sync](https://anonym.to/?https://greasyfork.org/en/scripts/372847-mal-sync) - Integrates MyAnimeList into various sites, with auto episode tracking.
 - [RARBG - torrent and magnet links](https://anonym.to/?https://greasyfork.org/scripts/23493) -
-- [RARBG Advanced Filters](https://anonym.to/?https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filtes for RARBG.
+- [RARBG Advanced Filters](https://anonym.to/?https://greasyfork.org/en/scripts/29661-rarbg-advanced-filters) - Provides additional filters for RARBG.
 - [RYM google current album](https://anonym.to/?https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
 - [Sci-hub button](https://anonym.to/?https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
 - [Scribd downloader](https://anonym.to/?https://greasyfork.org/scripts/14503) - Downloads from Scribd.
