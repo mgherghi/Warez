@@ -289,7 +289,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ### Media Info Bots
-- [@mediainforobot](https://anonym.to/?https://t.me/mediainforobot)
+- [@mediainforobot](https://anonym.to/?https://t.me/mediainforobot) - Provides MediaInfos for uploaded Videos.
 
 
 ## Upload to Google Drive Bots
