@@ -54,6 +54,8 @@ excluded_words:
   - GoIndex
   - Good-Old-Downloads
   - Google
+  - gDrive
+  - GDrive
   - Google Cloud
   - Gratuit
   - Horreur
@@ -137,6 +139,8 @@ excluded_words:
   - voir
   - votre
   - yasdl
+  - Demoscene
+  - Warez-Scene
 
 
 # Would you like filenames to also be spellchecked?
