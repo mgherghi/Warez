@@ -79,11 +79,14 @@
 
 **[`^        back to top        ^`](#)**
 
+
 ## Self-hosting
 - [How to Host "Questionable" Websites v4.0](https://anonym.to/?https://weboas.is/media/host.pdf) - PDF from weboas.is which shows how you self-host Qquestionable" websites.
 
+**[`^        back to top        ^`](#)**
 
-## Ebooks & TextBooks
+
+## Searching and finding Ebooks & TextBooks
 - [How To find and download ebooks & textbooks](https://anonym.to/?https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_).
 
 **[`^        back to top        ^`](#)**
@@ -128,9 +131,9 @@
 - [linuxserver/docker-plex](https://anonym.to/?https://github.com/linuxserver/docker-plex) - LinuxServer.io Plex Media Server docker image.
 - [Plex](https://anonym.to/?https://www.plex.tv/) - Your content”from live and recorded TV and personal media, to on-demand web shows, video news, and podcastsâ€”beautifully organized and ready to stream everywhere.
 - [PGBlitz.com](https://anonym.to/?https://pgblitz.com/) - Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD.
-- [Plexi](https://anonym.to/?hhttp://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
+- [Plexi](https://anonym.to/?http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
 - [plexinc/pms-docker](https://anonym.to/?https://github.com/plexinc/pms-docker) - Official Plex docker image.
-- [timhaak/plex](https://anonym.to/?https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
+- [Timhaak/Plex](https://anonym.to/?https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
 
 **[`^        back to top        ^`](#)**
 
@@ -296,7 +299,15 @@
 - [Traning Circle](https://anonym.to/?https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [How To Get Lynda & Skillshare Premium Account Legally | Lynda Free For Lifetime | SkillShare For 3 Months!](https://anonym.to/?https://onehack.us/t/how-to-get-lynda-skillshare-premium-account-legally-lynda-free-for-lifetime-skillshare-for-3-months/54470) - (`needs adblocker`)
 - [How to download snahp zippy files without using your computer space and bandwidth!!!](https://anonym.to/?https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
+- [Every bookmark manager ever made](https://anonym.to/?https://bookmarkos.com/every-bookmark-manager-ever-made/) Lists all eBook Manager.
 
 **[`^        back to top        ^`](#)**
+
+
+
+
+
+
+
 
 
