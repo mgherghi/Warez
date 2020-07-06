@@ -300,12 +300,9 @@
 - [How To Get Lynda & Skillshare Premium Account Legally | Lynda Free For Lifetime | SkillShare For 3 Months!](https://anonym.to/?https://onehack.us/t/how-to-get-lynda-skillshare-premium-account-legally-lynda-free-for-lifetime-skillshare-for-3-months/54470) - (`needs adblocker`)
 - [How to download snahp zippy files without using your computer space and bandwidth!!!](https://anonym.to/?https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
 - [Every bookmark manager ever made](https://anonym.to/?https://bookmarkos.com/every-bookmark-manager-ever-made/) Lists all eBook Manager.
+- ["A simple script for easily downloading emulator.games ROMs"](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 
 **[`^        back to top        ^`](#)**
-
-
-
-
 
 
 

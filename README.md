@@ -1661,7 +1661,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [puretoons](https://anonym.to/?https://puretoons.me/) - (`Hindi`) - Animated Hindi movies.
 - [deadtoonsindia](https://anonym.to/?https://deadtoonsindia.ne) - (`Hindi`) - Animated Hindi movie & tv shows.
 
-**[`^        back to top        ^`](#readme
+**[`^        back to top        ^`](#readme)**
 
 
 ### Streaming Forums
@@ -1786,7 +1786,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Game Repacks
-- ["A simple script for easily downloading emulator.games ROMs"](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 - [Dark Umbra](https://anonym.to/?https://darkumbra.net/) - A forum for sourcing games.
 - [ElAmigos Games](https://anonym.to/?https://www.elamigos-games.com/) - Premium links to cracked PC games.
 - [Emulator.Games](https://anonym.to/?https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
