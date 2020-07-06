@@ -378,8 +378,17 @@ There is a universal rule for Android:
 - [base64-decoder](https://anonym.to/?https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/) - Firefox base64 decoder add-on.
 - [base64-encode-and-decode](https://anonym.to/?https://addons.opera.com/en/extensions/details/base64-encode-and-decode/) - Opera extension to decode base64.
 
+**[`^        back to top        ^`](#)**
 
 
 ## Skillshare Downloader
 - [Chrome Skillshare downloader extension](https://anonym.to/?https://chrome.google.com/webstore/detail/skillshare-free-downloade/dafpgbifpihaomcjenlnebhepkklhkfh/related?hl=en)
 
+**[`^        back to top        ^`](#)**
+
+
+## Google Drive related extensions
+- [Bulk Renamer for Drive](https://anonym.to/?https://chrome.google.com/webstore/detail/bulk-renamer-for-drive/peboiggabkeljjdnbelmhbpnmonomngo) - Rename multiple files in a Google Drive folder!
+- [Bulk Renamer for Drive (web-based)](https://anonym.to/?http://driverename.iblogbox.com/)
+
+**[`^        back to top        ^`](#)**
