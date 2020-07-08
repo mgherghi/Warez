@@ -92,9 +92,9 @@ TCP Port: 853
 ## F-Droid
 
 ## Known Repositories
-- [Official Collection](https://forum.f-droid.org/t/known-repositories/721)
-- [IzzyonDroid Collection](https://android.izzysoft.de/applists.php)
-
+- [Official Collection](https://anonym.to/?https://forum.f-droid.org/t/known-repositories/721) - Official repo list provided by F-Droid.
+- [IzzyonDroid Collection](https://anonym.to/?https://android.izzysoft.de/applists.php) - One of the biggest private repositories.
+- [F-Droid Repos](https://anonym.to/?https://github.com/CHEF-KOCH/F-Droid-Repos) - A list of all known F-Droid Repos.
 
 
 ## Android - Mobile App Websites
@@ -154,11 +154,13 @@ TCP Port: 853
 
 **[`^        back to top        ^`](#)**
 
+
 ### Android License Verification Patcher
 - [LuckyPatcher](https://anonym.to/?https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
 - [Jasi Patcher (also known as Uret Patcher)](https://anonym.to/?https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](https://anonym.to/?https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
 
 **[`^        back to top        ^`](#)**
+
 
 ## P2P-Networks & IPTV Apps
 - [eDonkey network](https://anonym.to/?https://en.wikipedia.org/wiki/EDonkey_network) - A decentralized, mostly server-based, peer-to-peer file sharing network + [Server Status](https://anonym.to/?https://edk.peerates.net/servers/online-servers-list)
@@ -179,6 +181,8 @@ TCP Port: 853
 ## Streaming player apps
 - [TVF Play App](https://anonym.to/?https://tvfplay.com/)
 - [MX Player Pro](https://anonym.to/?https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
+
+**[`^        back to top        ^`](#)**
 
 
 ## WhatsApp Mods
