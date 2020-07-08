@@ -2358,7 +2358,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [magzdb](https://anonym.to/?http://magzdb.org/) - EBooks and Magazines via FTP.
 - [springer-books](https://anonym.to/?https://hnarayanan.github.io/springer-books/) - To help support everyone during Covid-19, [Springer has released a ton of free textbooks](https://anonym.to/?https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
 - [edoc](https://anonym.to/?https://edoc.pub/) - Upload Ideas And Publishing Resources Write A Book PDF Free Download Professional Platform.
-- [maxwell.faotas](https://anonym.to/?hhttps://maxwell.faotas.info/) - Hindi ebooks.
+- [maxwell.faotas](https://anonym.to/?https://maxwell.faotas.info/) - Hindi ebooks.
+- [novanon](https://anonym.to/?https://novanon.net) - Ebooks & More.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2862,7 +2863,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Crazy4tv](https://anonym.to/?https://crazy4tv.com/)
 - [MoviesWBB](https://anonym.to/?http://movieswbb.com/)
 - [GDriveDL](https://anonym.to/?https://gdrivedl.com/) - 1080p & 4K Movies and TV shows via Google Drive.
-- [megaDDL](https://anonym.to/?https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
+- [megaDDL](https://anonym.to/?https://megaddl.co/) - megaDDL provides mainly TV shows and Movies downloadable via Mega.nz.
 - [streamingita.live](https://anonym.to/?https://streamingita.live/series/) - (`ITA`) - Yet another streaming service for Movies and Series.
 - [solarmoviez.to](https://anonym.to/?https://solarmoviez.to/)
 - [123movies.is](https://anonym.to/?https://123movies.is/)
