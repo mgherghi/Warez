@@ -246,7 +246,8 @@
 * NORO repacks
 * nosTEAM.ro
 * yasdl.com
-- [Nsane Forum](https://anonym.to/?https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
+* [Nsane Forum](https://anonym.to/?https://www.nsaneforums.com/) - Public forum for everyone to talk about software & news around the world.
+* [cybermania](https://anonym.to/?https://www.cybermania.ws/)
 
 
 ### eBooks

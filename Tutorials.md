@@ -301,10 +301,15 @@
 - [How to download snahp zippy files without using your computer space and bandwidth!!!](https://anonym.to/?https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
 - [Every bookmark manager ever made](https://anonym.to/?https://bookmarkos.com/every-bookmark-manager-ever-made/) Lists all eBook Manager.
 - ["A simple script for easily downloading emulator.games ROMs"](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
+- [Tutorial on how to download from pirate streaming sites without Jdownloader or IDM](https://anonym.to/?https://old.reddit.com/r/Piracy/comments/hlz1tb/made_a_quick_tutorial_on_how_to_download_from/)
 
 **[`^        back to top        ^`](#)**
 
 
+## VPN Related Tutorials
+- [How To Initiate VPN From Terminal in Linux](https://anonym.to/?https://askubuntu.com/questions/95926/how-to-initiate-vpn-from-terminal)
+
+**[`^        back to top        ^`](#)**
 
 
 

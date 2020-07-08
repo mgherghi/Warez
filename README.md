@@ -334,6 +334,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrent Hording](https://anonym.to/?https://torrent.hoarding.wtf/0:/)
 - [five.ilysiaticonaracemirt](https://anonym.to/?https://five.ilysiaticonaracemirt.workers.dev/0:/) - DVDs, Movies, TV Shows, Animes, eBooks, Courses.
 - [Torrent Leech](https://anonym.to/?https://torrentleech.torrentleech-gdrive.workers.dev/) - Movies, DVDs, TV Show
+- [Mirror Bot 2](https://anonym.to/?https://mirrorbot.sarutobi.workers.dev/) - Mainly TV Shows.
 
 **[`^        back to top        ^`](#readme)**
 
