@@ -1008,7 +1008,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [TorrentFunk](https://anonym.to/?https://www.torrentfunk.com/) - TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [TorrentGalaxy](https://anonym.to/?https://torrentgalaxy.org/) - Public tracker with a clean UI.
 - [Torrent King](https://anonym.to/?https://torrentking.io/) - Torrentking is a popular movie torrent site.
-- [Torrentz2](https://anonym.to/?https://torrentz2.is/) - [(mirror)](https://anonym.to/?https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
+- [Torrentz2](https://anonym.to/?https://torrentsmirror.com/) - [(mirror)](https://anonym.to/?https://torrentz.pl/) - A good replacement of the defunct Torrentz.
 - [Torrents-csv.ml](https://anonym.to/?https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
 - [Trackers list](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
 - [WebOas](https://anonym.to/?https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
