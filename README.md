@@ -1012,7 +1012,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents-csv.ml](https://anonym.to/?https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
 - [Trackers list](https://anonym.to/?https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
 - [WebOas](https://anonym.to/?https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
-- [YggTorrent](https://anonym.to/?https://yggtorrent.ws/) - French tracker and search engine (has a download/upload ratio limitation).
+- [YggTorrent](https://anonym.to/?https://yggtorrent.si/) - French tracker and search engine (has a download/upload ratio limitation).
 - [Xiepp](https://anonym.to/?https://www.xiepp.com/) (CN _insecure_) - Chinese movies, TV-Shows and other torrents.
 - [Zonatorrent](https://anonym.to/?https://zonatorrent.tv/) - Spanish tracker.
 - [Zooqle](https://anonym.to/?https://zooqle.com/) - Zooqle is a relatively new torrent index providing a huge database of verified torrents.
@@ -1022,7 +1022,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 - [Zone-Annuaire](https://anonym.to/?https://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
-- [Yggtorrent](https://anonym.to/?https://www2.yggtorrent.se) - (`SE`) - Movies, Games, TV shows & more.
 - [Torrent Paradise](https://anonym.to/?https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information apart from the title and seeders.
 - [PCGamesTorrents](https://anonym.to/?https://pcgamestorrents.com) - Designed to find PC Games.
 - [SeedPeer](https://anonym.to/?https://seedpeer.me)
