@@ -984,7 +984,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Games4theworld](https://anonym.to/?https://games4theworld.org) - Torrents and magnet links for games.
 - [GloTorrents](https://anonym.to/?https://glodls.to/) - Download Movies, TV, Games and Other Torrents Free.
 - [HDCenter](https://anonym.to/?https://hdcenter.cc/login.php) - (NL) - Games, Movies, eBooks & more.
-- [Idope (Clone)](https://anonym.to/?https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Isohunt2](https://anonym.to/?https://isohunt2.net/) - Clone of the original ISOHunt torrent index and repository.
 - [KickAss Torrents](https://anonym.to/?https://katcr.co/) - Community-made reincarnation launched in 2016.
 - [LBRY](https://anonym.to/?https://beta.lbry.tv/) & [source code](https://anonym.to/?https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more.
@@ -1019,7 +1018,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [monova.to](https://anonym.to/?https://monova.to/)
 - [PaHe.me](https://anonym.to/?https://pahe.me/) - HQ Movies at Affordable Size.
 - [ilcorsaronero.info](https://anonym.to/?https://ilcorsaronero.xyz/) (`It`) - Popular Italian torrent directory.
-- [yggtorrent.se](https://anonym.to/?https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
 - [Torrents9](https://anonym.to/?https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 - [Zone-Annuaire](https://anonym.to/?https://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 - [Torrent Paradise](https://anonym.to/?https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information apart from the title and seeders.
@@ -2515,6 +2513,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
 - [NineAnime](https://anonym.to/?https://www.nineanime.com/) - Read Free Manga Online, Manga, english Manga, Nine Anime.
+
+**[`^        back to top        ^`](#readme)**
+
+
+## Manga Downloader
+- [Free Manga Downloader (FMD)](https://anonym.to/?https://github.com/fmd-project-team/FMD) - A manga download manager and reader that supports downloading from various websites.
 
 **[`^        back to top        ^`](#readme)**
 

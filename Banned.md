@@ -430,6 +430,7 @@
 
 ### Malvertising
 * [Yes! Movies](https://anonym.to/?https://yesmovies.to) * Watch movies full HD online free. Watch latests episode series online. Over 9000 free streaming movies, documentaries & TV shows.
+* [Idope (Clone)](https://anonym.to/?https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 
 
 ### Reddit
