@@ -406,7 +406,7 @@ Downloads albums in bulk.
 - [TorrDroid](https://anonym.to/?http://play.google.com/store/apps/details?id=intelligems.torrdroid&hl=en) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
 - [Tornado](https://anonym.to/?http://tornado-torrent.gitlab.io/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 - [Tribler](https://anonym.to/?https://www.tribler.org/) - Tribler is a Bittorrent client with an integrated DHT and search engine. Tor-like onion routing and end-to-end encryption can be enabled to allow for anonymous downloads.
-- [qBittorrent](https://anonym.to/?http://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent. You'll find a black theme over [here](https://anonym.to/?https://github.com/jagannatharjun/qbt-the).
+- [qBittorrent](https://anonym.to/?http://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to ÂµTorrent. You'll find a black theme over [here](https://anonym.to/?https://github.com/jagannatharjun/qbt-the).
 
 
 ### Torrent Plugins (e.g. Deluge or qB)
@@ -590,7 +590,7 @@ Downloads albums in bulk.
 
 
 ### IRC Clients
-- [HexChat](https://anonym.to/?http://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
+- [HexChat](https://anonym.to/?http://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat itâ€™s completely free for both Windows and Unix-like systems.
 - [irssi](https://anonym.to/?http://irssi.org/) - Your text mode chatting application since 1999.
 - [Kiwi IRC](https://anonym.to/?http://kiwiirc.com/) - Popular web-based IRC client.
 - [KVIrc](https://anonym.to/?http://github.com/kvirc/KVIrc) - Yet another graphical IRC client.
@@ -649,7 +649,7 @@ Downloads albums in bulk.
 ## JDownloader Scripts & Skins
 - The [Event Scripter Scripts](https://anonym.to/?https://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) are a nice addition to "tweak" your JD with some scripts.
 - [Dark Theme](https://anonym.to/?https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme) - A dark theme for the download manager JDownloader 2.
-- [JD Event Scripter](https://anonym.to/?https://github.com/mgpai/resources) - JDownloader Event Scripter examples.
+- [[JD Event Scripter](https://github.com/mgpai/resources)](https://anonym.to/?https://github.com/mgpai/resources) - JDownloader Event Scripter examples.
 
 **[`^        back to top        ^`](#)**
 

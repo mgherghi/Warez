@@ -94,7 +94,7 @@ TCP Port: 853
 ## Known Repositories
 - [Official Collection](https://anonym.to/?https://forum.f-droid.org/t/known-repositories/721) - Official repo list provided by F-Droid.
 - [IzzyonDroid Collection](https://anonym.to/?https://android.izzysoft.de/applists.php) - One of the biggest private repositories.
-- [](https://anonym.to/?https://github.com/CHEF-KOCH/F-Droid-Repos) - A list of all known F-Droid Repos.
+- [F-Droid Repos](https://anonym.to/?https://github.com/CHEF-KOCH/F-Droid-Repos) - A list of all known F-Droid Repos.
 
 
 ## Android - Mobile App Websites
