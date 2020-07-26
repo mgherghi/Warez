@@ -93,7 +93,7 @@
 
 
 ## eMule
-- [How to use eMule in 2018](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
+- [How to use eMule in 2018](https://anonym.to/?https://archive.is/j1T6o) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 
 **[`^        back to top        ^`](#)**
 
