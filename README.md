@@ -571,6 +571,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [PiracySubreddit Backup (nightly backups)](https://anonym.to/?https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
 - [msdn.hackerc.at](https://anonym.to/?https://msdn.hackerc.at/) - Windows Software dump.
 <!-- markdown-link-check-enable -->
+- [Pokemon Giga Leak I + II](https://anonym.to/?https://docs.google.com/document/d/176d5yx2GtWDudFNQW4mJC8QYE1B4uJdhk0HD45nandU/preview?pru=AAABc6cPnj4*yVul1DG__D4CrbOdlj0cpw) - Source Code, Tools, Games & More.
 **[`^        back to top        ^`](#readme)**
 
 
