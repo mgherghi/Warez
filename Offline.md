@@ -485,6 +485,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 ## Anime
 * MioMio
 * AniTube!
+* [AnimeMovil.com](https://torrentfreak.com/pirate-anime-domains-seized-by-alliance-for-creativity-and-entertainment-200726/)
 
 
 ## eBooks / PDFs
