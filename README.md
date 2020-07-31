@@ -1634,7 +1634,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Soap2day](https://anonym.to/?https://www.soap2day.com/) - Unique design, very nice speeds, HD server with subtitles.
 - [Sokrostream.vip](https://anonym.to/?https://sokrostream.vip/) - (`FR`) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport
 - [Solarmovie](https://anonym.to/?https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
-- [StreamCR](https://anonym.to/?https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
 - [Streams.now.sh](https://anonym.to/?https://streams.now.sh/) - Clean design, fast & smart search, large variety of films, HD quality, from popular groups & hosters.
 - [StreamCouch](https://anonym.to/?https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
 - [Streamcomplete](https://anonym.to/?https://streamcomplet.me/) - (`FR`) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.

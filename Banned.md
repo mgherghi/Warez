@@ -519,3 +519,4 @@
 
 ### Streaming Websites
 * Moxflix.de
+* [StreamCR](https://anonym.to/?https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!
