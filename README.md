@@ -3824,3 +3824,10 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 - [PDF Crowd](https://anonym.to/?https://pdfcrowd.com/) - Create PDF from web pages and HTML documents.
 
 **[`^        back to top        ^`](#readme)**
+
+
+
+## HashCat (Brute-Force) Service
+* [GPUHash](https://anonym.to/?hhttps://gpuhash.me/) - A paid Hashcat services which cracks WPA & bk2crypt.
+
+**[`^        back to top        ^`](#readme)**
