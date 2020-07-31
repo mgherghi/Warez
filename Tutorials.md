@@ -312,7 +312,7 @@
 **[`^        back to top        ^`](#)**
 
 
-## Linux Tutoials & Resources
+##
 * [Linux Journey](https://anonym.to/?https://linuxjourney.com/)
 * [Arch Wiki](https://anonym.to/?https://wiki.archlinux.org/)
 

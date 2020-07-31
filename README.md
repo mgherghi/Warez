@@ -1023,7 +1023,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [btdi](https://anonym.to/?https://btdig.com)
 - [YourBittorrent](https://anonym.to/?https://yourbittorrent.com)
 - [monova](https://anonym.to/?https://monova.org)
-- [idope](https://anonym.to/?https://idope.se)
+- [Idope (Clone)](https://anonym.to/?https://idope.se/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Demonoid](https://anonym.to/?https://www.demonoid.is/)
 - [iTorrents](https://anonym.to/?https://www.itorrents.org)
 
