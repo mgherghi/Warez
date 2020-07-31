@@ -340,12 +340,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Google/Team Drive Indexer
-- [K-E-N-W-A-Y goindex](https://anonym.to/?https://github.com/K-E-N-W-A-Y/goindex)
-- [BhadooDriveIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
-- [krat0si-ndex](https://anonym.to/?https://github.com/420tushar/krat0si-ndex)
+- [gindex-v4](https://anonym.to/?https://github.com/tks18/gindex-v4)
 - [goindex-drive](https://anonym.to/?https://github.com/CHEF-KOCH/goindex-drive)
-- [Bhadoo-Drive-Index](https://anonym.to/?https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index)
-- [OneManager-php](https://anonym.to/?https://github.com/qkqpttgf/OneManager-php)
 - [alx-xlx go-index](https://anonym.to/?https://github.com/alx-xlx/goindex)
 
 **[`^        back to top        ^`](#readme)**
@@ -571,7 +567,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [PiracySubreddit Backup (nightly backups)](https://anonym.to/?https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
 - [msdn.hackerc.at](https://anonym.to/?https://msdn.hackerc.at/) - Windows Software dump.
 <!-- markdown-link-check-enable -->
-- [Pokemon Giga Leak I + II](https://anonym.to/?https://docs.google.com/document/d/176d5yx2GtWDudFNQW4mJC8QYE1B4uJdhk0HD45nandU/preview?pru=AAABc6cPnj4*yVul1DG__D4CrbOdlj0cpw) - Source Code, Tools, Games & More.
+- [](https://anonym.to/?https://docs.google.com/document/d/176d5yx2GtWDudFNQW4mJC8QYE1B4uJdhk0HD45nandU/preview?pru=AAABc6cPnj4*yVul1DG__D4CrbOdlj0cpw) - Source Code, Tools, Games & More.
 **[`^        back to top        ^`](#readme)**
 
 
