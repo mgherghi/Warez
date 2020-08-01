@@ -51,6 +51,7 @@ Download Mp4 and audio formats.
 - [1337X - Subtitle download links to TV and Movie torrents](https://greasyfork.org/en/scripts/29467-1337x-subtitle-download-links-to-tv-and-movie-torrents) - Adds download links for subtitles to every TV and movie torrent on 1337x (addic7ed & subscene).
 - [YouTube to invidious](https://anonym.to/?https://greasyfork.org/en/scripts/375264-YouTube-to-invidious) - Convert YouTube links to invidious ones to protect your privacy.
 - [Yes i'm here, YouTube !](https://anonym.to/?https://greasyfork.org/en/scripts/401348-yes-i-m-here-YouTube/code) - This script disable the auto pausing of YouTube videos if you don't interact with the screen for a certain amount of time. So, this disable the functionality "Video paused. Continue watching?" on YouTube.
+- [IMDb Scout Mod](https://anonym.to/?https://greasyfork.org/en/scripts/407284-imdb-scout-mod) - Add links from IMDb pages to torrent and other sites -- easy downloading from IMDb.
 
 **[`^        back to top        ^`](#)**
 
@@ -68,7 +69,7 @@ Download Mp4 and audio formats.
 - [Twitter Quality Fixer](https://anonym.to/?https://greasyfork.org/en/scripts/399827-video-quality-fixer-for-twitter) - Viw Twitter Videos in the highest available quality.
 - [Clickbait remover for YouTube](https://anonym.to/?https://github.com/pietervanheijningen/clickbait-remover-for-YouTube) - Replace YouTube thumbnails with video thumbnails.
 - [YoutubeNonStop](https://anonym.to/?https://github.com/lawfx/YoutubeNonStop) - Autoclicker for YouTube's latest "feature" - Video paused. Continue watching?
-
+- [TMDB-Torrent-Movie-Database](https://anonym.to/?https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - A chrome extension that allows users to instantly get torrent link of the movie/TV show they are currently browsing on imdb.
 
 **[`^        back to top        ^`](#)**
 
