@@ -35,66 +35,115 @@ excluded_files:
 
 # Any typos we should ignore?
 excluded_words:
-  - AMD
+  - Abby
+  - actions-makepdfs
+  - alamy
   - Allostream
+  - AMD
   - Animés
   - Annuaire
   - Annuaire-telechargement-fr
+  - autres
   - CHEF-KOCH
-  - CODEX
   - Cloudflare
-  - CompucaliTV
+  - CODEX
   - Comédie
+  - complets
+  - CompucaliTV
+  - cybermania
   - Demoscene
+  - des
+  - devbots
+  - différents
   - Discord
+  - Discord
+  - downeu
+  - dpstream
+  - Element
+  - file-sharing
   - Filesharing
   - Filmcomplet
   - Filmz
+  - française
+  - gDrive
   - GDrive
-  - GIndex
   - Genration
+  - GIndex
   - GoIndex
+  - Gooby
   - Good-Old-Downloads
   - Google
   - Google Cloud
+  - gratuit
+  - gratuit
   - Gratuit
+  - gsettings
+  - herbergeurs
   - Horreur
+  - hoster
+  - Idope
   - IGG
   - Intel
   - IzzyonDroid
   - Kabel-Receiver
+  - kkiboeco
   - Kkiste
+  - leecher
+  - les
+  - makepdfs
+  - mangas
   - Matrix
   - Megadede
+  - meme
   - Microsoft
+  - mkrakowitzer
+  - mkvcagez
   - Mobdro
+  - monkrus
   - Movidy
   - MultCloud
-  - NZB
+  - Nachtfalke
   - Netflix
   - Nsane
+  - nVidia
+  - NZB
   - Offline
-  - PCMYMJuegos
   - Papystreaming
+  - PCMYMJuegos
+  - Plex
   - Public
-  - RClone
   - Razor
+  - rClone
+  - RClone
   - Reddit
   - Regarder
+  - remuxes
+  - repacker
   - Riot
+  - rmz
   - Rosco
+  - sélections
+  - Série
   - Serie-Streaming
+  - séries
   - Sokrostream
   - SpaceX
   - Spotify
+  - spyoungtech
   - Steam
   - SteamWorkFixs
   - Streamcomplet
+  - szb
   - SzeneBox
-  - Série
+  - téléchargement
+  - Threema
   - Toorgle
+  - torrenting
   - Trackers
   - Tutorialspoint
+  - typoci
+  - voir
+  - votre
   - Warez
   - Warez-Scene
   - WawaCity
@@ -102,47 +151,8 @@ excluded_words:
   - Wikipedia
   - Wikiserie
   - XpoMusic
-  - ZippyShare
-  - actions-makepdfs
-  - alamy
-  - autres
-  - complets
-  - cybermania
-  - des
-  - devbots
-  - différents
-  - downeu
-  - dpstream
-  - file-sharing
-  - française
-  - gDrive
-  - gratuit
-  - gratuit
-  - gsettings
-  - herbergeurs
-  - hoster
-  - kkiboeco
-  - les
-  - makepdfs
-  - mangas
-  - meme
-  - mkrakowitzer
-  - mkvcagez
-  - monkrus
-  - nVidia
-  - rClone
-  - remuxes
-  - repacker
-  - spyoungtech
-  - szb
-  - sélections
-  - séries
-  - torrenting
-  - typoci
-  - téléchargement
-  - voir
-  - votre
   - yasdl
+  - ZippyShare
 
 
 # Would you like filenames to also be spellchecked?
