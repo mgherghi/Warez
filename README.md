@@ -655,14 +655,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [1 Gabba.net](https://anonym.to/?https://1gabba.pw) - Drum & Bass, Hardcore & Hardstyle, most downloads via Rapidgator.
 - [albumdabster](https://anonym.to/?https://albumdabster.com) - (needs ad-blocker + GeoIP (VPN) block) - Mixtapes & other tapes.
 - [Bestmusik6](https://anonym.to/?https://bestmusik6.org) - (`Tr`) - Türkiye music.
-- [BestDJmix](https://anonym.to/?https://bestdjmix.com) - (`Ger`) - (needs ad-blocker) - German Top 100  albums, download mostly via Turbobit.
+- [BestDJmix](https://anonym.to/?https://bestdjmix.com) - (`Ger`) - (`needs ad-blocker`) - German Top 100  albums, download mostly via Turbobit.
 - [Losssless-music.org](https://anonym.to/?https://lossless-music.org/) - Lossless music for everyone!
 - [Balaton Sound aka per-fect](https://anonym.to/?https://per-fect.nl) - Listen to music on the website or download top 100 playlists.
 - [Mp3va.com](https://anonym.to/?https://www.mp3va.com/browse) - Free Music mostly MP3s.
 - [My Free MP3](https://anonym.to/?https://my-free-mp3.net) - Search engine for MP3s, stream & download is possible.
-- [RnBXclusive](https://anonym.to/?https://rnbxclusive.online) - (needs ad-blocker) - MP3s via OpenLoad & Co.
+- [RnBXclusive](https://anonym.to/?https://rnbxclusive.online) - (`needs ad-blocker`) - MP3s via OpenLoad & Co.
 - [Plixid](https://anonym.to/?https://plixid.com) - Seems to work together with NovaFile, own Facebook page and lots of music.
-- [trapadan](https://anonym.to/?https://www.trapadan.com) - (needs ad-blocker) - Various music.
+- [trapadan](https://anonym.to/?https://www.trapadan.com) - (`needs ad-blocker`) - Various music.
 - [LeakedAlbums](https://anonym.to/?https://leakedalbums.org/) - New album releases.
 - [Alexdang](https://anonym.to/?https://alexdang.info/) - MP3 & lossless music.
 - [mp3ogg](https://anonym.to/?https://mp3ogg.ru/) - (`GeoIP check`) - (`RU`) - Russian music, Electronic, Pop, Rock, Metal, Jazz & Charts you name it!
@@ -2601,8 +2601,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Streaming Apps
-- [Anime Molecules](https://anonym.to/?https://animemolecules.com/) - (needs ad-blocker) - Yet another anime streaming app.
-- [Anime Glare](https://anonym.to/?https://animeglare.xyz/) - (needs ad-blocker) - Let's you stream any anime for free.
+- [Anime Molecules](https://anonym.to/?https://animemolecules.com/) - (`needs ad-blocker`) - Yet another anime streaming app.
+- [Anime Glare v3](https://anonym.to/?https://animeglare.xyz/) - (`needs ad-blocker`) - Let's you stream any anime for free.
 - [Anime Vibe](https://anonym.to/?https://animevibe.tv/) - Watch Anime Online Free HD both Subbed and Dubbed on AnimeVibe without Advertisements!
 - [AOS TV](https://anonym.to/?https://aostv.app/) - Watch More than 1000+ Live TV Channels free on your Android Phone from across the world.
 - [Apollo TV](https://anonym.to/?https://apollotv.xyz/) - Open-source aggregator for various online video content.
@@ -2999,7 +2999,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [KissCommunity Discord](https://anonym.to/?https://discordapp.com/invite/eCzUxNB) - Community based Discord channel.
 - [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server. The Wiki open source Wiki can be found [here](https://anonym.to/?https://notabug.org/nbatman/freemediaheckyeah/wiki/_pages), the Reddit Wiki is [here](https://anonym.to/?https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index).
 - [TopNow.se](https://anonym.to/?https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
-(https://anonym.to/?https://discord.gg/fEq8Jxy) - Discord Server dedicated to hord Music.
+- [Music Hoarders](https://anonym.to/?https://discord.gg/fEq8Jxy) - Discord Server dedicated to hord Music.
+- [AnimeGlare v3](https://anonym.to/?https://discord.gg/zU27Ugs) - Official AnimeGlare V3 Discord Server.
 
 **[`^        back to top        ^`](#readme)**
 
