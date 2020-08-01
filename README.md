@@ -1285,6 +1285,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+### Landr sample packs
+- [Landr sample packs for free](https://hidden-fjord-93329.herokuapp.com/) - If you enter the link to a sample pack, chart or collection, it will download all of the samples and give you a link to a .zip file.
+
+**[`^        back to top        ^`](#readme)**
+
+
 ### The-Eye
 - [/public/Piracy/](https://anonym.to/?https://the-eye.eu/public/Piracy/)
 - [exodos.the-eye.eu](https://anonym.to/?https://exodos.the-eye.eu/)
