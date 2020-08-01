@@ -157,13 +157,13 @@ TCP Port: 853
 **[`^        back to top        ^`](#)**
 
 
-### YouTube-DL for Android
-- [YouTube-DL](https://apt.izzysoft.de/fdroid/repo/fr.odrevet.youtube_dl_kivy.youtube_dl_kivy_721201.apk)
+###
+- [YouTube-DL](https://apt.izzysoft.de/fdroid/repo/fr.odrevet.youtube_dl_kivy.youtube_dl_kivy_721201.apk), the Repo can be found [here](https://apt.izzysoft.de/fdroid/repo/fr.odrevet.youtube_dl_kivy.youtube_dl_kivy/)
 
 **[`^        back to top        ^`](#)**
 
 
-### Android License Verification Patcher
+## Android License Verification Patcher
 - [LuckyPatcher](https://anonym.to/?https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
 - [Jasi Patcher (also known as Uret Patcher)](https://anonym.to/?https://jaspreetsingh.store/jasi-patcher/) + [[ToolKit](https://anonym.to/?https://jaspreetsingh.store/index.php/jasi-toolkit/)] - Patching tool for android intended to bypass restrictions in the apps & games, it includes custom patches, support patches, universal patches, offline emulation, spoof, hooks, tools and utilities.
 
