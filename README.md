@@ -848,6 +848,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents.csv](https://anonym.to/?https://torrents-csv.ml/) - An [open source](https://anonym.to/?https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [Torznab](https://anonym.to/?https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
 - [ZBIGZ](https://anonym.to/?https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
+- [torrentinim](https://anonym.to/?hhttps://github.com/sergiotapia/torrentinim) - Tiny torrent web crawler and search engine.
 
 **[`^        back to top        ^`](#readme)**
 
