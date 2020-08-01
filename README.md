@@ -1347,7 +1347,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [0DayDown](https://anonym.to/?https://www.0daydown.com/) (`CN/EN`)  MacOS, Music & other links (works with JDownloader).
 - [3dl.tv](https://anonym.to/?https://3dl.tv/) - (`GER`) - Music, Movies, TV Shows, apps & more.
 - [AdiT-HD](https://anonym.to/?https://adit-hd.com/) - Direct movie download database.
-- [AppNee Freeware Group](https://anonym.to/?https://appnee.com/) - Massive DDL site, eBooks, Programs, Games, Operating Systems, Adobe & more.
 - [Audioz](https://anonym.to/?https://audioz.download/) - Provides Audio related software like Cubase etc.
 - [AvaxHome](https://anonym.to/?https://avxhm.se) - Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
 - [AVXHome](https://avxhome.se/) - Best of eBooks, Software, Mag & more.
