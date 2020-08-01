@@ -12,6 +12,7 @@
 - C000005 - Short for 0XC000005.
 - CODEX
 - CONSPIR4CY also known as CPY
+- DIMENSION
 - DEViANCE
 - D-Bug
 - DrinkOrDie
@@ -254,3 +255,9 @@
 - Kingdai
 - SPLATTER
 - EXCRETE
+
+
+
+## ToDo
+
+Sort cracking groups and split them from releaser. Seperate categories, movies, games etc.

@@ -95,6 +95,7 @@ TCP Port: 853
 - [Official Collection](https://anonym.to/?https://forum.f-droid.org/t/known-repositories/721) - Official repo list provided by F-Droid.
 - [IzzyonDroid Collection](https://anonym.to/?https://android.izzysoft.de/applists.php) - One of the biggest private repositories.
 - [F-Droid Repos](https://anonym.to/?https://github.com/CHEF-KOCH/F-Droid-Repos) - A list of all known F-Droid Repos.
+- [Overview of all F-Droid Repos](https://anonym.to/?https://github.com/CHEF-KOCH/F-Droid-Repos)
 
 
 ## Android - Mobile App Websites
@@ -152,6 +153,12 @@ TCP Port: 853
 
 ## Android calling apps
 - [dPhone](https://anonym.to/?https://dphone.app/) - Claims to be the most secure calling app.
+
+**[`^        back to top        ^`](#)**
+
+
+### YouTube-DL for Android
+- [YouTube-DL](https://apt.izzysoft.de/fdroid/repo/fr.odrevet.youtube_dl_kivy.youtube_dl_kivy_721201.apk)
 
 **[`^        back to top        ^`](#)**
 
