@@ -1719,6 +1719,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Stremio](https://anonym.to/?https://www.stremio.com/) - Multi-platform video content aggregator with a comprehensive add-on system for extending functionality
 - [Viewscreen](https://anonym.to/?https://github.com/viewscreen/viewscreen) - A personal video streaming server.
 - [Plex](https://anonym.to/?https://www.plex.tv/media-server-downloads/) - Free movies and TV plus all your personal media libraries on every device.
+- [Gooby - Infinite Media Cloud Server](https://anonym.to/?https://github.com/TechPerplexed/Gooby) - Gooby: The ultimate infinite Plex media server using a VPS and Cloud service
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2671,15 +2672,15 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Viooz](https://anonym.to/?https://vioozgo.org/) - (`RU`) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 - [Simplestream](https://anonym.to/?https://simplestream.in/) - A huge Database for movies and TV Shows.
 - [MXPlayer.in](https://anonym.to/?https://www.mxplayer.in/movies) - Movies and Databases regarding movies, tv series and other shows.
-- [](https://anonym.to/?https://rmz.cr/) - Movies and TV shows.
+- [rmz](https://anonym.to/?https://rmz.cr/) - Movies and TV shows.
 
 **[`^        back to top        ^`](#readme)**
 
 
 ### Navigation Software
-- [China Rns](https://anonym.to/?https://www.china-rns.com/forum) - (Ger/EN) - German/English forum around navigation software & updates.
+- [China Rns](https://anonym.to/?https://www.china-rns.com/forum) - (`Ger/EN`) - German/English forum around navigation software & updates.
 - [Digital Eliteboard](https://anonym.to/?https://www.digital-eliteboard.com/forums) - (`GER`) - Help forum around various topics and provides some tutorials.
-- [Nachtfalke](https://www.nachtfalke.biz/index.php) - (Ger/EN) - Another big forum to discuss navigation software related stuff.
+- [Nachtfalke](https://www.nachtfalke.biz/index.php) - (`Ger/EN`) - Another big forum to discuss navigation software related stuff.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3848,4 +3849,12 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 - [JetBrains Telegram cracking Group](https://anonym.to/?https://t.me/jetbrains_tools_cracks) - A Telegram Group for latest JetBrains cracks.
 
 **[`^        back to top        ^`](#readme)**
+
+
+## Software Patcher
+- [diablo2oo2's Universal Patcher [dUP]](https://anonym.to/?https://github.com/anomous/diablo2oo2-s-Universal-Patcher-dUP-Windows)
+- [AT4RE Patcher](https://anonym.to/?https://webscene.ir/distro/AT4RE/Tools)
+
+**[`^        back to top        ^`](#readme)*
+
 
