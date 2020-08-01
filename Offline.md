@@ -679,3 +679,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 
 ### Team Drive (stopped giving free TDs)
 * [Google Team Drive (CCSF)](https://anonym.to/?https://teamdrive.mfoxx.workers.dev/) * Create Google Team Drive where you can share your files with others.
+
+
+### Share Drives (Team Drive)
+* https://seedbox.slbots.workers.dev/

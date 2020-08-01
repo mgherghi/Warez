@@ -268,7 +268,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-## Share Drives (better known as Team Drives)
+## Creating Share Drives (better known as Team Drives)
 - [Create Free TeamDrive](https://anonym.to/?https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
 - [GDIndex](https://anonym.to/?https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://anonym.to/?https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
@@ -335,6 +335,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [five.ilysiaticonaracemirt](https://anonym.to/?https://five.ilysiaticonaracemirt.workers.dev/0:/) - DVDs, Movies, TV Shows, Animes, eBooks, Courses.
 - [Torrent Leech](https://anonym.to/?https://torrentleech.torrentleech-gdrive.workers.dev/) - Movies, DVDs, TV Show
 - [Mirror Bot 2](https://anonym.to/?https://mirrorbot.sarutobi.workers.dev/) - Mainly TV Shows.
+- [klprojects](https://anonym.to/?https://td.klprojects.tech/) - Movies & more.
+- [roshans mirror](https://anonym.to/?hhttps://drive.roshansmirror.workers.dev/) - Movies, Series, eBooks etc.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1023,7 +1025,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [btdi](https://anonym.to/?https://btdig.com)
 - [YourBittorrent](https://anonym.to/?https://yourbittorrent.com)
 - [monova](https://anonym.to/?https://monova.org)
-- [Idope (Clone)](https://anonym.to/?https://idope.se/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
+- [Idope (Clone)](https://anonym.to/?https://idope.se/) - [](https://anonym.to/?)iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Demonoid](https://anonym.to/?https://www.demonoid.is/)
 - [iTorrents](https://anonym.to/?https://www.itorrents.org)
 
@@ -1543,7 +1545,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [/r/KissCommunitySupport](https://anonym.to/?https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
 - [FMovies](https://anonym.to/?https://fmovies.wtf/) - Alternative to KissCartoon and also includes TV shows and movies.
 - [Full Episodes](https://anonym.to/?http://fullepisodes.biz/) - (`insecure`) - A alternative to WatchSeries.
-- [animepahe](https://anonym.to/?https://animepahe.ru/)
+- [animepahe](https://anonym.to/?https://animepahe.ru/) - (`RU`) - Russian anime streaming site.
+- [Mywatchseries.to](https://anonym.to/?http://www.mywatchseries.to/) - Anime streaming, tv-series.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3127,7 +3130,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Decentralized local GIT
 - [git-ssb (Git over Secure-Scuttlebutt)](https://anonym.to/?https://github.com/noffle/git-ssb-intro) - Learn git-ssb: a decentralized GitHub alternative, you could also [combine it with Tor](https://anonym.to/?https://handbook.scuttlebutt.nz/faq/misc/tor).
 - [Radicle](https://anonym.to/?https://www.radicle.xyz/) - A decentralized alternative to GitHub built on IPFS.
-- [Mango](https://anonym.to/?https://github.com/axic/mango) - Cmbines Ethereum with IPFS or Swarm as a backend for Git.
+- [Mango](https://anonym.to/?https://github.com/axic/mango) - Combines Ethereum with IPFS or Swarm as a backend for Git.
 
 **[`^        back to top        ^`](#readme)**
 
