@@ -109,6 +109,7 @@
 ## Torrent DMCA prevention
 - Open QB advance settings, and bind the network interface to your VPN network adapter (TAP) - e.g. PIA/Proton [check this example](https://anonym.to/?https://i.imgur.com/pD7atey.jpg).
 - [ANONYMOUS TORRENTING WITH I2P-SNARK: USING SNARK](https://anonym.to/?https://privacytutorials.wordpress.com/2015/01/05/anonymous-torrenting-with-i2p-snark-using-snark/)
+- [How to Download Torrents with Tor](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/i0jhl3/tutorial_how_to_download_torrents_with_tor/)
 
 **[`^        back to top        ^`](#)**
 
