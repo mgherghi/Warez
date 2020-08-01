@@ -848,7 +848,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents.csv](https://anonym.to/?https://torrents-csv.ml/) - An [open source](https://anonym.to/?https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [Torznab](https://anonym.to/?https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
 - [ZBIGZ](https://anonym.to/?https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
-- [torrentinim](https://anonym.to/?hhttps://github.com/sergiotapia/torrentinim) - Tiny torrent web crawler and search engine.
+- [torrentini](https://anonym.to/?hhttps://github.com/sergiotapia/torrentinim) - Tiny torrent web crawler and search engine.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2786,6 +2786,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [tuga.tv](https://anonym.to/?https://tuga.tv/) - Sistema PLEX - Cinema + Netflix + HBO + PrimeVideo + Disney + HULU
 - [mrpiracy](https://anonym.to/?https://v1.mrpiracy.xyz/) - (`GeoIP block`) - Lots of movies and TV shows.
 - [chiasenhac](https://anonym.to/?http://old.chiasenhac.vn/)
+- [Reboot Tube](https://anonym.to/?https://reboot.tube/) - Watch animes, movies and TV-Series with the community.
 
 **[`^        back to top        ^`](#readme)**
 
