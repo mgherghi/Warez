@@ -3835,8 +3835,15 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 **[`^        back to top        ^`](#readme)**
 
 
-
 ## HashCat (Brute-Force) Service
-* [GPUHash](https://anonym.to/?hhttps://gpuhash.me/) - A paid Hashcat services which cracks WPA & bk2crypt.
+- [GPUHash](https://anonym.to/?https://gpuhash.me/) - A paid Hashcat services which cracks WPA & bk2crypt.
 
 **[`^        back to top        ^`](#readme)**
+
+
+## JetBrains Solution
+- [zhile.io](https://anonym.to/?https://zhile.io/) - A JetBrains dedicated site for cracks etc.
+- [JetBrains Telegram cracking Group](https://anonym.to/?https://t.me/jetbrains_tools_cracks) - A Telegram Group for latest JetBrains cracks.
+
+**[`^        back to top        ^`](#readme)**
+
