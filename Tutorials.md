@@ -312,8 +312,15 @@
 **[`^        back to top        ^`](#)**
 
 
-##
+## Linux Resources & Guidance
 * [Linux Journey](https://anonym.to/?https://linuxjourney.com/)
 * [Arch Wiki](https://anonym.to/?https://wiki.archlinux.org/)
+
+**[`^        back to top        ^`](#)**
+
+
+## madVR Guides
+* [madVR and Animes](https://anonym.to/?https://anime.my/tutorials/madvr/) - A madVR Guide how to watch Animes in best quality.
+* [MadVR Expert Guide](https://anonym.to/?https://wiki.jriver.com/index.php/MadVR_Expert_Guide) - An advance guide how to use madVR.
 
 **[`^        back to top        ^`](#)**
