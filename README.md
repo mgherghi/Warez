@@ -336,14 +336,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrent Leech](https://anonym.to/?https://torrentleech.torrentleech-gdrive.workers.dev/) - Movies, DVDs, TV Show
 - [Mirror Bot 2](https://anonym.to/?https://mirrorbot.sarutobi.workers.dev/) - Mainly TV Shows.
 - [klprojects](https://anonym.to/?https://td.klprojects.tech/) - Movies & more.
-- [roshans mirror](https://anonym.to/?hhttps://drive.roshansmirror.workers.dev/) - Movies, Series, eBooks etc.
+- [Roshans mirror](https://anonym.to/?hhttps://drive.roshansmirror.workers.dev/) - Movies, Series, eBooks etc.
 
 **[`^        back to top        ^`](#readme)**
 
 
 ## Google/Team Drive Indexer
 - [gindex-v4](https://anonym.to/?https://github.com/tks18/gindex-v4[](https://github.com/tks18/gindex-v4))
-- [goindex-drive](https://anonym.to/?https://github.com/CHEF-KOCH/goindex-drive)
+- [CHEF-KOCH's gindex-v4](https://anonym.to/?https://github.com/CHEF-KOCH/gindex-v4)
 - [alx-xlx go-index](https://anonym.to/?https://github.com/alx-xlx/goindex)
 
 **[`^        back to top        ^`](#readme)**
@@ -3545,7 +3545,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [DTube](https://anonym.to/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
 - [Hooktube](https://anonym.to/?https://hooktube.com/) - Similar to invidio.us.
 - [Minds](https://anonym.to/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
-- [INVIDIOUS](https://anonym.to/?https://invidio.us/) - Open source alternative to YouTube.
 - [PeerTube](https://anonym.to/?https://joinpeertube.org/) - A decentralized video hosting network, based on free/libre software.
 - [Vimeo](https://anonym.to/?https://vimeo.com/) - Alternative platform to YouTube.
 - [YouTube MP3 Rip](https://anonym.to/?https://ytmp3.cc/en9/) - Download YouTube music & videos as .MP3 files without registration.
