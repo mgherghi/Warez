@@ -320,7 +320,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - Software and Movies.
 - [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
 - [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shows.
-- [bot14](https://anonym.to/?hhttps://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.
+- [bot14](https://anonym.to/?https://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.
 - [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
 - [tor.uploadbot](https://anonym.to/?https://tor.uploadbot.workers.dev/) - Protected Share Drive, but you can reveal the download links.
 - [Taiwan Primary School](https://anonym.to/?https://gd.404edu.workers.dev/)
@@ -336,7 +336,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrent Leech](https://anonym.to/?https://torrentleech.torrentleech-gdrive.workers.dev/) - Movies, DVDs, TV Show
 - [Mirror Bot 2](https://anonym.to/?https://mirrorbot.sarutobi.workers.dev/) - Mainly TV Shows.
 - [klprojects](https://anonym.to/?https://td.klprojects.tech/) - Movies & more.
-- [Roshans mirror](https://anonym.to/?hhttps://drive.roshansmirror.workers.dev/) - Movies, Series, eBooks etc.
+- [Roshans mirror](https://anonym.to/?https://drive.roshansmirror.workers.dev/) - Movies, Series, eBooks etc.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -849,7 +849,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents.csv](https://anonym.to/?https://torrents-csv.ml/) - An [open source](https://anonym.to/?https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [Torznab](https://anonym.to/?https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
 - [ZBIGZ](https://anonym.to/?https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
-- [torrentini](https://anonym.to/?hhttps://github.com/sergiotapia/torrentinim) - Tiny torrent web crawler and search engine.
+- [torrentini](https://anonym.to/?https://github.com/sergiotapia/torrentinim) - Tiny torrent web crawler and search engine.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1035,7 +1035,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Torrent Invites
-- [TorrentInvites](https://anonym.to/?hhttps://torrentinvites.org/) - Public platform to share and get invites.
+- [TorrentInvites](https://anonym.to/?https://torrentinvites.org/) - Public platform to share and get invites.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2419,7 +2419,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Reddit Downloader
 - [RippSave](https://anonym.to/?https://ripsave.com/) - Download videos with audo from various platforms.
-- [viddit](hhttps://anonym.to/?ttps://viddit.red/) - Download reddit videos incl. audio.
+- [viddit](https://anonym.to/?ttps://viddit.red/) - Download reddit videos incl. audio.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2882,6 +2882,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [hdmovie8](https://anonym.to/?https://hdmovie8.com/)
 - [hindimoviesonline](https://anonym.to/?https://www.hindimoviesonline.club/) - (`Hindi`)
 - [B.net Index Server](https://anonym.to/?http://server1.ftpbd.net/) - Movies, TV shows, PC Games, Android Gamess & Console Games.
+- [FBox](https://anonym.to/?https://fbox.to/) - Watch Online Movies For Free, fbox allows you watch any movie, show in HD without paying a dime, you can also download any movie you want for offline watching.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3486,7 +3487,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Seam Workshop
-(http://steamworkshop.download/) - Download audio and video file from steam who are normally behind a paywall.
+- [Steam Workshop](https://anonym.to/?http://steamworkshop.download/) - Download audio and video file from steam who are normally behind a paywall.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3497,7 +3498,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 ## [RapidLeech](https://anonym.to/?https://github.com/Th3-822/rapidleech) Transload Websites
-
 - [leech.softaz](https://anonym.to/?https://leech.softaz.net)
 - [madahi313](https://anonym.to/?https://madahi313.ir/leech/)
 - [rapidleech.gq](https://anonym.to/?https://rapidleech.gq/)
