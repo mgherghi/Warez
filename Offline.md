@@ -529,6 +529,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 * Firedrop.com
 * reep.io
 * dot.tk
+* [DBREE](https://anonym.to/?https://dbr.ee/) - (`free/paid`)
 
 
 ## Cracking Groups

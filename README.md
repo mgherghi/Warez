@@ -849,7 +849,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Torrents.csv](https://anonym.to/?https://torrents-csv.ml/) - An [open source](https://anonym.to/?https://gitlab.com/dessalines/torrents.csv) - collaborative repository of torrents, consisting of a single, searchable torrents.csv.
 - [Torznab](https://anonym.to/?https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) - Newznab-like API offering a standardized recent/search API for both TV and movies.
 - [ZBIGZ](https://anonym.to/?https://zbigz.com/) - Zbigz is a very good solution if your PC or laptop is locked by your ISP, it allows you to download torrents via Browser.
-- [torrentini](https://anonym.to/?https://github.com/sergiotapia/torrentinim) - Tiny torrent web crawler and search engine.
+- [torrentinim](https://anonym.to/?https://github.com/sergiotapia/torrentinim) - Tiny torrent web crawler and search engine.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1151,7 +1151,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Filestream.me](https://anonym.to/?https://filestream.me/) - (`needs VPN to visit the page`) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
 - [Furk](https://anonym.to/?https://www.furk.net/) - needs invite - Offers an unlimited storage time for fetched file as long as the file is from a public sources such as the Pirate Bay.
 - [Seedr](https://anonym.to/?https://seedr.cc/) + ([mirror](https://anonym.to/?https://streamza.com/)) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
-- [Streamza](https://anonym.to/?https://streamza.com/)
+- [Streamza](https://anonym.to/?https://streamza.com/) - Streamza is a BitTorrent service that offers access to gazillions of torrents on your phone, tablet, desktop or TV.
 - [ZBIgZ](https://anonym.to/?https://www.zbigz.com/) - ZBIGZ anonymous torrent cloud client #1.
 - [Premiumize](https://anonym.to/?https://www.premiumize.me/) - All in One Cloud-Downloading, Download manager and Cloud Storage directly in your browser.
 
@@ -1283,6 +1283,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Media Database Scraper
 - [Mwoffliner](https://anonym.to/?https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem.
+
+**[`^        back to top        ^`](#readme)**
+
+
+### Send Media Files (Firefox Send alternatives)
+- [SnapDrop](https://anonym.to/?https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
+- [PushBullet](https://anonym.to/?hhttps://www.pushbullet.com/) - Share files acrosss devices.
+- [KDE Connect](https://anonym.to/?https://community.kde.org/KDEConnect) + [Wireguard Guide](https://anonym.to/?hhttps://www.reddit.com/r/kde/comments/8d3qra/you_can_use_kde_connect_over_the_internet_with/) - KDE Connect is a project that enables all your devices to communicate with each other.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1452,20 +1460,20 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Free & File Hoster
-- [4shared](https://anonym.to/?https://www.4shared.com/) (_privacy concerns_)
-- [DBREE](https://anonym.to/?https://dbr.ee/)
+- [DBREE](https://anonym.to/?https://dbr.ee/) - (`free/paid`)
 - [K!M](https://anonym.to/?https://k.im/) - Might replaces the original Megaupload (_one day_).
-- [LinkSnappy](https://anonym.to/?https://linksnappy.com/)
-- [Mediafire](https://anonym.to/?https://www.mediafire.com/)
-- [Mega.nz](https://anonym.to/?https://mega.nz/) (_privacy concerns_)
-- [PutLocker](https://anonym.to/?https://www5.putlockertv.to/)
-- [RapidGator](https://anonym.to/?https://rapidgator.net/)
-- [Sendspace](https://anonym.to/?https://www.sendspace.com/)
-- [Uploaded](https://anonym.to/?https://uploaded.net/)
-- [Zippyshare](https://anonym.to/?https://www.zippyshare.com/) - (free/paid) - (needs proxy/VPN) - GeoIP blocked in the UK.
+- [LinkSnappy](https://anonym.to/?https://linksnappy.com/) - (`free/paid`)
+- [Mediafire](https://anonym.to/?https://www.mediafire.com/) - (`free/paid`)
+- [Mega.nz](https://anonym.to/?https://mega.nz/) - (`free/paid`) - (_privacy concerns_)
+- [PutLocker](https://anonym.to/?https://www5.putlockertv.to/) - (`free/paid`)
+- [RapidGator](https://anonym.to/?https://rapidgator.net/) - (`free/paid`)
+- [Sendspace](https://anonym.to/?https://www.sendspace.com/) - (`free/paid`)
+- [Uploaded](https://anonym.to/?https://uploaded.net/) - (`free/paid`)
+- [Zippyshare](https://anonym.to/?https://www.zippyshare.com/) - (`free/paid`) - (`needs proxy/VPN`) - GeoIP blocked in the UK.
+- [nopy](https://anonym.to/?https://nopy.to/) -  Provides free, clean, simple & high speed file hosting to developers, creators, makers and trend setters. no limits, no logs, no ads.
 
 
-### Free & File Hoster (give no shits about DMCA)
+### Free & File Hoster (who give no shits about DMCA)
 - [LetsUpload](https://anonym.to/?https://letsupload.co/) - Created around the times when Mega firstly appeared, one of the big stars under the trusted hosters. They do not comply with DMCA.
 - [Racaty.net](https://anonym.to/?https://racaty.net/) - Store, Sync & Share your own data securely.
 
