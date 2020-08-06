@@ -3551,6 +3551,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Documentary Addict](https://anonym.to/?https://documentaryaddict.com/) - A website which scrapes Youtube for documentaries.
 - [Dailymotion](https://anonym.to/?https://www.dailymotion.com/)
 - [DTube](https://anonym.to/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
+- [Invidious Instances (Official)](https://anonym.to/?https://instances.invidio.us/) - Open source alternative to YouTube.
 - [Hooktube](https://anonym.to/?https://hooktube.com/) - Similar to invidio.us.
 - [Minds](https://anonym.to/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
 - [PeerTube](https://anonym.to/?https://joinpeertube.org/) - A decentralized video hosting network, based on free/libre software.
