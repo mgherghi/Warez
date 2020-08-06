@@ -425,6 +425,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Parrot](https://anonym.to/?https://www.parrotsec.org/) - Distribution similar to Kali, with multiple architecture.
 - [PentestBox](https://anonym.to/?https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
 - [The Pentesters Framework](https://anonym.to/?https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
+- [WiFiSlax](https://anonym.to/?https://www.wifislax.com/) - A specialized distro for wireless penetration testing.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -594,6 +595,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mailbox](https://anonym.to/?https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [Posteo](https://anonym.to/?https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](https://anonym.to/?https://protonmail.com/) - Secure Email Based made in Switzerland.
+- [Tutanota](https://anonym.to/?https://tutanota.com/) - Secure email for everybody. 
 
 ### Self-hostable email alias/forwarding service
 - [Simple Login](https://anonym.to/?https://github.com/simple-login/app) - Email alias/forwarding and identity provider service.
@@ -3551,6 +3553,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Documentary Addict](https://anonym.to/?https://documentaryaddict.com/) - A website which scrapes Youtube for documentaries.
 - [Dailymotion](https://anonym.to/?https://www.dailymotion.com/)
 - [DTube](https://anonym.to/?https://d.tube) - D.Tube aims to become an alternative to YouTube that allows you to watch or upload videos on IPFS and share or comment about it on STEEM.
+- [Invidious Instances (Official)](https://anonym.to/?https://instances.invidio.us/) - Open source alternative to YouTube.
 - [Hooktube](https://anonym.to/?https://hooktube.com/) - Similar to invidio.us.
 - [Minds](https://anonym.to/?https://www.minds.com) - Minds is a open source and decentralized platform for Internet freedom.
 - [PeerTube](https://anonym.to/?https://joinpeertube.org/) - A decentralized video hosting network, based on free/libre software.
