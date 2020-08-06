@@ -595,6 +595,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mailbox](https://anonym.to/?https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [Posteo](https://anonym.to/?https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](https://anonym.to/?https://protonmail.com/) - Secure Email Based made in Switzerland.
+- [Tutanota](https://anonym.to/?https://tutanota.com/) - Secure email for everybody. 
 
 ### Self-hostable email alias/forwarding service
 - [Simple Login](https://anonym.to/?https://github.com/simple-login/app) - Email alias/forwarding and identity provider service.
