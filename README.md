@@ -425,6 +425,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Parrot](https://anonym.to/?https://www.parrotsec.org/) - Distribution similar to Kali, with multiple architecture.
 - [PentestBox](https://anonym.to/?https://pentestbox.org/) - Opensource pre-configured portable penetration testing environment for Windows OS.
 - [The Pentesters Framework](https://anonym.to/?https://github.com/trustedsec/ptf) - Distro organized around the Penetration Testing Execution Standard (PTES), providing a curated collection of utilities that eliminates often unused toolchains.
+- [WiFiSlax](https://anonym.to/?https://www.wifislax.com/) - A specialized distro for wireless penetration testing.
 
 **[`^        back to top        ^`](#readme)**
 
