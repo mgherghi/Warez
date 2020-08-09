@@ -2531,7 +2531,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
 - [NineAnime](https://anonym.to/?https://www.nineanime.com/) - Read Free Manga Online, Manga, english Manga, Nine Anime.
 - [ManagaCrush](https://anonym.to/?https://mangacrush.com/) - Mangacrush is the best website to read Manga for free online. In addition, you can also watch the latest anime series for free on this website.
-
+- [Manga Panda](https://anonym.to/?http://www.mangapanda.com/) - Mangacrush also offers the Manga Community Forum, where you can find many Manga lovers who like you.
 
 **[`^        back to top        ^`](#readme)**
 
