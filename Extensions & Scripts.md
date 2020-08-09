@@ -70,6 +70,7 @@ Download Mp4 and audio formats.
 - [Clickbait remover for YouTube](https://anonym.to/?https://github.com/pietervanheijningen/clickbait-remover-for-YouTube) - Replace YouTube thumbnails with video thumbnails.
 - [YoutubeNonStop](https://anonym.to/?https://github.com/lawfx/YoutubeNonStop) - Autoclicker for YouTube's latest "feature" - Video paused. Continue watching?
 - [TMDB-Torrent-Movie-Database](https://anonym.to/?https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - A chrome extension that allows users to instantly get torrent link of the movie/TV show they are currently browsing on imdb.
+- [IndicateTLS](https://anonym.to/?https://github.com/jannispinter/indicatetls) - Addon for Mozilla Firefox that displays the TLS protocol version of websites you visit.
 
 **[`^        back to top        ^`](#)**
 
