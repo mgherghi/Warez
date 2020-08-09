@@ -2535,7 +2535,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Manga Park](https://anonym.to/?https://mangapark.net/) - Manga Park is another top comic website for free online reading of comics.
 - [BATO.TO](https://anonym.to/?https://bato.to/) - You can find Manga groups and forums on this website. You can also chat with other users through this Manga website.
 - [Manga Kakalot](https://anonym.to/?https://mangakakalot.com/) - Manga Kakalot is also the best website for reading high quality Manga online for free. This website offers a variety of the latest high quality Manga reading.
-
+- [Zing BOX](https://anonym.to/?https://zingbox-manga.en.uptodown.com/android) -  Zing Box is the best Manga website for free online reading of Mangas.
 
 
 **[`^        back to top        ^`](#readme)**
