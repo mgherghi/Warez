@@ -115,7 +115,6 @@ Downloads albums in bulk.
 ## Deepfake
 - [DeepFaceLab](https://anonym.to/?https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos.
 
-
 **[`^        back to top        ^`](#)**
 
 
@@ -797,7 +796,7 @@ Downloads albums in bulk.
 
 ## Windows Hardening Tools
 - [Hard_Configurator](https://anonym.to/?http://hard-configurator.com/) - GUI to manage Software Restriction Policy (SRP) and harden Windows.
-- [hardentools](https://anonym.to/?https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.
+- [Hardentools](https://anonym.to/?https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.
 
 **[`^        back to top        ^`](#)**
 

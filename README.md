@@ -2987,6 +2987,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Discord alternatives (without logging or telemetry)
 - [Ripcord](https://anonym.to/?https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
+- [DiscordClient](https://anonym.to/?https://github.com/tenable/DiscordClient) - Minimal Discord Client capable of initiating audio/video calls and sending data.
+- [DiscordDataMining](https://anonym.to/?https://github.com/DJScias/Discord-Datamining) - Datamining Discord changes from the js files.
 
 
 ### Discord Client (Mods)
