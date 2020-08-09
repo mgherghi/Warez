@@ -595,7 +595,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mailbox](https://anonym.to/?https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
 - [Posteo](https://anonym.to/?https://posteo.de/) - Email green, secure, simple and ad-free!
 - [ProtonMail](https://anonym.to/?https://protonmail.com/) - Secure Email Based made in Switzerland.
-- [Tutanota](https://anonym.to/?https://tutanota.com/) - Secure email for everybody. 
+- [Tutanota](https://anonym.to/?https://tutanota.com/) - Secure email for everybody.
 
 ### Self-hostable email alias/forwarding service
 - [Simple Login](https://anonym.to/?https://github.com/simple-login/app) - Email alias/forwarding and identity provider service.
@@ -1291,14 +1291,14 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Send Media Files (Firefox Send alternatives)
 - [SnapDrop](https://anonym.to/?https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
-- [PushBullet](https://anonym.to/?hhttps://www.pushbullet.com/) - Share files acrosss devices.
-- [KDE Connect](https://anonym.to/?https://community.kde.org/KDEConnect) + [Wireguard Guide](https://anonym.to/?hhttps://www.reddit.com/r/kde/comments/8d3qra/you_can_use_kde_connect_over_the_internet_with/) - KDE Connect is a project that enables all your devices to communicate with each other.
+- [PushBullet](https://anonym.to/?https://www.pushbullet.com/) - Share files acrosss devices.
+- [KDE Connect](https://anonym.to/?https://community.kde.org/KDEConnect) + [Wireguard Guide](https://anonym.to/?https://www.reddit.com/r/kde/comments/8d3qra/you_can_use_kde_connect_over_the_internet_with/) - KDE Connect is a project that enables all your devices to communicate with each other.
 
 **[`^        back to top        ^`](#readme)**
 
 
 ### Landr sample packs
-- [Landr sample packs for free](https://hidden-fjord-93329.herokuapp.com/) - If you enter the link to a sample pack, chart or collection, it will download all of the samples and give you a link to a .zip file.
+- [Landr sample packs for free](https://anonym.to/?https://hidden-fjord-93329.herokuapp.com/) - If you enter the link to a sample pack, chart or collection, it will download all of the samples and give you a link to a .zip file.
 
 **[`^        back to top        ^`](#readme)**
 

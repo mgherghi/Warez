@@ -649,7 +649,7 @@ Downloads albums in bulk.
 ## JDownloader Scripts & Skins
 - The [Event Scripter Scripts](https://anonym.to/?https://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) are a nice addition to "tweak" your JD with some scripts.
 - [Dark Theme](https://anonym.to/?https://github.com/Vinylwalk3r/JDownloader-2-Dark-Theme) - A dark theme for the download manager JDownloader 2.
-- [[JD Event Scripter](https://github.com/mgpai/resources)](https://anonym.to/?https://github.com/mgpai/resources) - JDownloader Event Scripter examples.
+- [JD Event Scripter](https://github.com/mgpai/resources) - JDownloader Event Scripter examples.
 
 **[`^        back to top        ^`](#)**
 
@@ -695,6 +695,12 @@ Downloads albums in bulk.
 - [WhatWeb](https://anonym.to/?http://github.com/urbanadventurer/WhatWeb) - Website fingerprinter.
 - [Wordpress Exploit Framework](https://anonym.to/?http://github.com/rastating/wordpress-exploit-framework) - Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - [WPSploit](https://anonym.to/?http://github.com/espreto/wpsploit) - Exploit WordPress-powered websites with Metasploit.
+
+**[`^        back to top        ^`](#)**
+
+
+## Web Crawler
+- [Evine](https://anonym.to/?https://github.com/saeeddhqan/evine) - Evine is a simple, fast, and interactive web crawler and web scraper written in Golang. Evine is useful for a wide range of purposes such as metadata and data extraction, data mining, reconnaissance and testing.
 
 **[`^        back to top        ^`](#)**
 
