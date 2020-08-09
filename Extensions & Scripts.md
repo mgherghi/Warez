@@ -99,9 +99,10 @@ Download Mp4 and audio formats.
 - ScriptSafe - Similar like NoScript with some nice features, works with [Chrome](https://anonym.to/?https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) & [Firefox](https://addons.mozilla.org/en/firefox/addon/script-safe/).
 - [Random User-Agent for Chrome/Chromium/Firefox](https://anonym.to/?https://addons.mozilla.org/firefox/addon/random_user_agent/)https://addons.mozilla.org/firefox/addon/random_user_agent/)
 - [Canvas Fingerprint blocker](https://anonym.to/?https://add0n.com/canvas-fingerprint-blocker.html) - Manipulates two methods of HTML5 Canvas element that are commonly used to generate a unique fingerprint key for your browser.
-- [Keyboard Privacy](https://anonym.to/?https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents behavioral profiling by randomizing the rate at which characters reach the DOM.
+- [Keyboard Privacy](https://anonym.to/?https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents profiling by randomizing the rate at which characters reach the DOM.
 - [AudioContext Fingerprint Defender](https://anonym.to/?https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
 - [Behave!](https://anonym.to/?https://github.com/mindedsecurity/behave) - A monitoring browser extension for pages acting as bad boys.
+- [Service Worker Detector](https://anonym.to/?https://github.com/google/service-worker-detector) - This extension detects if a website registers a Service Worker.
 
 
 **Notice**:
