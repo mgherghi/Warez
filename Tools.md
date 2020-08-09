@@ -123,7 +123,7 @@ Downloads albums in bulk.
 - [Discord Channel scraper](https://anonym.to/?http://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
 - [Discord NSWDBot](https://anonym.to/?http://github.com/HunterKing/NSWDBot) - Discord bot to scrape NSWDB.com for scene releases.
 - [Discord WarezBot](https://anonym.to/?http://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
-- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://anonym.to/?http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
+- [Discord notifications 1: Sonarr, Radarr and Lidarr](https://anonym.to/?http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificates Discord Users about new releases.
 - [Discord toolkit](https://anonym.to/?http://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
 - [DiscordCrypt](https://anonym.to/?http://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](https://anonym.to/?http://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each another!).
 - [Do Not Track for Discord](https://anonym.to/?http://betterdocs.us/plugins/do-not-track/) - A plugin for BD to prevent Discord tracking.
@@ -429,7 +429,7 @@ Downloads albums in bulk.
 - [Usenetic](https://anonym.to/?http://www.usenetic.com/) - The full-featured Usenet client for Mac OSX.
 
 
-## usenet Tools
+## Usenet Tools
 - [ngPost](https://anonym.to/?https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) usenet poster for binaries developped in C++/QT.
 
 **[`^        back to top        ^`](#)**
@@ -1206,5 +1206,9 @@ Overall strategy:
 - [PSARipper](https://anonym.to/?https://github.com/architdate/PSARipper) - CLI tool to bypass the PSA shortner links and return the final list of all the hosters hosting the episodes.
 
 **[`^        back to top        ^`](#)**
+
+
+## ZippyShare
+- [zippyshare_generator](https://anonym.to/?hhttps://pypi.org/project/zippyshare-generator/) - Download ZippyShare automaticaly with "Internet Download Manager (IDM) for Windows or build in download manager.
 
 
