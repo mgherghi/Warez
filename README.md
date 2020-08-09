@@ -2533,7 +2533,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [ManagaCrush](https://anonym.to/?https://mangacrush.com/) - Mangacrush is the best website to read Manga for free online. In addition, you can also watch the latest anime series for free on this website.
 - [Manga Panda](https://anonym.to/?http://www.mangapanda.com/) - Mangacrush also offers the Manga Community Forum, where you can find many Manga lovers who like you.
 - [Manga Park](https://anonym.to/?https://mangapark.net/) - Manga Park is another top comic website for free online reading of comics.
-- [BATO.TO](https://anonym.to/?hhttps://bato.to/) - You can find Manga groups and forums on this website. You can also chat with other users through this Manga website.
+- [BATO.TO](https://anonym.to/?https://bato.to/) - You can find Manga groups and forums on this website. You can also chat with other users through this Manga website.
+- [Manga Kakalot](https://anonym.to/?https://mangakakalot.com/) - Manga Kakalot is also the best website for reading high quality Manga online for free. This website offers a variety of the latest high quality Manga reading.
+
+
 
 **[`^        back to top        ^`](#readme)**
 
