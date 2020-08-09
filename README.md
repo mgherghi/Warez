@@ -2537,7 +2537,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Manga Kakalot](https://anonym.to/?https://mangakakalot.com/) - Manga Kakalot is also the best website for reading high quality Manga online for free. This website offers a variety of the latest high quality Manga reading.
 - [Zing BOX](https://anonym.to/?https://zingbox-manga.en.uptodown.com/android) -  Zing Box is the best Manga website for free online reading of Mangas.
 - [VIZ](https://anonym.to/?http://viz.com/) -  Viz has the biggest collection of popular English Manga translated by some of the best professionals translators and has crystal clear prints as well.
-- [Exfan.net](https://anonym.to/?https://exfan.net/) - Bookmark, manga readed history, comments, send manga request.
+- [Exfan.net](https://anonym.to?https://exfan.net/) - Bookmark, manga readed history, comments, send manga request.
+- [manganelo](https://anonym.to?https://manganelo.link/)
+- [mangatsream](https://anonym.to?https://www.mangastream.cc/)
+- [Webtoon](https://anonym.to?https://www.webtoons.com/)
 
 **[`^        back to top        ^`](#readme)**
 
