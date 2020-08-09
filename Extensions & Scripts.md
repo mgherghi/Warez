@@ -66,7 +66,7 @@ Download Mp4 and audio formats.
 - [Google unlocked](https://anonym.to/?https://github.com/Ibit-to/google-unlocked) - + [Website](https://anonym.to/?https://ibit.uno/) Google Unlocked Chrome extension unlocks hidden google search results.
 - [Hide Fake Torrents on TPB](https://anonym.to/?https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
 - [Reddit Enhancement Suite](https://anonym.to/?http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
-- [Twitter Quality Fixer](https://anonym.to/?https://greasyfork.org/en/scripts/399827-video-quality-fixer-for-twitter) - Viw Twitter Videos in the highest available quality.
+- [Twitter Quality Fixer](https://anonym.to/?https://greasyfork.org/en/scripts/399827-video-quality-fixer-for-twitter) - View Twitter Videos in the highest available quality.
 - [Clickbait remover for YouTube](https://anonym.to/?https://github.com/pietervanheijningen/clickbait-remover-for-YouTube) - Replace YouTube thumbnails with video thumbnails.
 - [YoutubeNonStop](https://anonym.to/?https://github.com/lawfx/YoutubeNonStop) - Autoclicker for YouTube's latest "feature" - Video paused. Continue watching?
 - [TMDB-Torrent-Movie-Database](https://anonym.to/?https://github.com/singhkumarpratik/TMDB-Torrent-Movie-Database) - A chrome extension that allows users to instantly get torrent link of the movie/TV show they are currently browsing on imdb.

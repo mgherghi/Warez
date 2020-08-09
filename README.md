@@ -2530,6 +2530,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Madokami R-Z](https://anonym.to/?https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
 - [MangaDex](https://anonym.to/?https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
 - [NineAnime](https://anonym.to/?https://www.nineanime.com/) - Read Free Manga Online, Manga, english Manga, Nine Anime.
+- [ManagaCrush](https://anonym.to/?https://mangacrush.com/) - Mangacrush is the best website to read Manga for free online. In addition, you can also watch the latest anime series for free on this website.
+
 
 **[`^        back to top        ^`](#readme)**
 
