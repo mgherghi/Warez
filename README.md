@@ -1165,7 +1165,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Bytesized Hosting](https://anonym.to/?https://bytesized-hosting.com/) - "The best Plex server hosting in town".
 - [Chmuranet](https://anonym.to/?https://www.chmuranet.com/) - Chmuranet is a small private boutique seedbox provider.
 - [FeralHosting](https://anonym.to/?https://www.feralhosting.com/pricing) - Shared seedbox hosting provider.
-- [Hetzner](https://anonym.to/?https://hetzner.co.za/) - Reliable and affordable server host.
+- [Hetzner](https://anonym.to/?https://www.hetzner.com/) - Reliable and affordable server host.
 - [Kimsufi](https://anonym.to/?https://www.kimsufi.com/uk/) - Affordable dedicated servers.
 - [NZB Monkey](https://anonym.to/?https://nzblnk.info/nzb-monkey/) - NZB download helper utility.
 - [Online.net](https://anonym.to/?https://www.online.net/en) - Seedbox-friendly, affordable, dedicated server host.
