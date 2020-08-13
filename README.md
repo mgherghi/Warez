@@ -2374,6 +2374,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [edoc](https://anonym.to/?https://edoc.pub/) - Upload Ideas And Publishing Resources Write A Book PDF Free Download Professional Platform.
 - [maxwell.faotas](https://anonym.to/?https://maxwell.faotas.info/) - Hindi ebooks.
 - [novanon](https://anonym.to/?https://novanon.net) - Ebooks & More.
+- [Memory of the world](https://anonym.to/?hhttp://library.memoryoftheworld.org) - A new website containing a lot of books.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -2584,7 +2585,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
-## Pokemon
+## Pokemon (Homebrew Editions & Mods)
 - [PokéOne](https://anonym.to/?https://www.pokeonecommunity.com/)
 - [Pokemon Revolution](https://anonym.to/?https://pokemonrevolution.net/home)
 - [PokeMMO](https://anonym.to/?https://pokemmo.eu/)
