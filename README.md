@@ -2358,12 +2358,12 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Planet PDF](https://anonym.to/?https://www.planetpdf.com/free_pdf_ebooks.asp) - Planet PDF has made available classic titles like Anna Karenina and Frankenstein for free.
 - [ReadAnyBook](https://anonym.to/?https://readanybook.com/) - Free online eBook reading.
 - [Starry.com](https://anonym.to/?https://www.starry.com/free-online-novels/index.htm) - These novels and anthologies were last updated in 2006, but you'll still find an interesting selection of online and virtual novels.
-- [The idiot proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by /u/Servaplur
+- [The idiot proof guide to downloading ebooks off IRC](https://anonym.to/?https://www.removeddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) - Posted by `/u/Servaplur`.
 - [TheGeeks](https://anonym.to/?https://thegeeks.click/) - Ebook tutorials mostly Udemy, but not limted to it.
 - [Twirpx](https://anonym.to/?https://www.twirpx.com/) - (`RU`) - Fiction/Non-fiction, books in multiple languages.
-- [BookTracker](https://anonym.to/?https://booktracker.org/) - (`RU`) - Book collections, discussions and torrents + IRC
+- [BookTracker](https://anonym.to/?https://booktracker.org/) - (`RU`) - Book collections, discussions and torrents + IRC.
 - [Z-Lib.org](https://anonym.to/?https://z-lib.org/) - Programmig and educational eBooks.
-- [AMORC](https://anonym.to/?https://www.rosicrucian.org/texts)
+- [AMORC](https://anonym.to/?https://www.rosicrucian.org/texts) - The Rosicrucians are a community of mystics who study and practice the metaphysical laws governing the universe.
 - [Amosqu's custom Google search](https://anonym.to/?https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers)
 - [Awakening Intuition](https://anonym.to/?https://www.awakening-intuition.com/ebooks.html)
 - [WiLd's Occult Ebook Sources](https://anonym.to/?https://justpaste.it/WiLdOccultEbooks) - Constantly updated eBook source for direct downloads, eBook source pages, tracker and magnets regarding eBook stuff.
