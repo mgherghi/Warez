@@ -1522,8 +1522,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [AnimeRush](https://anonym.to/?https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
 - [AnimeSeries](https://anonym.to/?https://animeseries.co/) - Yet another anime streaming provider website.
-- [AnimeTV](https://anonym.to/?https://animetv.ge/) - Subs and dubs, banner ads, many player alternatives.
-- [AnimeTV](https://anonym.to/?https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
+- [AnimeTV](https://anonym.to/?https://www.animetv.moe/) + [Mirror](https://anonym.to/?https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
 - [animeultima](https://anonym.to/?https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [animeultima](https://anonym.to/?https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [AnimeVibe](https://anonym.to/?https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
@@ -3026,7 +3025,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [r/PkgLinks](https://anonym.to/?https://discord.io/PkgLinks) - Reddup game sharing Discord Server.
 - [/r/soccerstreams](https://anonym.to/?https://discord.gg/geyTtth) - Official Discord server for the recently-killed /r/soccerstreams subreddit.
 - [9YearOldPirates](https://anonym.to/?https://discord.gg/3YCF8u) - Official Discord server for the 9YearOldPirates relaese group.
-- [AniméGlare](https://anonym.to/?https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
+- [AnimeGlare](https://anonym.to/?https://discordapp.com/invite/RMjHm4F1) - Official AniméGlare Discord channel.
 - [AniméVibe](https://anonym.to/?https://discordapp.com/invite/4QGvkw8) - Official AniméVibe Discord channel.
 - [APK'S 2 Day](https://anonym.to/?https://discord.gg/2qWqzN8) - This is a discord server that acts as a hub for numerous streaming apps.
 - [ApolloTV](https://anonym.to/?https://discordapp.com/invite/DT9SgYE) - The official ApolloTV Discord server.
@@ -3044,6 +3043,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [TopNow.se](https://anonym.to/?https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
 - [Music Hoarders](https://anonym.to/?https://discord.gg/fEq8Jxy) - Discord Server dedicated to hord Music.
 - [AnimeGlare v3](https://anonym.to/?https://discord.gg/zU27Ugs) - Official AnimeGlare V3 Discord Server.
+- [AnimeTV](https://anonym.to/?https://discord.gg/jueYZzT)
 
 **[`^        back to top        ^`](#readme)**
 
