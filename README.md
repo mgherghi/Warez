@@ -1564,6 +1564,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Full Episodes](https://anonym.to/?http://fullepisodes.biz/) - (`insecure`) - A alternative to WatchSeries.
 - [animepahe](https://anonym.to/?https://animepahe.ru/) - (`RU`) - Russian anime streaming site.
 - [Mywatchseries.to](https://anonym.to/?http://www.mywatchseries.to/) - Anime streaming, tv-series.
+- [Twist Moe](https://anonym.to/?https://twist.moe/) -  Animes in HD, ad-free and completely free.
 
 **[`^        back to top        ^`](#readme)**
 
