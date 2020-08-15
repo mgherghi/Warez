@@ -28,8 +28,7 @@ Download Mp4 and audio formats.
 - [Video Downloader PLUS](https://anonym.to/?https://chrome.google.com/webstore/detail/video-downloader-plus/fhplmmllnpjjlncfjpbbpjadoeijkogc) - (`Chrome`) - Downloads most popular media types from ANY website.
 - [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - (`Chrome`) - The most complete Web video downloader ! The popular Video DownloadHelper Firefox extension is now available for Chrome.
 
-**[`^        back to top        ^`](#)**
-
+**[`^        back to top        ^`](#)*
 
 ## Website "Enhancer" Userscripts
 - [[TS] Citrus GFork](https://anonym.to/?https://greasyfork.org/scripts/4336) - Adds bunch of GreasyFork hidden features.

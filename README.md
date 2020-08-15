@@ -2067,8 +2067,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AnimK](https://anonym.to/?https://animk.info/) - HQ, BDrips & more.
 - [Anime DL Archive](https://anonym.to/?https://archive.org/details/animedl4.0_202004) - Stream and download anime in VLC or MPC.
 - [anymeapp](https://anonym.to/?https://zunjae.github.io/anymeapp.com/)
-- [AnimeWatch](https://anonym.to/?http://aniwatch.me)
-
+- [AnimeWatch](https://anonym.to/?http://aniwatch.me) - Stream Anime, Movies, Hentais, Specials and more. Free, without any ads and in high definition!
+- [AnimeTosho Mirror](https://anonym.to/?https://mirror.animetosho.org/) - Anime Tosho is a free, completely automated service which mirrors most torrents posted on TokyoTosho's anime category, Nyaa.si's English translated anime category, AniDex's anime category (filtered) and all HorribleSubs releases.
 
 
 **[`^        back to top        ^`](#readme)**
