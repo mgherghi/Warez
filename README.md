@@ -1567,6 +1567,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Twist Moe](https://anonym.to/?https://twist.moe/) - Animes in HD, ad-free and completely free.
 - [9anime-tv](https://anonym.to/?https://9anime-tv.com/) - Watch English Sub Anime Online HD.
 - [animehd47](https://anonym.to/?https://animehd47.com/) - Animehd47.com synthesize all Anime English in high quality free , Watch Anime On Mobile & more.
+- [a2zanime](https://anonym.to/?https://a2zanime.com/)
 
 **[`^        back to top        ^`](#readme)**
 
