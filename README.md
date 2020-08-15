@@ -253,6 +253,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [r/animepiracy](https://anonym.to/?https://www.reddit.com/r/animepiracy/)
 - [r/KissCartoon](https://anonym.to/?https://www.reddit.com/r/KissCartoon/)
 - [r/KissCommunitySupport](https://anonym.to/?https://www.reddit.com/r/KissCommunitySupport/)
+- [r/Official_AnimeTV](https://anonym.to/?https://www.reddit.com/r/Official_AnimeTV/)
 
 
 ## List of Piracy Subreddits for Sign-Ups
@@ -1522,7 +1523,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [AnimeRush](https://anonym.to/?https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
 - [AnimeSeries](https://anonym.to/?https://animeseries.co/) - Yet another anime streaming provider website.
-- [AnimeTV](https://anonym.to/?https://www.animetv.moe/) + [Mirror](https://anonym.to/?https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
+- [AnimeTV](https://anonym.to/?https://www.animetv.moe/) - + [Mirror](https://anonym.to/?https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
 - [animeultima](https://anonym.to/?https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [animeultima](https://anonym.to/?https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [AnimeVibe](https://anonym.to/?https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
