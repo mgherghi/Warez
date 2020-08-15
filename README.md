@@ -1505,7 +1505,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Anime Kisa](https://anonym.to/?https://animekisa.tv/) - Subs and dubs, no ads, funded by donations, self-hosted.
 - [Anime Simple](https://anonym.to/?https://ww1.animesimple.com/) - (`needs ads-blocker`) -  Subs and dubs, banner ads, multiple sources.
 - [Anime Streams](https://anonym.to/?https://www.anime2you.de/streams/) - Sub and dub, banner ads.
-- [Anime Take](https://anonym.to/?https://animetake.tv/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
+- [Anime Take](https://anonym.to/?https://animetake.stream/) - Subs and sometimes dubs, banner and pre-roll ads, one source.
 - [Anime8](https://anonym.to/?https://anime8.me/) - Watch & download online in high quality.
 - [AnimeBam](https://anonym.to/?https://www.animebam.net/) - Subs only, banner ads, only one source.
 - [animebam](https://anonym.to/?https://www.animebam.se/) - Subs only, banner ads, only one source.
@@ -1522,7 +1522,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [AnimePahe](https://anonym.to/?https://animepahe.com/) A minimilistic anime streaming/download website, subs only.
 - [AnimeRam](https://anonym.to/?https://ww2.animeram.cc/) A streaming website for dubbed/subbed anime.
 - [AnimeRush](https://anonym.to/?https://www.animerush.tv/genres/) - Subs only, pop-ins, one source.
-- [AnimeSeries](https://anonym.to/?https://animeseries.co/) - Yet another anime streaming provider website.
+- [AnimeSeries](https://anonym.to/?https://animeseries.io/) - Yet another anime streaming provider website.
 - [AnimeTV](https://anonym.to/?https://www.animetv.moe/) - + [Mirror](https://anonym.to/?https://www3.animeseries.io/) - Subs and dubs, banner ads, many player alternatives.
 - [animeultima](https://anonym.to/?https://animeultima.eu/) - Subs and dubs, banner and pop-up ads, multiple sources.
 - [animeultima](https://anonym.to/?https://twitter.com/animeultimav2?lang=en) - Subs and dubs, banner and pop-up ads, multiple sources.
