@@ -1052,7 +1052,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### Tracker Aggregators
 - [AIO Search](https://anonym.to/?https://www.aiosearch.com/) - Yet another Torrent search engine.
 - [snowfl](https://anonym.to/?) - Snowfl is a torrent aggregator which searches various public torrent indexes in real-time.
-- [TParser](https://anonym.to/?https://tparser.org/) (`RU`) - Russian torrent sites indexer
 - [Torrents.me](https://anonym.to/?https://torrents.me/) - Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://anonym.to/?https://github.com/DEgITx/rats-search) - P2P Bittorrent search engine.
 - [SolidTorrents](https://anonym.to/?https://solidtorrents.net) - A clean and privacy focused torrent search engine.

@@ -684,3 +684,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 
 ### Share Drives (Team Drive)
 * https://seedbox.slbots.workers.dev/
+
+
+### Tracker Aggregators
+- [TParser](https://anonym.to/?https://tparser.org/) (`RU`) - Russian torrent sites indexer.
