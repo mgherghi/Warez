@@ -1564,7 +1564,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Full Episodes](https://anonym.to/?http://fullepisodes.biz/) - (`insecure`) - A alternative to WatchSeries.
 - [animepahe](https://anonym.to/?https://animepahe.ru/) - (`RU`) - Russian anime streaming site.
 - [Mywatchseries.to](https://anonym.to/?http://www.mywatchseries.to/) - Anime streaming, tv-series.
-- [Twist Moe](https://anonym.to/?https://twist.moe/) -  Animes in HD, ad-free and completely free.
+- [Twist Moe](https://anonym.to/?https://twist.moe/) - Animes in HD, ad-free and completely free.
+- [9anime-tv](https://anonym.to/?https://9anime-tv.com/) - Watch English Sub Anime Online HD.
+- [animehd47](https://anonym.to/?https://animehd47.com/) - Animehd47.com synthesize all Anime English in high quality free , Watch Anime On Mobile & more.
 
 **[`^        back to top        ^`](#readme)**
 
