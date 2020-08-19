@@ -132,8 +132,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [predb](https://anonym.to/?https://predb.me/)
 - [d00per](https://anonym.to/?https://www.d00per.com/dupe)
 - [pre.c-burns.co.uk/](https://anonym.to/?http://pre.c-burns.co.uk/pre.php)
-- [pre.corrupt-net](https://anonym.to/?hhttps://pre.corrupt-net.org/)
-
+- [pre.corrupt-net](https://anonym.to/?hhttps://pre.corrupt-net.org/) + [Mirror](https://anonym.to/?https://pr3.us/)
+- [srrDB](https://anonym.to/?https://www.srrdb.com/)
 
 **[`^        back to top        ^`](#readme)**
 
