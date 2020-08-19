@@ -2946,6 +2946,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [B.net Index Server](https://anonym.to/?http://server1.ftpbd.net/) - Movies, TV shows, PC Games, Android Gamess & Console Games.
 - [FBox](https://anonym.to/?https://fbox.to/) - Watch Online Movies For Free, fbox allows you watch any movie, show in HD without paying a dime, you can also download any movie you want for offline watching.
 - [Crazy4TV](https://anonym.to/?http://crazy4tv.com/) - Download Small Size TV Shows & Movies.
+- [Cinemaz](https://anonym.to/?https://cinemaz.to/)
 
 **[`^        back to top        ^`](#readme)**
 
