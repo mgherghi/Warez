@@ -14,6 +14,8 @@
 
 ### Telegram Statistics
 - [Telegram channels - All countries](https://anonym.to/?https://tgstat.com/)- Lists all channels, filters them by country and category and provides general statistics about Telegram.
+- [Telegram Groups Directory](https://anonym.to/?https://telegramic.org/groups/) - Overview of Telegram Channels, Groups & users.
+
 
 ### Telegram Modded Client/APKs
 - [Nekogram](https://anonym.to/?https://github.com/Nekogram/Nekogram) - Telegram is a messaging app with a focus on speed and security. It’s superfast, simple and free.
