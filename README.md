@@ -131,7 +131,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## PreDB sites
 - [predb](https://anonym.to/?https://predb.me/)
 - [d00per](https://anonym.to/?https://www.d00per.com/dupe)
-- [pre.c-burns.co.uk/](https://anonym.to/?http://pre.c-burns.co.uk/pre.php)
+- [pre.c-burns.co](https://anonym.to/?http://pre.c-burns.co.uk/pre.php)
 - [pre.corrupt-net](https://anonym.to/?hhttps://pre.corrupt-net.org/) + [Mirror](https://anonym.to/?https://pr3.us/)
 - [srrDB](https://anonym.to/?https://www.srrdb.com/)
 
@@ -353,6 +353,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mirror Bot 2](https://anonym.to/?https://mirrorbot.sarutobi.workers.dev/) - Mainly TV Shows.
 - [klprojects](https://anonym.to/?https://td.klprojects.tech/) - Movies & more.
 - [Roshans mirror](https://anonym.to/?https://drive.roshansmirror.workers.dev/) - Movies, Series, eBooks etc.
+- [go.zgh](https://anonym.to/?https://go.zgh.workers.dev/) - Movies & Animes.
 
 **[`^        back to top        ^`](#readme)**
 
