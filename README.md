@@ -688,7 +688,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog around MP3s.
 - [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
 - [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repository for archiving music.
-- [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
+- [Kingdom Leaks](https://anonym.to/?https://kingdom-leaks.com/) - DDL links for album leaks.
+- [KHInsider](https://anonym.to/?https://downloads.khinsider.com/) - Site collecting soundtracks, mostly MP3, some FLAC, OGG or M4A.
 
 **[`^        back to top        ^`](#readme)**
 
