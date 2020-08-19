@@ -157,7 +157,7 @@ TCP Port: 853
 **[`^        back to top        ^`](#)**
 
 
-###
+### YouTube apps
 - [YouTube-DL](https://apt.izzysoft.de/fdroid/repo/fr.odrevet.youtube_dl_kivy.youtube_dl_kivy_721201.apk), the Repo can be found [here](https://apt.izzysoft.de/fdroid/repo/fr.odrevet.youtube_dl_kivy.youtube_dl_kivy/)
 
 **[`^        back to top        ^`](#)**
@@ -189,6 +189,7 @@ TCP Port: 853
 ## Streaming player apps
 - [TVF Play App](https://anonym.to/?https://tvfplay.com/)
 - [MX Player Pro](https://anonym.to/?https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.pro)
+- [nPlayer]https://anonym.to/?h(https://play.google.com/store/apps/details?id=com.newin.nplayer.pro)
 
 **[`^        back to top        ^`](#)**
 
