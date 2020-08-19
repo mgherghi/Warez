@@ -128,6 +128,16 @@ I do not accept any donations or add sponsorship button into this repository. Th
 **[`^        back to top        ^`](#readme)**
 
 
+## PreDB sites
+- [predb](https://anonym.to/?https://predb.me/)
+- [d00per](https://anonym.to/?https://www.d00per.com/dupe)
+- [pre.c-burns.co.uk/](https://anonym.to/?http://pre.c-burns.co.uk/pre.php)
+- [pre.corrupt-net](https://anonym.to/?hhttps://pre.corrupt-net.org/)
+
+
+**[`^        back to top        ^`](#readme)**
+
+
 ## List of Piracy Subreddits for Games and Books
 - [r/piracy](https://anonym.to/?https://www.reddit.com/r/piracy/)
 - [/r/piratedgames](https://anonym.to/?https://www.reddit.com/r/piratedgames/)
@@ -1601,30 +1611,30 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Specialty Sites
-- [1Liberty](https://anonym.to/?https://libertyvf.co/) - (fr-FR)
-- [6VoierFilms](https://anonym.to/?https://www.voirfilms.mx/) - (fr-FR)
+- [1Liberty](https://anonym.to/?https://libertyvf.co/) - (`fr-FR`)
+- [6VoierFilms](https://anonym.to/?https://www.voirfilms.mx/) - (`fr-FR`)
 - [CamVault](https://anonym.to/?/https://camvault.xyz/login.html)
 - [Cuevana2](https://anonym.to/?https://www.cuevana2.com/) - Espanol
 - [DaebakDrama](https://anonym.to/?https://daebakdrama.com/) - Korean
 - [Danimados](https://anonym.to/?https://danimados.com/) - Espanol
-- [DPStream](https://anonym.to/?https://www.dpstream.info/) - (fr-FR)
+- [DPStream](https://anonym.to/?https://www.dpstream.info/) - (`fr-FR`)
 - [Einthusan](https://anonym.to/?https://einthusan.tv/intro/) - Foreign
-- [EmuleIsland](https://anonym.to/?https://ww5.emule-island.ru/) - (fr-FR)
-- [Filmz.cc](https://anonym.to/?https://www.tfarjo.cc/) - (fr-FR)
-- [K-Streaming](https://anonym.to/?https://www2.k-streaming.tv/) - (fr-FR)
-- [KingsofHorror](https://anonym.to/?https://www.youtube.com/user/TheKingsofHorror/) - - Youtube Horror
+- [EmuleIsland](https://anonym.to/?https://ww5.emule-island.ru/) - (`fr-FR`)
+- [Filmz.cc](https://anonym.to/?https://www.tfarjo.cc/) - (`fr-FR`)
+- [K-Streaming](https://anonym.to/?https://www2.k-streaming.tv/) - (`fr-FR`)
+- [KingsofHorror](https://anonym.to/?https://www.youtube.com/user/TheKingsofHorror/) - Youtube Horror
 - [MutantSorority](https://anonym.to/?https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) - Youtube Horror
 - [Rulu](https://anonym.to/?https://www.rulu.co/) - Youtube Red Series
-- [StreamComplete](https://anonym.to/?https://streamcomplet.xyz/) - (fr-FR)
-- [Time2Watch](https://anonym.to/?https://time2watch.in/) - (fr-FR)
+- [StreamComplete](https://anonym.to/?https://streamcomplet.xyz/) - (`fr-FR`)
+- [Time2Watch](https://anonym.to/?https://time2watch.in/) - (`fr-FR`)
 - [Top Documentary Films](https://anonym.to/?https://topdocumentaryfilms.com/) - Documentaries
 - [TromaMovies](https://anonym.to/?https://www.youtube.com/channel/UC4O0LNYmaOczcSMHA_FE1Mw) - Youtube Horror
-- [VFStream](https://anonym.to/?https://www.vf-stream.org/) - (fr-FR)
+- [VFStream](https://anonym.to/?https://www.vf-stream.org/) - (`fr-FR`)
 - [Videoneat](https://anonym.to/?https://videoneat.com/) - Documentaries/Science Movies
 - [WatchAsian](https://anonym.to/?https://www2.watchasian.co/)
 - [WTvF!](https://anonym.to/?https://www.youtube.com/channel/UCgzOk7BrZ_REdrDXOhGIGqQ) - Youtube Grindhouse
 - [Mvgroup Forum](https://anonym.to/?https://forums.mvgroup.org/) - Documentaries & Movies.
-- [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.](#readme)**
+- [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [mp3pro.xyz](https://anonym.to/?https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
 - [YouTube™ Uploader for Dropbox, Drive](https://anonym.to/?hhttps://imclient.herokuapp.com/youtubeupload/) - This app allows you to upload Dropbox, MS OneDrive, Google Drive, Local Computer video files to YouTube directly. You can upload your video files to YouTube in batches and very easily without using YouTube web interface.
 - [youtube-dl-gui](https://anonym.to/?https://mrs0m30n3.github.io/youtube-dl-gui/) - Download your favorite videos.
