@@ -684,7 +684,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Xoamoelmosh Blogspot](https://anonym.to/?https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
 - [24Flac](https://anonym.to/?https://24flac.net/) - FLAC Music including .CUE.
 - [Orpheus](https://anonym.to/?https://emetsbank.xyz/ops/) - Music Archive for mainly MP3 files.
-- [SongsLover](https://anonym.to/?https://songslover.cam/)Blog around music, provides MP3s.
+- [SongsLover](https://anonym.to/?https://songslover.cam/) - Blog around music, provides MP3s.
 - [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog around MP3s.
 - [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
 - [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repository for archiving music.
@@ -696,7 +696,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ### Audio Torrenting
 - [Redtopic](https://anonym.to/?https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.
-- [Metal Tracker](https://en.metal-tracker.com/) - Metal Music in MP3.
+- [Metal Tracker](https://en.metal-tracker.com/) - Metal Music in MP3 quality.
 - [RockBox](https://anonym.to/?https://rawkbawx.rocks/) - A Metal music tracker.
 - [ZombieTracker](https://anonym.to/?https://zombtracker.the-zomb.com/) - A music sharing community.
 
@@ -742,7 +742,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [SILO](https://anonym.to/?https://medium.com/arweave-updates/building-silo-a-truly-private-internet-556c860222ca) - Offers complete privacy across the network (work in progress project in cooperationship with Loki).
 - [Tor](https://anonym.to/?https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis.
 - [Zeronet](https://anonym.to/?https://zeronet.io/) - Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
-- [IPSF](https://anonym.to/?https://ipfs.io/)
+- [IPSF](https://anonym.to/?https://ipfs.io/) - Secure router firmware which acts as configurable firewall.
 
 **[`^        back to top        ^`](#readme)**
 

@@ -82,6 +82,10 @@ TCP Port: 853
 - [B1 Archiver zip rar unzip](https://anonym.to/?https://play.google.com/store/apps/details?id=org.b1.android.archiver)
 
 
+## Remove Managment
+- [scrcpy](https://anonym.to/?https://github.com/Genymobile/scrcpy) - Display and control your Android device.
+
+
 ## Download Manager
 - [Ponydroid](https://anonym.to/?https://play.google.com/store/apps/details?id=ponydroid.ponydroid) - Known and old Downloader for Android
 - [Advance Download Manager](https://anonym.to/?https://anonym.to/?https://play.google.com/store/apps/details?id=com.dv.adm) - Similar like Internet Download Manager for Desktop just for Android.
