@@ -271,6 +271,7 @@
 
 ## Shared Drive (old name was Team Drive) Guides
 - [A complete guide of shared drive (Team drive)](https://anonym.to/?https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
+- [The Ultimate Gdrive Guide](https://anonym.to/?https://telegra.ph/The-Ultimate-Gdrive-Guide-06-27)
 
 **[`^        back to top        ^`](#)**
 
