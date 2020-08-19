@@ -296,6 +296,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [One](https://anonym.to/?https://one.driveindex.ga/) - Another Share Drive fro Movies and TV Shows.
 - [Multiple Colleges](https://anonym.to/?http://leon.educationhost.cloud)
 - [Washington University](https://anonym.to/?https://gdrive.oso.ac.cn/)
+- [HackGence](https://anonym.to/?https://td.hackgence.com/) - The Teamdrives are for Educational Purposes Only!
 
 **[`^        back to top        ^`](#readme)**
 
