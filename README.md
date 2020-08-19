@@ -6,7 +6,7 @@
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![Twitter Follow](https://img.shields.io/twitter/follow/CKsTechNews?style=flat)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-[![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)]
+[![Telegram](https://img.shields.io/badge/Telegram-t.me%2FCKKSK-blue)](https://t.me/CKKSK)
 [![GitHub repo size](https://img.shields.io/github/repo-size/CHEF-KOCH/Warez)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CHEF-KOCH/Warez)
 
@@ -295,6 +295,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Upload a file to Google Drive using URL (Cloud Transfer files to Google Drive)
 - [savetogoogledrive](https://anonym.to/?https://savetogoogledrive.herokuapp.com/)
 - [multcloud](https://anonym.to/?https://www.multcloud.com/)
+- [Copy To GDrive](https://anonym.to/?https://script.google.com/a/macros/escoltesiguies.cat/s/AKfycbxbGNGajrxv-HbX2sVY2OTu7yj9VvxlOMOeQblZFuq7rYm7uyo/exec) - + [Source Code](https://anonym.to/?http://www.github.com/ericyd/gdrive-copy) - This app provides the capability to copy a Google Drive folder. It will copy all contents of the folder and preserve the internal structure of the files and folders. Optionally, you can also copy any sharing permissions over to the new folder.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -684,6 +685,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repository for archiving music.
 
 **[`^        back to top        ^`](#readme)**
+
 
 ### Audio Torrenting
 - [Redtopic](https://anonym.to/?https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.
