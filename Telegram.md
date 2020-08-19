@@ -323,6 +323,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [slcloudleech](https://anonym.to/?https://t.me/slcloudleech)
 - [superleecherstore](https://anonym.to/?https://t.me/superleecherstore)
 - [TorrentLeech-Gdrive](https://anonym.to/?https://github.com/gautamajay52/TorrentLeech-Gdrive)
+- [Upload to Google Drive Bot](https://anonym.to/?https://elements.heroku.com/buttons/justine72/u2gd_bot_source)
 
 **[`^        back to top        ^`](#)**
 
