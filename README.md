@@ -1613,7 +1613,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Filmz.cc](https://anonym.to/?https://www.tfarjo.cc/) - (fr-FR)
 - [K-Streaming](https://anonym.to/?https://www2.k-streaming.tv/) - (fr-FR)
 - [KingsofHorror](https://anonym.to/?https://www.youtube.com/user/TheKingsofHorror/) - - Youtube Horror
-- [MutantSorority](https://anonym.to/?https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) - - Youtube Horror
+- [MutantSorority](https://anonym.to/?https://www.youtube.com/channel/UCWcF6KTn_sSSJ1AIj1bQmRg) - Youtube Horror
 - [Rulu](https://anonym.to/?https://www.rulu.co/) - Youtube Red Series
 - [StreamComplete](https://anonym.to/?https://streamcomplet.xyz/) - (fr-FR)
 - [Time2Watch](https://anonym.to/?https://time2watch.in/) - (fr-FR)
@@ -1626,6 +1626,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mvgroup Forum](https://anonym.to/?https://forums.mvgroup.org/) - Documentaries & Movies.
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.](#readme)**
 - [mp3pro.xyz](https://anonym.to/?https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
+- [YouTube™ Uploader for Dropbox, Drive](https://anonym.to/?hhttps://imclient.herokuapp.com/youtubeupload/) - This app allows you to upload Dropbox, MS OneDrive, Google Drive, Local Computer video files to YouTube directly. You can upload your video files to YouTube in batches and very easily without using YouTube web interface.
 
 **[`^        back to top        ^`](#readme)**
 
