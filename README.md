@@ -1627,6 +1627,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.](#readme)**
 - [mp3pro.xyz](https://anonym.to/?https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
 - [YouTube™ Uploader for Dropbox, Drive](https://anonym.to/?hhttps://imclient.herokuapp.com/youtubeupload/) - This app allows you to upload Dropbox, MS OneDrive, Google Drive, Local Computer video files to YouTube directly. You can upload your video files to YouTube in batches and very easily without using YouTube web interface.
+- [youtube-dl-gui](https://anonym.to/?https://mrs0m30n3.github.io/youtube-dl-gui/) - Download your favorite videos.
 
 **[`^        back to top        ^`](#readme)**
 
