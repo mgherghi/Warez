@@ -314,14 +314,21 @@
 
 
 ## Linux Resources & Guidance
-* [Linux Journey](https://anonym.to/?https://linuxjourney.com/)
-* [Arch Wiki](https://anonym.to/?https://wiki.archlinux.org/)
+- [Linux Journey](https://anonym.to/?https://linuxjourney.com/)
+- [Arch Wiki](https://anonym.to/?https://wiki.archlinux.org/)
 
 **[`^        back to top        ^`](#)**
 
 
 ## madVR Guides
-* [madVR and Animes](https://anonym.to/?https://anime.my/tutorials/madvr/) - A madVR Guide how to watch Animes in best quality.
-* [MadVR Expert Guide](https://anonym.to/?https://wiki.jriver.com/index.php/MadVR_Expert_Guide) - An advance guide how to use madVR.
+- [madVR and Animes](https://anonym.to/?https://anime.my/tutorials/madvr/) - A madVR Guide how to watch Animes in best quality.
+- [MadVR Expert Guide](https://anonym.to/?https://wiki.jriver.com/index.php/MadVR_Expert_Guide) - An advance guide how to use madVR.
 
 **[`^        back to top        ^`](#)**
+
+
+## rClone Tutorials
+- [Gclone Preliminary Guide (Read this first before going to the other guide) (Window)](https://anonym.to/?https://telegra.ph/Gclone-Preliminary-Guide-Read-this-first-before-going-to-the-other-guide-Window-05-07)
+
+**[`^        back to top        ^`](#)**
+

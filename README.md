@@ -335,7 +335,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ## Public Team Drives
 - [BMirror](https://anonym.to/?https://drive.bartixxx.workers.dev/) - Movies & TV Shows.
 - [purple-firefly-4142](https://anonym.to/?https://purple-firefly-4142.swankytiger56sharing.workers.dev/Movies/) - Movies.
-- [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - Software and Movies.
+- [tdrive1](https://anonym.to/?https://tdrive1.aryan.workers.dev/) - (`pass protected root dir`) - Software and Movies.
 - [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
 - [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shows.
 - [bot14](https://anonym.to/?https://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.

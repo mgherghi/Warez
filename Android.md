@@ -247,6 +247,12 @@ TCP Port: 853
 **[`^        back to top        ^`](#)**
 
 
+## 4PDa alternative apps
+- [ForPDA](https://anonym.to/?https://github.com/RadiationX/ForPDA) - Alternative client for 4pda.ru.
+
+**[`^        back to top        ^`](#)**
+
+
 ## rclone Android apps
 - [rcx](https://anonym.to/?https://github.com/x0b/rcx) - Android rclone application with a lot of features.
 - [rClone Explorer](https://anonym.to/?https://github.com/kaczmarkiewiczp/rcloneExplorer) - rclone explorer for Android
