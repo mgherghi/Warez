@@ -22,7 +22,7 @@ This list is the biggest [Warez](https://anonym.to/?https://en.wikipedia.org/wik
 * Most lists you find are outdated, not actively maintained or full of malware links.
 
 ### How frequently is the list updated?
-* Monthly. (_In emergencies e.g. bigger scene changes/infos the list might recieve updates outside this schedule!_)
+* Monthly. _In emergencies e.g. bigger scene changes/infos the list might recieve updates outside this schedule!_
 
 ### Credits
 Since the list is huge I can't name each and every single one of you, but here is a short list which hopefully covers all of them:
@@ -310,7 +310,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Xtreambot](https://anonym.to/?https://teamdrive.xtremebot.workers.dev/)
 - [AlpacinoDump](https://anonym.to/?https://dh.alpacinodump.cf/)
 - [TUHOCTOEIC.EDU.VN](https://anonym.to/?https://driveteam.nguyenvanlong.blog/)
-- [googlefiles](https://anonym.to/?https://search.googlefiles.workers.dev/) - Another movie Team Drive, the websites forces you to use the [Telegram Bot](https://telegram.dog/SearchMoviesBot) to search and find files.
+- [googlefiles](https://anonym.to/?https://search.googlefiles.workers.dev/) - Another movie Team Drive, the websites forces you to use the -[Telegram Bot](https://telegram.dog/SearchMoviesBot) to search and find files.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -322,7 +322,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Achirou's Cloud](https://anonym.to/?https://ossdev.achirou.workers.dev/)
 - [kltorrent](https://anonym.to/?https://teamdrive.kltorrent.workers.dev/) - Mainly Movies and TV shows.
 - [bot14](https://anonym.to/?https://bot14.skyrim.workers.dev/) - Movies, eBooks & TV Shows.
-- [Four](https://anonym.to/?https://four.driveindex.ga/) - Another share drive for movies and tv shows.
 - [tor.uploadbot](https://anonym.to/?https://tor.uploadbot.workers.dev/) - Protected Share Drive, but you can reveal the download links.
 - [Taiwan Primary School](https://anonym.to/?https://gd.404edu.workers.dev/)
 - [Fang's Team Drive](https://drive.fangdrive.workers.dev/) - Username `fang`, Pass `fang`
@@ -346,6 +345,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [gindex-v4](https://anonym.to/?https://github.com/tks18/gindex-v4[](https://github.com/tks18/gindex-v4))
 - [CHEF-KOCH's gindex-v4](https://anonym.to/?https://github.com/CHEF-KOCH/gindex-v4)
 - [alx-xlx go-index](https://anonym.to/?https://github.com/alx-xlx/goindex)
+- [goIndex-theme-nexmoe](https://anonym.to/?https://github.com/5MayRain/goIndex-theme-nexmoe)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -457,7 +457,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ### Card sharing
-- [TV-Lounge.eu](https://www.tv-lounge.eu) - (`Ger`) - IPTV, OSCAM, SKY, CCAM, Kabel-Receiver, IPTV & Co.
+- [TV-Lounge.eu](https://anonym.to/?https://www.tv-lounge.eu) - (`Ger`) - IPTV, OSCAM, SKY, CCAM, Kabel-Receiver, IPTV & Co.
 
 **[`^        back to top        ^`](#readme)**
 
@@ -571,7 +571,8 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [PiracySubreddit Backup (nightly backups)](https://anonym.to/?https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
 - [msdn.hackerc.at](https://anonym.to/?https://msdn.hackerc.at/) - Windows Software dump.
 <!-- markdown-link-check-enable -->
-- [](https://anonym.to/?https://docs.google.com/document/d/176d5yx2GtWDudFNQW4mJC8QYE1B4uJdhk0HD45nandU/preview?pru=AAABc6cPnj4*yVul1DG__D4CrbOdlj0cpw) - Source Code, Tools, Games & More.
+- [Nintendo Leak](https://anonym.to/?https://docs.google.com/document/d/176d5yx2GtWDudFNQW4mJC8QYE1B4uJdhk0HD45nandU/preview?pru=AAABc6cPnj4*yVul1DG__D4CrbOdlj0cpw) - Source Code, Tools, Games & More.
+
 **[`^        back to top        ^`](#readme)**
 
 
@@ -2589,10 +2590,10 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 
 ## Pokemon (Homebrew Editions & Mods)
-- [PokéOne](https://anonym.to/?https://www.pokeonecommunity.com/)
+- [Pokï¿½One](https://anonym.to/?https://www.pokeonecommunity.com/)
 - [Pokemon Revolution](https://anonym.to/?https://pokemonrevolution.net/home)
 - [PokeMMO](https://anonym.to/?https://pokemmo.eu/)
-- [Pokémon Adventures Red Chapter](https://anonym.to/?https://pokemon-fan-game.fandom.com/wiki/Pok%C3%A9mon_Adventures_Red_Chapter)
+- [Pokï¿½mon Adventures Red Chapter](https://anonym.to/?https://pokemon-fan-game.fandom.com/wiki/Pok%C3%A9mon_Adventures_Red_Chapter)
 
 **[`^        back to top        ^`](#readme)**
 
