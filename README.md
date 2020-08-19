@@ -225,6 +225,11 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [r/DolphinEmulator](https://anonym.to/?https://www.reddit.com/r/DolphinEmulator/)
 
 
+## List of Pircacy Subreddits for Deezer
+- [/r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) - Community supporting Deezloader subreddit.
+- [/r/deemix](https://www.reddit.com/r/deemix) - Community supporting Deemix subreddit.
+
+
 ## List of Piracy Subreddits for requests
 - [r/riprequests](https://anonym.to/?https://www.reddit.com/r/riprequests)
 
@@ -683,6 +688,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog around MP3s.
 - [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
 - [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Legal public Repository for archiving music.
+- [Kingdom Leaks](https://kingdom-leaks.com/) DDL links for album leaks
 
 **[`^        back to top        ^`](#readme)**
 
