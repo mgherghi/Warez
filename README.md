@@ -468,6 +468,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Team-IRA [TIRA]](https://anonym.to/?https://team-ira.com/) - TIRA Team International Reversers Alliance ([needs invite code](https://anonym.to/?http://forum.crack.vc/?thread-22.htm))
 - [Tuts 4 You](https://anonym.to/?https://tuts4you.com) - One of the oldest forums to discuss reversing related stuff.
 - [Webscene.ir](https://anonym.to/?https://webscene.ir/) - Can you crack it?!
+- [UX Underground](https://anonym.to/?https://vxug.fakedoma.in/archive.html)
 
 **[`^        back to top        ^`](#readme)**
 
