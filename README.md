@@ -3888,7 +3888,6 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 - [USB Keystroke Injection Protection](https://anonym.to/?https://opensource.googleblog.com/2020/03/usb-keystroke-injection-protection.html)
 - [USB Keyboard Guard](https://anonym.to/?https://www.gdata.de/de-usb-keyboard-guard)
 
-
 **[`^        back to top        ^`](#readme)**
 
 
@@ -3929,6 +3928,11 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 - [diablo2oo2's Universal Patcher [dUP]](https://anonym.to/?https://github.com/anomous/diablo2oo2-s-Universal-Patcher-dUP-Windows)
 - [AT4RE Patcher](https://anonym.to/?https://webscene.ir/distro/AT4RE/Tools)
 
-**[`^        back to top        ^`](#readme)*
+**[`^        back to top        ^`](#readme)**
 
 
+## SIM Spoofing
+- [Background Info](https://anonym.to/?https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted)
+- [Secure SIM](https://anonym.to/?hhttps://www.securesims.com/product/secure-sim-cards/)
+
+**[`^        back to top        ^`](#readme)**
