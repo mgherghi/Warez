@@ -309,6 +309,12 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 **[`^        back to top        ^`](#)**
 
 
+## Clean Telegram Channels/Groups automatically
+- [TGClean](https://anonym.to/?https://github.com/FriendlyNeighborhoodShane/TGClean)
+
+**[`^        back to top        ^`](#)**
+
+
 ## Google Drive Bots uploads to Telegram
 - [Bhadoo Public Leech Group](https://t.me/joinchat/Hp0WEQ9Fzdxbi9v_ZUOdRw)
 - [FreeTorrentDownloader](https://anonym.to/?ttps://t.me/FreeTorrentDownloader)
