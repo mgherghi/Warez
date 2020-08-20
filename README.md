@@ -1457,6 +1457,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [sharespark](https://anonym.to/?https://sharespark.me/) - Bollywood movies, tv shows, international movies, OST, Music and other soundtracks.
 - [CHICFASR Blog](https://anonym.to/?https://chicfasr491.weebly.com/) - Blog who links to Adobe and other Software & Music related products.
 - [scene-rls](https://anonym.to/?https://scene-rls.net/) -Scene releases via file-hoster.
+- [appnee](https://free.appnee.com/) - Software cracks.
 
 **[`^        back to top        ^`](#readme)**
 
