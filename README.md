@@ -357,8 +357,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Roshans mirror](https://anonym.to/?https://drive.roshansmirror.workers.dev/) - Movies, Series, eBooks etc.
 - [go.zgh](https://anonym.to/?https://go.zgh.workers.dev/) - Movies & Animes.
 - [Viper CLoud](https://anonym.to/?https://com.tdbot5.workers.dev/4:/) - Various Movies.
-- [keralamirrorbot](https://keralamirrorbot.personalbot.workers.dev/)
-- [bot13](https://bot13.skyrim.workers.dev/)
+- [keralamirrorbot](https://anonym.to/?https://keralamirrorbot.personalbot.workers.dev/)
+- [bot13](https://anonym.to/?https://bot13.skyrim.workers.dev/)
+- [lightztd](https://anonym.to/?https://drive.lightztd.workers.dev/)
 
 **[`^        back to top        ^`](#readme)**
 

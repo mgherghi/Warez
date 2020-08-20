@@ -304,6 +304,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@gduploadbot](https://anonym.to/?https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
 - [@seedboxSL](https://anonym.to/?https://t.me/seedboxSL)
 - [Google-Drive-Uploader](https://anonym.to/?https://github.com/aryanvikash/Google-Drive-Uploader) - Telegram bot To upload Files To Google Drive Remotely [@gdriveupme_bot](https://anonym.to/?https://t.me/gdriveupme_bot).
+- [Upload to Google Drive Bot](https://anonym.to/?https://elements.heroku.com/buttons/justine72/u2gd_bot_source)
 
 **[`^        back to top        ^`](#)**
 
