@@ -310,7 +310,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 
 
 ## Clean Telegram Channels/Groups automatically
-- [TGClean](https://anonym.to/?https://github.com/FriendlyNeighborhoodShane/TGClean)
+- (https://anonym.to/?https://github.com/FriendlyNeighborhoodShane/TGClean)
 
 **[`^        back to top        ^`](#)**
 
@@ -658,6 +658,7 @@ An overview of Telegram Bots, Channels and scripts can be found via the [telegra
 - [@PerspectiveIX](https://anonym.to/?https://t.me/PerspectiveIX) - Similar like ControllerBot.
 - [@Markento](https://anonym.to/?https://t.me/rippadminbot) - Group Management made easy.
 - [telegram-moderator](https://anonym.to/?https://github.com/OriginProtocol/telegram-moderator) - Telegram bot for controlling spam, logging, and more.
+- [@rSophieBot](https://anonym.to/?https://t.me/rSophieBot) + [Wiki](https://anonym.to/?https://wiki.sophiebot.gq/en/home) - Alternative to Miss. Rose Bot.
 
 **[`^        back to top        ^`](#)**
 
