@@ -360,6 +360,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [keralamirrorbot](https://anonym.to/?https://keralamirrorbot.personalbot.workers.dev/)
 - [bot13](https://anonym.to/?https://bot13.skyrim.workers.dev/)
 - [lightztd](https://anonym.to/?https://drive.lightztd.workers.dev/)
+- [archivists](https://anonym.to/?hhttps://arc10.archivists.workers.dev/0:/)
 
 **[`^        back to top        ^`](#readme)**
 
