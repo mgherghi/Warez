@@ -331,6 +331,7 @@
 
 ## rClone Tutorials
 - [Gclone Preliminary Guide (Read this first before going to the other guide) (Window)](https://anonym.to/?https://telegra.ph/Gclone-Preliminary-Guide-Read-this-first-before-going-to-the-other-guide-Window-05-07)
+- [Rclone Guide for Beginners](https://anonym.to/?https://telegra.ph/Rclone-Guide-for-Beginners-04-15)
 
 **[`^        back to top        ^`](#)**
 
