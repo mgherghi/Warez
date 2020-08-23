@@ -2393,6 +2393,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - ThePirateBay's collection of AudioBooks.
 - [Tokybook](https://anonym.to/?https://tokybook.com/) - Yet another free audiobook streaming site.
 - [b-ok](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. Claims to be the world's largest ebook library.
+- [akniga](https://anonym.to/?https://akniga.org/) - (`RU`) - Russian Audiobooks.
 
 
 ### Science Books
