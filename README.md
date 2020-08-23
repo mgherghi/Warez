@@ -598,6 +598,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 <!-- markdown-link-check-enable -->
 - [Nintendo Leak](https://anonym.to/?https://docs.google.com/document/d/176d5yx2GtWDudFNQW4mJC8QYE1B4uJdhk0HD45nandU/preview?pru=AAABc6cPnj4*yVul1DG__D4CrbOdlj0cpw) - Source Code, Tools, Games & More.
 - [Game Boy Advance ROMs](https://anonym.to/?https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) -Community based collection of GBA ROMs.
+- [Almost Complete Nintendo Rom and ISO Collection](https://anonym.to/?https://web.archive.org/web/20181225043752if_/https://www.reddit.com/r/Roms/comments/98rskb/almost_complete_nintendo_rom_and_iso_collection/)
 
 **[`^        back to top        ^`](#readme)**
 
