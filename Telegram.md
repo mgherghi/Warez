@@ -1,7 +1,3 @@
-### Telegram Media Downloader Browser Extensions
-- [Telegram Media Downloader](https://anonym.to/?https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Bypass the 1.5 GB download limit and scrape channels/groups.
-
-
 ### Telegram Unblock Proxies (for countries with Telegram Ban)
 - telegram.ind.in
 - web.telegram.ind.in
