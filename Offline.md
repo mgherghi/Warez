@@ -66,7 +66,8 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 * Masterani.me
 * Kissasian.com
 * anime.sch.id
-
+* kissanime.ru
+* kissmanga.com
 
 ## Music
 * mp3-monkey.com

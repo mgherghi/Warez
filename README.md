@@ -2563,7 +2563,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 ## Manga
 - [/r/manga](https://anonym.to/?https://www.removeddit.com/r/manga) - Everything and anything manga!
-- [KissManga](https://anonym.to/?https://kissmanga.com/) - (`insecure`) - Another manga website.
 - [Madokami 0-E](https://anonym.to/?https://archive.org/download/Madokami.Manga.0-E) - Download manga titles named 0 to E.
 - [Madokami F-K](https://anonym.to/?https://archive.org/download/Madokami.Manga.F-K) - Download manga titles named F to K.
 - [Madokami L-Q](https://anonym.to/?https://archive.org/download/Madokami.Manga.L-Q) - Download manga titles named L to Q.
