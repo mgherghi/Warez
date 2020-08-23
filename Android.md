@@ -92,6 +92,9 @@ TCP Port: 853
 - [IDM+](https://anonym.to/?https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ is the fastest and most advanced download manager (with Torrent download support) available on android.
 
 
+## Google Play Store APi Spoofing
+- [Gcam-Services-Provider](https://anonym.to/?https://github.com/lukaspieper/Gcam-Services-Provider) - App faking only the absolute necessary Apis to use Gcam without Play Services
+
 
 ## F-Droid
 
