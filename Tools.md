@@ -393,6 +393,7 @@ Downloads albums in bulk.
 - [youtube-dl](https://anonym.to/?http://ytdl-org.github.io/youtube-dl/index.html) - youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [TheFrenchGhostys YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
 - [YoutubeDownloader](https://anonym.to/?https://github.com/ShimmyMySherbet/YoutubeDownloader) -  A Music downloader with Spotify integration for automatic metadata application.
+- [ytmdl](https://anonym.to/?https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from youtube in mp3 format with artist name, album name etc from itunes, gaana etc.
 
 
 ### YouTube Channel Blocker
