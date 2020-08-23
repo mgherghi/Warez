@@ -135,7 +135,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [predb](https://anonym.to/?https://predb.me/)
 - [d00per](https://anonym.to/?https://www.d00per.com/dupe)
 - [pre.c-burns.co](https://anonym.to/?http://pre.c-burns.co.uk/pre.php)
-- [pre.corrupt-net](https://anonym.to/?hhttps://pre.corrupt-net.org/) + [Mirror](https://anonym.to/?https://pr3.us/)
+- [pre.corrupt-net](https://anonym.to/?https://pre.corrupt-net.org/) + [Mirror](https://anonym.to/?https://pr3.us/)
 - [srrDB](https://anonym.to/?https://www.srrdb.com/)
 
 **[`^        back to top        ^`](#readme)**
@@ -830,7 +830,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [TorrentLeech](https://anonym.to/?https://www.torrentleech.org/) - Movies, Music & More.
 - [empornium](https://anonym.to/?https://www.empornium.me/) - Adult tracker.
 - [ncore](https://anonym.to/?https://ncore.cc/login.php) - Another adult private tracker.
-- [Tikol4Life](https://anonym.to/?hhttps://tikol4life.ngrok.io/auth.php)
+- [Tikol4Life](https://anonym.to/?https://tikol4life.ngrok.io/auth.php)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -1507,7 +1507,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Mvgroup Forum](https://anonym.to/?https://forums.mvgroup.org/) - Documentaries & Movies.
 - [YMP4](https://anonym.to/?https://ymp4.download/) - Download videos from Youtube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [mp3pro.xyz](https://anonym.to/?https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
-- [YouTube™ Uploader for Dropbox, Drive](https://anonym.to/?hhttps://imclient.herokuapp.com/youtubeupload/) - This app allows you to upload Dropbox, MS OneDrive, Google Drive, Local Computer video files to YouTube directly. You can upload your video files to YouTube in batches and very easily without using YouTube web interface.
+- [YouTube™ Uploader for Dropbox, Drive](https://anonym.to/?https://imclient.herokuapp.com/youtubeupload/) - This app allows you to upload Dropbox, MS OneDrive, Google Drive, Local Computer video files to YouTube directly. You can upload your video files to YouTube in batches and very easily without using YouTube web interface.
 - [youtube-dl-gui](https://anonym.to/?https://mrs0m30n3.github.io/youtube-dl-gui/) - Download your favorite videos.
 - [Youtube Multi Downloader Online](https://anonym.to/?https://youtubemultidownloader.net/) - Youtube Multi Downloader is always free for education purpose, keep in mind that we don't allow download copyrighted content.
 
@@ -1740,7 +1740,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [WowroMs](https://anonym.to/?https://wowroms.com/) - Various ROMs collection.
 - [Ziperto](https://anonym.to/?https://www.ziperto.com/) - Nintendo 3ds CIA files, especially for JRPGs.
 - [Smwcentral](https://anonym.to/?https://www.smwcentral.net/) - Mainly Super Mario (Kaizo) ROMs.
-- [ROMsForEver](https://anonym.to/?hhttps://romsforever.co/) - Download ROMs and ISOs of Nintendo, Playstation, XBOX…
+- [ROMsForEver](https://anonym.to/?https://romsforever.co/) - Download ROMs and ISOs of Nintendo, Playstation, XBOX…
 - [Rom Center paste edition](https://anonym.to/?https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - Paste edition from the original [ROM's MegaThread](https://anonym.to/https://old.reddit.com/r/Roms/comments/gar3bc/roms_megathread), basically a lin/archive collection of various game console ROMs.
 - [VIMM](https://anonym.to/?https://vimm.net/) - The site is dedicated to nostalgia for many of the greatest game consoles ever made. Inside you'll find thousands of games, full-color manual scans, user ratings and reviews, and much more!
 - [CIRCA ROMs](https://anonym.to/?https://circa.im/roms/) - Yet another Emulator ROM collection.
@@ -2393,7 +2393,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [ThePirateBay](https://anonym.to/?https://www.thepiratebay.org/browse/102) - ThePirateBay's collection of AudioBooks.
 - [Tokybook](https://anonym.to/?https://tokybook.com/) - Yet another free audiobook streaming site.
 - [b-ok](https://anonym.to/?https://b-ok.org/) - Part of Z-Library project. Claims to be the world's largest ebook library.
-- [akniga](https://anonym.to/?https://akniga.org/) - (`RU`) - Russian Audiobooks.
+- [](https://anonym.to/?https://akniga.org/) - (`RU`) - Russian Audiobooks.
 
 
 ### Science Books
@@ -3362,8 +3362,9 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 **[`^        back to top        ^`](#readme)**
 
+
 ## Image downloader (tools & websites)
-- [Dezoomify](https://anonym.to/?https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://anonym.to/?https://github.com/lovasoa/dezoomify/) - Download zoomable images.
+- [Dezoomify](https://anonym.to/?https://ophir.alwaysdata.net/dezoomify/dezoomify.html) & [Source](https://anonym.to/?https://github.com/lovasoa/dezoomify/) - Download images from websites using Zoomify, Deep Zoom, and other zoomable image formats.
 - [Downloader.la](https://anonym.to/?https://downloader.la/) - Download pictures and videos from various platforms such as iStock, PicFair, Adobe Stock, alamy, shutterstock, LovePik, PicFair and other providers.<!-- markdown-link-check-disable -->
 - [MyImgur](https://anonym.to/?http://myimgur.eden.fm/) - Most handy capture and uploader tool you'll ever find for Windows computers.<!-- markdown-link-check-enable -->
 - [DroidIris+](https://anonym.to/?https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
@@ -3504,6 +3505,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 ### Google Analytics
 - [Mamoto](https://anonym.to/?https://matomo.org/) - Open source alternative to Google's Analytics.
 - [Go Access](https://anonym.to/?https://goaccess.io/) - Yet another open source alternative.
+- [umami](https://anonym.to/?https://umami.is/docs/) - + [Source Code](https://anonym.to/?https://github.com/mikecao/umami)
 
 
 ### Google form builder
@@ -3793,7 +3795,7 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 
 ## SIM Spoofing
 - [Background Info](https://anonym.to/?https://www.vice.com/en_us/article/n7w9pw/russian-sims-encrypted)
-- [Secure SIM](https://anonym.to/?hhttps://www.securesims.com/product/secure-sim-cards/)
+- [Secure SIM](https://anonym.to/?https://www.securesims.com/product/secure-sim-cards/)
 
 **[`^        back to top        ^`](#readme)**
 
@@ -3805,6 +3807,6 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 
 
 ## Business Name Generator
-- [Nameflix](https://anonym.to/?hhttps://namelix.com/) - Generate a short, brandable business name using artificial intelligence.
+- [Nameflix](https://anonym.to/?https://namelix.com/) - Generate a short, brandable business name using artificial intelligence.
 
 **[`^        back to top        ^`](#readme)**
