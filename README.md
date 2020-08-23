@@ -2416,6 +2416,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [maxwell.faotas](https://anonym.to/?https://maxwell.faotas.info/) - Hindi ebooks.
 - [novanon](https://anonym.to/?https://novanon.net) - Ebooks & More.
 - [Memory of the world](https://anonym.to/?hhttp://library.memoryoftheworld.org) - A new website containing a lot of books.
+- [TuxDoc](https://anonym.to/?https://tuxdoc.com/) - + [Mirror](https://anonym.to/?https://kovi.love/) - Communty based service for documents.
 
 **[`^        back to top        ^`](#readme)**
 
