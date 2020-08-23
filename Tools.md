@@ -1154,6 +1154,7 @@ Overall strategy:
 
 ## Scribd Tools
 - [SCRIMTEC](https://anonym.to/?https://github.com/BELGRADE-OUTLAW/SCRIMTEC) - SCRIbd MPUB To EPUB Converter.
+- [ScribDL](https://anonym.to/?https://github.com/JMdoubleU/ScribDL) - scribd.com document downloader.
 
 **[`^        back to top        ^`](#)**
 
