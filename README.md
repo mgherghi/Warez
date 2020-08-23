@@ -92,6 +92,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [List of websites blocked in the United Kingdom](https://anonym.to/?https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom)
 - [Who Watches the Watchmen: Exploring Complaints on the Web](https://anonym.to/?https://arxiv.org/abs/1902.05796)
 - [GitHub Takes Down Pirate Streaming App ‘King Club’ Following MPA Complaint](https://anonym.to/?https://torrentfreak.com/github-takes-down-pirate-streaming-app-king-club-following-mpa-complaint-200819/)
+- [Anti-Piracy Outfit Hires VPN Expert to Help Track Down The Pirate Bay](https://torrentfreak.com/anti-piracy-outfit-hires-vpn-expert-to-help-track-down-the-pirate-bay-200821/#tf-comments)
 
 **[`^        back to top        ^`](#readme)**
 
