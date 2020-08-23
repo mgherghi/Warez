@@ -3801,3 +3801,8 @@ Keep in mind that you can lock yourself out if you're whitelisted keybord is unf
 
 **[`^        back to top        ^`](#readme)**
 
+
+## Business Name Generator
+- [Nameflix](https://anonym.to/?hhttps://namelix.com/) - Generate a short, brandable business name using artificial intelligence.
+
+**[`^        back to top        ^`](#readme)**
