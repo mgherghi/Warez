@@ -1879,6 +1879,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Vimm's Lair](https://anonym.to/?https://vimm.net/?p=vault) - Large collection of ROMs.
 - [WowroMs](https://anonym.to/?https://wowroms.com/) - Various ROMs collection.
 - [Ziperto](https://anonym.to/?https://www.ziperto.com/) - Nintendo 3ds CIA files, especially for JRPGs.
+- [Smwcentral](https://anonym.to/?https://www.smwcentral.net/) - Mainly Super Mario (Kaizo) ROMs.
 
 **[`^        back to top        ^`](#readme)**
 
