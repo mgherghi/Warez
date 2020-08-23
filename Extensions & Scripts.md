@@ -396,3 +396,9 @@ There is a universal rule for Android:
 - [Bulk Renamer for Drive (web-based)](https://anonym.to/?http://driverename.iblogbox.com/)
 
 **[`^        back to top        ^`](#)**
+
+
+## Google Drive related Scripts
+- [rclone_mount.py](https://anonym.to/?https://gist.github.com/smartass08/380b6ab0f22ff5f2c6247a9e06327b2a) - A mount script which will fetch all your TeamDrives using service account and mount it using rclone mount.
+
+**[`^        back to top        ^`](#)**

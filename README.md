@@ -1943,7 +1943,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [Anime Kaizoku](https://anonym.to/?https://www2.animekaizoku.com/) - Up to 1080p DDL links, mostly delivered via Google Drive.
 - [Anime Kayo](https://anonym.to/?https://animekayo.com/) - 1080p DDL links, mostly delivered via Google Drive
 - [Anime Twist](https://anonym.to/?https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
-- [animEncodes](https://anonym.to/?https://www.animencodes.com/) - Anime sharing page.
+- [animEncodes](https://anonym.to/?https://www.animencodes.com/) - Anime community driven sharing website.
 - [Anime-Loards.org](https://www.anime-loads.org) - Anime sharing page.
 - [AnimeOut](https://anonym.to/?https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
 - [GoGo Anime](https://anonym.to/?https://www3.gogoanime.in/) - Popular website for watching anime.
