@@ -597,6 +597,7 @@ I do not accept any donations or add sponsorship button into this repository. Th
 - [msdn.hackerc.at](https://anonym.to/?https://msdn.hackerc.at/) - Windows Software dump.
 <!-- markdown-link-check-enable -->
 - [Nintendo Leak](https://anonym.to/?https://docs.google.com/document/d/176d5yx2GtWDudFNQW4mJC8QYE1B4uJdhk0HD45nandU/preview?pru=AAABc6cPnj4*yVul1DG__D4CrbOdlj0cpw) - Source Code, Tools, Games & More.
+- [Game Boy Advance ROMs](https://anonym.to/?https://drive.google.com/drive/folders/1pCXaEjukH0NsTsSCb1F0hNbjs8_-LMXf) -Community based collection of GBA ROMs.
 
 **[`^        back to top        ^`](#readme)**
 
