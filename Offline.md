@@ -50,7 +50,7 @@ Based on "[Scammers Hit Pirate Game Sites With "irreversible" Google Takedowns](
 * Pirate.ws
 * Moonwalk.cc
 * anskip.tv
-* 123movieshub.to/123movies
+* 123movieshub.to
 * yify.bz
 * ganool.ac
 * go90.com

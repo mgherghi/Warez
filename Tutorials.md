@@ -11,6 +11,12 @@
 **[`^        back to top        ^`](#)**
 
 
+## Video Downloader Guides
+- [Video downloading tutorial for nearpeer](https://anonym.to/?https://www.reddit.com/r/Piracy/comments/idrkks/video_downloading_tutorial_for_nearpeer/) - Mini tutorial on how to download videos from nearpeer.com.
+
+**[`^        back to top        ^`](#)**
+
+
 ## Blizzard
 - [For anyone looking for the actual classic Warcraft 3 installers (not Battle.net launcher nor Reforged)](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/)
 

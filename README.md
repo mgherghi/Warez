@@ -2560,7 +2560,6 @@ I do not accept any donations or add sponsorship button into this repository. Th
 
 **[`^        back to top        ^`](#readme)**
 
-
 ## Manga
 - [/r/manga](https://anonym.to/?https://www.removeddit.com/r/manga) - Everything and anything manga!
 - [Madokami 0-E](https://anonym.to/?https://archive.org/download/Madokami.Manga.0-E) - Download manga titles named 0 to E.
