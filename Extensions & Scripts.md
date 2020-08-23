@@ -400,5 +400,6 @@ There is a universal rule for Android:
 
 ## Google Drive related Scripts
 - [rclone_mount.py](https://anonym.to/?https://gist.github.com/smartass08/380b6ab0f22ff5f2c6247a9e06327b2a) - A mount script which will fetch all your TeamDrives using service account and mount it using rclone mount.
+- [Video Dictionary, YouTube Dictionary](https://anonym.to/?https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%221ekU2dFhgaKLovRdZLPQRXSOm4R2eVXwt%22%5D,%22action%22:%22open%22,%22userId%22:%22{userId}%22%7D) - Get a video, audio file from Google Drive, and Play the file directly.
 
 **[`^        back to top        ^`](#)**
