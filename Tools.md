@@ -510,7 +510,19 @@ Downloads albums in bulk.
 - [gallery-dl](https://anonym.to/?http://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [How to download paid fonts for free](https://anonym.to/?http://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
 - [Pirating Adobe CC for Dummies](https://anonym.to/?http://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - detailed guide about pirating Adobe CC for Windows.
-- [All latest Adobe installers (working) June 2020](https://anonym.to/https://www.reddit.com/r/AdobeZii/comments/g4rnar/all_latest_adobe_installers_working/)
+- [All latest Adobe installers (working) June 2020](https://anonym.to/?https://www.reddit.com/r/AdobeZii/comments/g4rnar/all_latest_adobe_installers_working/)
+
+**[`^        back to top        ^`](#)**
+
+
+## (FOSS) Adobe Photoshop Alternatives
+- [PhotoDemon](https://anonym.to/?https://github.com/tannerhelland/PhotoDemon) - A free portable photo editor focused on pro-grade features, high performance, and maximum usability.
+- [Gimp](https://anonym.to/?https://www.gimp.org/) - GIMP is a free program for such photo retouching, image composition and image authoring. Essentially it's the closest thing to Photoshop you can get for free
+- [Affinity Photo](https://anonym.to/?https://affinity.serif.com/en-us/photo/) - (`Not FOSS`) - Affinity Photo is a professional, full-featured raster graphics editor.
+- [Krita](https://anonym.to/?https://krita.org/) - Krita is a complete creative sketching and painting application with advanced, commercial quality features. It's open-source and available across all major desktop platforms.
+- [Paint.NET](https://anonym.to/?http://www.getpaint.net/index.htm) - (`Not FOSS`) - Paint.net is a free and very capable image editing software for Windows. Great alternative to Photoshop for people that do not need all the stuff PS offers.
+- [Photopea](https://anonym.to/?https://www.photopea.com/) - (`Not FOSS + Website`) - Online photo editor, made with HTML5. Open, edit and save PSD and XCF - Photoshop and Gimp files. Convert between PSD, XCF, JPG, PNG and WebP.
+- [Pixlr](https://pixlr.com/) - (`Not FOSS + Website`) - Pixlr® makes it easy to transform everyday images into stunning works of art. Whether you’re applying a quick fix to your photos or adding your personal touch with effects, overlays, or borders, Pixlr has everything you need to make your moments beautiful.
 
 **[`^        back to top        ^`](#)**
 
