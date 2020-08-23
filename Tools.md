@@ -237,7 +237,7 @@ Downloads albums in bulk.
 - [uGet](https://anonym.to/?http://ugetdm.com/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
 - [uds - Unlimited Google Drive Storage by splitting binary files into base64](https://anonym.to/?http://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
 - [Uppy](https://anonym.to/?https://github.com/transloadit/uppy)- JavaScript file uploader that integrates seamlessly with any application.
-- [sharelock](https://anonym.to/?hhttps://github.com/auth0/sharelock) - + [Website](https://anonym.to/?https://sharelock.io/new) - Securely share data.
+- [sharelock](https://anonym.to/?https://github.com/auth0/sharelock) - + [Website](https://anonym.to/?https://sharelock.io/new) - Securely share data.
 
 **[`^        back to top        ^`](#)**
 
@@ -1212,6 +1212,13 @@ Overall strategy:
 
 
 ## ZippyShare
-- [zippyshare_generator](https://anonym.to/?hhttps://pypi.org/project/zippyshare-generator/) - Download ZippyShare automaticaly with "Internet Download Manager (IDM) for Windows or build in download manager.
+- [zippyshare_generator](https://anonym.to/?https://pypi.org/project/zippyshare-generator/) - Download ZippyShare automaticaly with "Internet Download Manager (IDM) for Windows or build in download manager.
 
+**[`^        back to top        ^`](#)**
+
+
+## Twitter Tools/Websites
+- [First Tweet](https://anonym.to/?https://irumble.com/firsttweet/) - Find the first time some text was tweeted.
+
+**[`^        back to top        ^`](#)**
 
