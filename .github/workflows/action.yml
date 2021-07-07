@@ -1,0 +1,25 @@
+# action.yml
+name: Check Markdown links
+# https://github.com/marketplace/actions/markdown-link-check
+on:
+  push:
+    branches:
+    - master
+  schedule:
+    - cron: '* */24 * * *'
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      with:
+#       folder-path: "docs"
+#       use-quiet-mode: 'yes'
+#       use-verbose-mode: 'yes'
+#       file-extension: '.md, .mdx'
+        max-depth: '2'
+#       check-modified-files-only: 'no'
+        config-file: '.github/workflows/ignoredlinks.json'
+#        folder-path: 'docs/markdown_files'

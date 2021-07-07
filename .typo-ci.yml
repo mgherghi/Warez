@@ -1,0 +1,159 @@
+# This is a sample .typo-ci.yml file, it's used to configure how Typo CI will behave.
+# Add it to the root of your project and push it to github.
+---
+
+# What language dictionaries should it use? Currently Typo CI supports:
+# de
+# en
+# en_GB
+# es
+# fr
+# it
+# pt
+# pt_BR
+dictionaries:
+  - en
+  - en_GB
+
+# Any files/folders we should ignore?
+excluded_files:
+  - "vendor/**/*"
+  - "node_modules/**/*"
+  - "*.key"
+  - "*.enc"
+  - "*.min.css"
+  - "*.css.map"
+  - "*.min.js"
+  - "*.js.map"
+  - "*.mk"
+  - "package-lock.json"
+  - "yarn.lock"
+  - "Gemfile.lock"
+  - ".typo-ci.yml"
+  - "/pdf/*.pdf"
+  - "/.vscode/*.settings.json"
+
+# Any typos we should ignore?
+excluded_words:
+  - Abby
+  - actions-makepdfs
+  - alamy
+  - Allostream
+  - AMD
+  - Animés
+  - Annuaire
+  - Annuaire-telechargement-fr
+  - autres
+  - CHEF-KOCH
+  - Cloudflare
+  - CODEX
+  - Comédie
+  - complets
+  - CompucaliTV
+  - cybermania
+  - Demoscene
+  - des
+  - devbots
+  - différents
+  - Discord
+  - Discord
+  - downeu
+  - dpstream
+  - Element
+  - file-sharing
+  - Filesharing
+  - Filmcomplet
+  - Filmz
+  - française
+  - gDrive
+  - GDrive
+  - Genration
+  - GIndex
+  - GoIndex
+  - Gooby
+  - Good-Old-Downloads
+  - Google
+  - Google Cloud
+  - gratuit
+  - gratuit
+  - Gratuit
+  - gsettings
+  - herbergeurs
+  - Horreur
+  - hoster
+  - Idope
+  - IGG
+  - Intel
+  - IzzyonDroid
+  - Kabel-Receiver
+  - kkiboeco
+  - Kkiste
+  - leecher
+  - les
+  - makepdfs
+  - mangas
+  - Matrix
+  - Megadede
+  - meme
+  - Microsoft
+  - mkrakowitzer
+  - mkvcagez
+  - Mobdro
+  - monkrus
+  - Movidy
+  - MultCloud
+  - Nachtfalke
+  - Netflix
+  - Nsane
+  - nVidia
+  - NZB
+  - Offline
+  - Papystreaming
+  - PCMYMJuegos
+  - Plex
+  - Public
+  - Razor
+  - rClone
+  - RClone
+  - Reddit
+  - Regarder
+  - remuxes
+  - repacker
+  - Riot
+  - rmz
+  - Rosco
+  - sélections
+  - Série
+  - Serie-Streaming
+  - séries
+  - Sokrostream
+  - SpaceX
+  - Spotify
+  - spyoungtech
+  - Steam
+  - SteamWorkFixs
+  - Streamcomplet
+  - szb
+  - SzeneBox
+  - téléchargement
+  - Threema
+  - Toorgle
+  - torrenting
+  - Trackers
+  - Tutorialspoint
+  - typoci
+  - voir
+  - votre
+  - Warez
+  - Warez-Scene
+  - WawaCity
+  - Wget
+  - Wikipedia
+  - Wikiserie
+  - XpoMusic
+  - yasdl
+  - ZippyShare
+
+
+# Would you like filenames to also be spellchecked?
+spellcheck_filenames: no
